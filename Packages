@@ -264,10 +264,10 @@ Architecture: iphoneos-arm
 Maintainer: Aqua Wu <igameguardian@gmail.com>
 Installed-Size: 1700
 Filename: ./debs/apktw.idv.aqua.igameguardian.beta_7.0.1.APKTW_iphoneos-arm.deb
-Size: 652808
-MD5sum: 376c1c658c9cf996f3e5f22b66d3fd4a
-SHA1: a13f149238873dbb795251c174d72ecc08f3b8a0
-SHA256: 3f23194d5739680777d8d9677f7ad91f54101ec8d76a1fc7feaadb6dbf0f2b1e
+Size: 652810
+MD5sum: 700c28ca8a2d7afd2cefc714f3aa3c33
+SHA1: 5c7114b6db210ca41bf5a048266bfbc32f395f5c
+SHA256: 1256e3b57cfec5bd8c43282ec40a5182d7baa689754c3d4fda0808bdabff0c14
 Section: Tweaks
 Priority: optional
 Homepage: http://apk.tw/
@@ -275,7 +275,7 @@ Description: iGameGuardian is a game cheating engine for iOS 6.x/7.x/8.x/9.x
 Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
 Author: Aqua Wu <igameguardian@gmail.com>
 Depiction: https://apktw.github.io/depictions/?p=apktw.idv.aqua.iGameGuardian.Beta
-Name: iGameGuardian
+Name: iGameGuardian Beta
 
 Package: apktw.kr.typostudio.tsprotector8
 Version: 1.0-1
