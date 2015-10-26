@@ -1,0 +1,12 @@
+Package: tw.apk.testpackage
+Name: TESTING PACKAGE
+Version: 1.0
+Architecture: iphoneos-arm
+Depends:
+Conflicts:
+Description: This is a testing packae, do not install!
+Homepage: http://apk.tw/
+Depiction: https://apktw.github.io/depictions/?p=tw.apk.testpackage
+Maintainer: Mahmood Ma
+Author: Mahmood Ma
+Section: Tweaks
