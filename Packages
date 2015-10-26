@@ -1,0 +1,440 @@
+Package: apktw.com.a3tweaks.auxo-le
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: thebigboss.org <http://thebigboss.org>
+Installed-Size: 900
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001), applist (>= 1.5.9), preferenceloader (>= 2.2.2)
+Conflicts: com.rpetrich.sectional
+Replaces: com.rpetrich.sectional
+Filename: ./debs/apktw.com.a3tweaks.auxo-le_1.0.6_iphoneos-arm.deb
+Size: 421732
+MD5sum: ae853af791520a842937ac9e201b5a09
+SHA1: 0fcb5e00d2c50f1361c8fb98a76c7009627885fb
+SHA256: 674df6725f2c250fb9f269eaeedf78e531fdad89025e1fc14fd3049a7dd222bb
+Section: Tweaks
+Homepage: http://apk.tw/
+Description: A modern app switcher in control center
+Tag: cydia::commercial
+Author: A3Tweaks <auxole-support@a3tweaks.com>
+Depiction: https://apktw.github.io/depictions/?p=apktw.com.a3tweaks.auxo-le
+Dev: rpetrich
+Name: Auxo Legacy Edition
+
+Package: apktw.com.booleanmagic.displayrecorder
+Version: 1.3.19
+Architecture: iphoneos-arm
+Maintainer: Ryan Petrich <rpetrich+displayrecorder@gmail.com>
+Installed-Size: 2464
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libactivator (>= 1.9.1), gdata-objectivec-client | firmware (>= 7.0), firmware (>= 3), openssl, firmware (<< 9.9), com.rpetrich.rocketbootstrap (>= 1.0.1) | firmware (<< 7.0), com.a3tweaks.flipswitch (>= 1.0.5)
+Filename: ./debs/apktw.com.booleanmagic.displayrecorder_1.3.19_iphoneos-arm.deb
+Size: 906324
+MD5sum: 7300b5f5ad79de08b24c02e3e5bd12c6
+SHA1: a47463394056896a8cefc05fb0a53fd2520c7953
+SHA256: 751affeb45ae6c4679c44ccbfea47a1c798bc1f39d117149b4c2825e1e714380
+Section: System
+Description: Record the display in real-time, send to camera roll, web interface, ProTapper-style touch circles and Activator integration
+Tag: cydia::commercial
+Author: Ryan Petrich <rpetrich+displayrecorder@gmail.com>
+Depiction: https://apktw.github.io/depictions/?p=apktw.com.booleanmagic.displayrecorder
+Dev: rpetrich
+Name: Display Recorder
+Website: http://apk.tw/
+
+Package: apktw.com.exile90.icleanerpro
+Version: 7.5.0
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Pre-Depends: apt, findutils, shell-cmds
+Depends: firmware (>= 4.0)
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/apktw.com.exile90.icleanerpro_7.5.0_iphoneos-arm.deb
+Size: 2841026
+MD5sum: 794034a057d50ff5dd743dae09314661
+SHA1: 1be366c9b11245303bf8d0c7f673affbd1ad4683
+SHA256: ac24243b7a4e8fba013c4f84407d5c15863f18e90fbda466e9314b559ad17598
+Section: Utilities
+Homepage: http://apk.tw/
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: https://apktw.github.io/depictions/?p=apktw.com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
+Package: apktw.com.fuyuchi.flex2
+Version: 1.990
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 7011
+Depends: firmware(>= 5.1), mobilesubstrate (>= 0.9.5000), firmware (<< 7.0) | com.rpetrich.rocketbootstrap (>= 1.0)
+Conflicts: Flexpackage, Flexpackagebeta, FlexiOS7packagebeta, com.fuyuchi.flex, com.fuyuchi.flex2, Flex2package
+Replaces: Flexpackage, Flexpackagebeta, FlexiOS7packagebeta, com.fuyuchi.flex, com.fuyuchi.flex2, Flex2package
+Filename: ./debs/apktw.com.fuyuchi.flex2_1.990_iphoneos-arm.deb
+Size: 2417572
+MD5sum: f519875c8b4d629f04d5721475160a3c
+SHA1: d0578247e1d47f547b590b3dad1866a1ed6ff90c
+SHA256: 1d69fd451c339b1bd03288975e68deabafe65fc7349c8a6c07e2a5597adb16a5
+Section: Tweaks
+Homepage: http://apk.tw/
+Description: Easily make your own tweaks, and share them on the Flex Community Cloud.
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Author: John Coates <acapulco1988@gmail.com>
+Depiction: https://apktw.github.io/depictions/?p=apktw.com.fuyuchi.flex2
+Dev: acapulco1988
+Icon: file:///Applications/Flex.app/Icon.png
+Name: Flex 2
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: apktw.com.gx5.onehandwizard
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1514
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader (>= 2.2.2), libactivator | cy+model.iphone(>> 6)
+Filename: ./debs/apktw.com.gx5.onehandwizard_1.0.4_iphoneos-arm.deb
+Size: 924392
+MD5sum: 2e689e4792eaf628d6f4edb6d4662ec2
+SHA1: 4099f18e8098b16f28f348327eca08c6833f30cd
+SHA256: 5bf9a7ed2e12bdd673fa8ec03a9b7bdec35251377b034ddddddbb24b1054a2fc
+Section: Tweaks
+Priority: optional
+Homepage: http://apk.tw/
+Description: enjoy your phone using one hand
+Tag: purpose::extension, cydia::commercial, compatible::ios8
+Author: @TheAfricanNerd and sharedRoutine <support@gx-5.com>
+Depiction: https://apktw.github.io/depictions/?p=apktw.com.gx5.onehandwizard
+Dev: onehandwizard
+Icon: file:///Applications/OneHandWizardApp.app/AppIcon60x60.png
+Name: OneHandWizard
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: apktw.com.kdfly.ibox
+Version: 1.1.8-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 809
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libstatusbar
+Conflicts: com.kdfly.kdlte4g, com.kdfly.kdlte4gpro
+Filename: ./debs/apktw.com.kdfly.ibox_1.1.8-1_iphoneos-arm.deb
+Size: 265308
+MD5sum: f9d8ba644ae47ff64163599ca1b6c3ab
+SHA1: e401488e0f465fe6699f063dc08fa4da108bc72a
+SHA256: d6ca965f8686064b0e1e0b5d99355b0b1a3fa319ab134cfad52eb301d5423688
+Section: Tweaks
+Homepage: http://apk.tw/
+Description: iBox for iOS8是一款增强iOS使用体验的多功能插件，通过集成各种实用的功能，iBox会为大家提供更好的iOS增强体验。
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Author: Sean Young <sheepkx@qq.com>
+Depiction: https://apktw.github.io/depictions/?p=apktw.com.kdfly.ibox
+Dev: kdfly
+Icon: file:///Library/PreferenceBundles/iBoxSettings.bundle/iBox@2x.png
+Name: iBox
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: apktw.com.ouraigua.safaridownloaderplus
+Version: 4.0.3-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 20012
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.ouraigua.jodebox (>= 2.0.1)
+Conflicts: net.howett.safaridownloader, com.ouraigua.safaridownloader
+Replaces: com.ouraigua.safaridownloader
+Filename: ./debs/apktw.com.ouraigua.safaridownloaderplus_4.0.3-1_iphoneos-arm.deb
+Size: 15668100
+MD5sum: 0e3581caf816c95f9d5e0411ded57198
+SHA1: 95aced4afc098f1bd9603160a4d54903e5c10af8
+SHA256: 001eba8437d181414b72245e1a84c3bc13aec8cfb5de969c68ec8d87cac973dd
+Section: Tweaks
+Homepage: http://apk.tw/
+Description: Powerful Youtube & Download Manager for Safari.
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Author: Jalal Ouraigua <ouraigua@me.com>
+Depiction: https://apktw.github.io/depictions/?p=apktw.com.ouraigua.safaridownloaderplus
+Dev: ouraigua
+Icon: file:///Library/PreferenceBundles/SafariDownloaderPrefs.bundle/icon@2x.png
+Name: Safari Downloader+
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: apktw.com.rpetrich.biolockdown
+Version: 1.2.14
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 952
+Depends: mobilesubstrate (>= 0.9.5001), firmware (>= 6.0), preferenceloader (>= 2.2.2), applist (>= 1.5.9), com.a3tweaks.flipswitch (>= 1.0.5), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.w00tylab.virtualhome (<< 1.1.1), net.limneos.bioprotect
+Replaces: com.w00tylab.virtualhome (<< 1.1.1), net.limneos.bioprotect
+Filename: ./debs/apktw.com.rpetrich.biolockdown_1.2.14_iphoneos-arm.deb
+Size: 345224
+MD5sum: b6d189d98c803e206697db662837eea1
+SHA1: 04d9c94cabc7c496047016364f7de817fad3f9e7
+SHA256: acab9f801f46906030838616b95a1dd7321cd58d6a583fdcf95b9a28a3bb6a43
+Section: Tweaks
+Description: Fingerprint lock apps, settings & switches
+Tag: cydia::commercial
+Author: Ryan Petrich <rpetrich+biolockdown@gmail.com>
+Depiction: https://apktw.github.io/depictions/?p= apktw.com.rpetrich.biolockdown
+Dev: rpetrich
+Name: BioLockdown
+Website: http://apk.tw/
+
+Package: apktw.com.rpetrich.grabby
+Version: 1.3.10
+Architecture: iphoneos-arm
+Maintainer: Ryan Petrich <rpetrich+grabby@gmail.com>
+Installed-Size: 700
+Depends: mobilesubstrate (>= 0.9.5001), firmware (>= 5.1), preferenceloader (>= 2.2.2), libactivator (>= 1.9.1), com.a3tweaks.flipswitch
+Conflicts: me.adambell.stride, de.neorame.noisy (<= 1.2), com.nickf.anylockapp, com.nickf.cameralocker, com.myrepospace.maxkatzmann.jellylock, com.a3tweaks.axis
+Replaces: me.adambell.stride, de.neorame.noisy (<= 1.2), com.nickf.anylockapp, com.nickf.cameralocker, com.myrepospace.maxkatzmann.jellylock, com.a3tweaks.axis
+Filename: ./debs/apktw.com.rpetrich.grabby_1.3.10_iphoneos-arm.deb
+Size: 242896
+MD5sum: 6d53e2a21dc6099592df8512ebd4b873
+SHA1: 534d340679c5e6a9af4c5a2b7813eb72ff938f93
+SHA256: 6175164920eef9a3080afb17df9654c63b3f2c659a0c96439a3cc0ed6106dc50
+Section: Tweaks
+Description: Customizable camera grabber
+Tag: cydia::commercial
+Author: Ryan Petrich <rpetrich+grabby@gmail.com>
+Depiction: https://apktw.github.io/depictions/?p=apktw.com.rpetrich.grabby
+Dev: rpetrich
+Icon: file:///Applications/Preferences.app/Camera.png
+Name: Grabby
+Website: http://apk.tw/
+
+Package: apktw.com.rpetrich.videopane
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1196
+Depends: mobilesubstrate (>= 0.9.5001), firmware (>= 5.0), preferenceloader (>= 2.2.2), libactivator (>= 1.9.5), applist (>= 1.5.9), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Filename: ./debs/apktw.com.rpetrich.videopane_2.0.2_iphoneos-arm.deb
+Size: 355764
+MD5sum: f2edfea37b308ccbb5024289491dd4e2
+SHA1: 461c6204402d7ff2740eceec1870ec78bf6bbf67
+SHA256: 3e2ee02113756bc4f043560d00b81a22c367d50588fbe1df4e8d22f93b5fafba
+Section: Tweaks
+Description: Picture-in-picture for video; multitask while playing movies
+Tag: cydia::commercial
+Author: Ryan Petrich <rpetrich+videopane@gmail.com>
+Depiction: https://apktw.github.io/depictions/?p= apktw.com.rpetrich.videopane
+Dev: rpetrich
+Icon: file:///System/Library/PreferenceLoader/Preferences/VideoPane/VideoPane@2x.png
+Name: VideoPane
+Website: http://apk.tw/
+
+Package: apktw.com.tigisoftware.filza
+Version: 2.2.0-25
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Installed-Size: 18348
+Depends: zip, unzip, gzip, unrar, p7zip
+Filename: ./debs/apktw.com.tigisoftware.filza_2.2.0-25_iphoneos-arm.deb
+Size: 9288274
+MD5sum: 29666b207bf7e9bb26933a6386b482c6
+SHA1: 06b1227bcb09b7e7fb267b1582afcd2032cfe5c7
+SHA256: f11123bec88922eb7b6fc380d75f52e31c38101a95434216a5ea75627897eaaa
+Section: Utilities
+Homepage: http://apk.tw/
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Author: TIGI Software
+Depiction: https://apktw.github.io/depictions/?p=apktw.com.tigisoftware.filza
+Name: Filza File Manager
+
+Package: apktw.kr.typostudio.tsprotector8
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 807
+Depends: firmware(>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: kr.typostudio.tsprotector.8, kr.typostudio.tsprotector.p, org.thebigboss.tsprotectorp, kr.typostudio.tsprotector.pfb
+Filename: ./debs/apktw.kr.typostudio.tsprotector8_1.0-1_iphoneos-arm.deb
+Size: 315558
+MD5sum: 522f28215784daca47c7f54045e4305a
+SHA1: d7d5317325e57e2b647414399c35ef55099100c5
+SHA256: 1cd47b15d7179e81cfbb299276e81c692e0a8b5c231a64b90952c502ec0892b4
+Section: Tweaks
+Homepage: http://apk.tw/
+Description: Protect system from suspicious apps
+Tag: cydia::commercial, purpose::extension, compatible::ios8
+Author: typ0s2d10 <typ0s2d10@gmail.com>
+Depiction: https://apktw.github.io/depictions/?p=apktw.kr.typostudio.tsprotector8
+Dev: typ0s2d10
+Icon: file:///Library/PreferenceBundles/tsProtectorSettings.bundle/tsProtector@2x.png
+Name: tsProtector 8 (iOS 8+)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: apktw.me.autotouch.autotouch.ios8
+Version: 3.5.2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 10016
+Depends: firmware (>= 8.0), mobilesubstrate (>=0.9.5000), libactivator, com.rpetrich.rocketbootstrap, applist (>= 1.4.1)
+Conflicts: me.autotouch.autotouch.ios7
+Filename: ./debs/apktw.me.autotouch.autotouch.ios8_3.5.2_iphoneos-arm.deb
+Size: 3868838
+MD5sum: 3f2f812aaf2769815b73c1395eb31c88
+SHA1: 9a4ff4f3cfabfbfb52def6adeea442c18bdf243c
+SHA256: 5662ff96ea107229700b1621b4af84949e14f82ef99672fad368d93cd67f5577
+Section: Tweaks
+Priority: optional
+Homepage: http://apk.tw/
+Description: record and playback touch operations
+Tag: purpose::extension, compatible::ios8
+Author: Kent Krantz <kentkrantz@gmail.com>
+Depiction: https://apktw.github.io/depictions/?p=apktw.me.autotouch.autotouch.ios8
+Dev: kentkrantz
+Icon: file:///Applications/AutoTouch.app/logo@2x-58.png
+Name: AutoTouch for iOS 8
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: apktw.net.joedj.nitrous
+Version: 2.5-6
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 358
+Depends: firmware (>= 4.3), mobilesubstrate (>= 0.9.5015), preferenceloader (>= 2.2.2), applist (>= 1.5.9)
+Breaks: io.pangu.xuanyuansword8 (<< 0.2)
+Filename: ./debs/apktw.net.joedj.nitrous_2.5-6_iphoneos-arm.deb
+Size: 123114
+MD5sum: deff4273ca6eb16fcdbb03314b57c84c
+SHA1: 948e180e898f67afa37f93459812745ec70f12ca
+SHA256: 8501c6fabbe59f48a35875694455459ca1c13127319745240c34ba569fceaa24
+Section: Tweaks
+Homepage: http://apk.tw/
+Description: Give JavaScript a speed boost with Nitro
+Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9
+Author: Joe Jordan <nitrous@joedj.net>
+Depiction: https://apktw.github.io/depictions/?p=apktw.net.joedj.nitrous
+Dev: joejordan
+Icon: file:///Library/PreferenceBundles/Nitrous.bundle/Nitrous@2x.png
+Name: Nitrous
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: apktw.net.limneos.photoslive
+Version: 0.2-59
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 752
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: org.thebigboss.photores
+Filename: ./debs/apktw.net.limneos.photoslive_0.2-59_iphoneos-arm.deb
+Size: 256022
+MD5sum: 3a9d2c3120642fae1ccdb42f9ff3c9eb
+SHA1: 5b809484198c9069aefcb9b17e7fdcdb3bc7bc70
+SHA256: 922ce2969c31ef9582e4da64662376da9d0c9b4144db4bb6af450e2ce2ee41aa
+Section: Tweaks
+Homepage: http://apk.tw/
+Description: Give LIFE to your Photos!
+Tag: cydia::commercial, purpose::extension, compatible::ios8
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: https://apktw.github.io/depictions/?p=apktw.net.limneos.photoslive
+Dev: limneos
+Icon: file:///Library/PreferenceBundles/PhotosLive.bundle/PhotosLive@2x.png
+Name: PhotosLive
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: apktw.org.hacx.callrecorder
+Version: 2.07-3
+Architecture: iphoneos-arm
+Maintainer: hAcx <callrecorder@hacx.org>
+Depends: firmware (>= 6.0), mobilesubstrate, applist, org.hacx.hacxdaemon
+Conflicts: repo.so.callrecorder, org.hacx.superrecorder, repo.so.superrecorder
+Replaces: repo.so.callrecorder
+Filename: ./debs/apktw.org.hacx.callrecorder_2.07-3_iphoneos-arm.deb
+Size: 10591430
+MD5sum: 9d6b1fa82bdcb114b3cf9953ff8cef1d
+SHA1: c61b24454c7a922b3e82ae8cba4a1c479cc5bde3
+SHA256: d71e060b339dfcaffad1dcd7af00da68a573b5146f00f614ba1f07759d5192dd
+Section: Tweaks
+Homepage: http://apk.tw/
+Description: Advanced Call Recorder
+Author: hAcx <callrecorder@hacx.org>
+Depiction: https://apktw.github.io/depictions/?p=apktw.org.hacx.callrecorder
+Icon: file:///Applications/CallRecorder.app/Icon.png
+Name: Call Recorder (iOS)
+
+Package: apktw.org.hacx.volumeamplifier
+Version: 1.70
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 19025
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), org.hacx.hacxdaemon
+Filename: ./debs/apktw.org.hacx.volumeamplifier_1.70_iphoneos-arm.deb
+Size: 7495290
+MD5sum: 64b6e8172dc01bbf1ac1749f10933349
+SHA1: 007784f41700dd1e62766d17f2be2419338d826d
+SHA256: 0f8c79a2a0518bc637ff318d1c6a89223561f2a985673cc001998e070d23ca50
+Section: Tweaks
+Homepage: http://apk.tw/
+Description: Amplify volume on iPhone
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Author: Yaniv Danan (hacx) <volumeamplifier@hacx.org>
+Depiction: https://apktw.github.io/depictions/?p=apktw.org.hacx.volumeamplifier
+Dev: hacx
+Icon: file:///Library/Application%20Support/hAcx/volamp_icon_small@2x.png
+Name: Volume Amplifier
+
+Package: apktw.org.thebigboss.locationfaker8
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1514
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: org.thebigboss.locationchangerx
+Filename: ./debs/apktw.org.thebigboss.locationfaker8_1.2-1_iphoneos-arm.deb
+Size: 604840
+MD5sum: 62a304f7197a0391d2f66f6350449dbd
+SHA1: a200ecee28856f21472eab4a1725c668ccb2a859
+SHA256: aab68dd6cd0bd6391ba99d9c8aed457a5a9e0096cdc86d33b5317e781b273b92
+Section: Tweaks
+Homepage: http://apk.tw/
+Description: change your location using a map
+Tag: purpose::extension, cydia::commercial, compatible::ios8, compatible::ios9
+Author: Cunstuck <cunstuck@gmail.com>
+Depiction: https://apktw.github.io/depictions/?p=apktw.org.thebigboss.locationfaker8
+Dev: cunstuck
+Icon: file:///Applications/LocationChanger.app/icon.png
+Name: LocationFaker (iOS 8 & 9)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.julioverne.cydown
+Version: 6.0.7.APKTW
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: cydia (>= 1.1.23), mobilesubstrate, preferenceloader, firmware (<< 10.0) | ldid (>= 1:1.2.1), coreutils-bin, coreutils, apt7
+Conflicts: com.julioverne.cyoption
+Filename: ./debs/com.julioverne.cydown_6.0.7_iphoneos-arm.deb
+Size: 648414
+MD5sum: ae028934bc94d040b4d7589889e67040
+SHA1: 3df240c94493a7a4190cb100f08969307b138301
+SHA256: c96130d0d5e9b3b688aa4acdcf6da895217f512c9515aaaf0d0b6e3421b5ee01
+Section: Tweaks
+Homepage: http://apk.tw/
+Description: Install paid packages for Free in Cydia!
+Author: julioverne <julioverne@me.com>
+Depiction: https://apktw.github.io/depictions/?p=com.julioverne.cydown
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Name: CyDown
+
+Package: org.ioshack.icontool
+Version: 1.9-2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1222
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2), com.ericasadun.utilities
+Conflicts: com.rpetrich.iconrenamer
+Filename: ./debs/apktw.org.ioshack.icontool_1.9-2_iphoneos-arm.deb
+Size: 384268
+MD5sum: 49323d03b3488743d40f63e4452accdd
+SHA1: 8813e0dd3e6737996d01e52c4a2558b5e8344d1c
+SHA256: 97195f52143bdfee5a4ce2ed95251fc6de44beffaae04f17b3fe86693a63f8f4
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icontoolDp
+Description: app tools menu from jiggle mode
+Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9
+Author: ioshack <wsdhr1982@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icontoolDp
+Dev: ioshack
+Icon: file:///Library/PreferenceLoader/Preferences/IconTool/IconTool@2x.png
+Name: Icon Tool
+Sponsor: thebigboss.org <http://thebigboss.org>
+
