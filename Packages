@@ -239,6 +239,42 @@ Author: TIGI Software
 Depiction: https://apktw.github.io/depictions/?p=apktw.com.tigisoftware.filza
 Name: Filza File Manager
 
+Package: apktw.idv.aqua.iGameGuardian
+Version: 7.0.1.APKTW
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Installed-Size: 1700
+Filename: ./debs/apktw.idv.aqua.igameguardian_7.0.1_iphoneos-arm.deb
+Size: 1565326
+MD5sum: b7b6b5023780938d814e021525c7f2ae
+SHA1: a71ddfda3bea02d085ed99becb750c6e3a590a6c
+SHA256: d0c0a4bf6e69aebdf004db9824f55abe0af2997672d0e3ec076340cafb42f49e
+Section: Tweaks
+Priority: optional
+Homepage: http://apk.tw/
+Description: iGameGuardian is a game cheating engine for iOS 6.x/7.x/8.x/9.x
+Author: Aqua Wu <igameguardian@gmail.com>
+Depiction: https://apktw.github.io/depictions/?p=apktw.idv.aqua.iGameGuardian
+Name: iGameGuardian
+
+Package: apktw.idv.aqua.iGameGuardian.Beta
+Version: 7.0.1.APKTW
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Installed-Size: 1700
+Filename: ./debs/apktw.idv.aqua.igameguardian.beta_7.0.1_iphoneos-arm.deb
+Size: 652766
+MD5sum: 912255f0d7dcd3ad48580283a36ef499
+SHA1: 9949b3c563c2ce4d4ad1ccad34311cd75ed14314
+SHA256: b3f6d3eee5915c0f65fe1074178fbc3db2e389a33973f62b1a67998e6e9b7896
+Section: Tweaks
+Priority: optional
+Homepage: http://apk.tw/
+Description: iGameGuardian is a game cheating engine for iOS 6.x/7.x/8.x/9.x
+Author: Aqua Wu <igameguardian@gmail.com>
+Depiction: https://apktw.github.io/depictions/?p=apktw.idv.aqua.iGameGuardian.Beta
+Name: iGameGuardian
+
 Package: apktw.kr.typostudio.tsprotector8
 Version: 1.0-1
 Architecture: iphoneos-arm
