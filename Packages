@@ -244,7 +244,7 @@ Version: 7.0.1.APKTW
 Architecture: iphoneos-arm
 Maintainer: Aqua Wu <igameguardian@gmail.com>
 Installed-Size: 1700
-Filename: ./debs/apktw.idv.aqua.igameguardian_7.0.1_iphoneos-arm.deb
+Filename: ./debs/apktw.idv.aqua.igameguardian_7.0.1.APKTW_iphoneos-arm.deb
 Size: 1565372
 MD5sum: f38459dac70eba541f5896e78a37f7e8
 SHA1: b14337c0223d3987523a3e8a70bd8c22a2fd722b
@@ -263,7 +263,7 @@ Version: 7.0.1.APKTW
 Architecture: iphoneos-arm
 Maintainer: Aqua Wu <igameguardian@gmail.com>
 Installed-Size: 1700
-Filename: ./debs/apktw.idv.aqua.igameguardian.beta_7.0.1_iphoneos-arm.deb
+Filename: ./debs/apktw.idv.aqua.igameguardian.beta_7.0.1.APKTW_iphoneos-arm.deb
 Size: 652808
 MD5sum: 376c1c658c9cf996f3e5f22b66d3fd4a
 SHA1: a13f149238873dbb795251c174d72ecc08f3b8a0
@@ -440,7 +440,7 @@ Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: cydia (>= 1.1.23), mobilesubstrate, preferenceloader, firmware (<< 10.0) | ldid (>= 1:1.2.1), coreutils-bin, coreutils, apt7
 Conflicts: com.julioverne.cyoption
-Filename: ./debs/com.julioverne.cydown_6.0.7_iphoneos-arm.deb
+Filename: ./debs/com.julioverne.cydown_6.0.7.APKTW_iphoneos-arm.deb
 Size: 648414
 MD5sum: ae028934bc94d040b4d7589889e67040
 SHA1: 3df240c94493a7a4190cb100f08969307b138301
