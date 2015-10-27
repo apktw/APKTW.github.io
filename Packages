@@ -40,6 +40,73 @@ Dev: rpetrich
 Name: Display Recorder
 Website: http://apk.tw/
 
+Package: apktw.com.clezz.dock
+Version: 2.2.9-2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 2012
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), preferenceloader
+Conflicts: app.weiphone.clezz.dock, com.clezz.dock-beta
+Replaces: app.weiphone.clezz.dock, com.clezz.dock-beta
+Filename: ./debs/apktw.com.clezz.dock_2.2.9-2_iphoneos-arm.deb
+Size: 1475002
+MD5sum: 4a1d6ef152dafa6ed88e0452eee35e28
+SHA1: f94003ea01a88c9cd7d2065f34b7a3a9a0714870
+SHA256: 317c4416969efc307b935cb8db1fc99940416cc22479cefb853ec106d97c2f77
+Section: Tweak
+Homepage: http://apk.tw/
+Description: Shortcuts, app switcher & multi-tasking management for iOS.
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Author: Ma Jun <majun3@gmail.com>
+Depiction: https://apktw.github.io/depictions/?p=apktw.com.clezz.dock
+Dev: clezz
+Icon: file:///Library/PreferenceBundles/DockSettings.bundle/Icon-small@2x.png
+Name: Dock
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: apktw.com.clezz.quickdo
+Version: 3.9.2~beta4-1
+Architecture: iphoneos-arm
+Maintainer: Clezz.com <majun3@gmail.com>
+Installed-Size: 6612
+Depends: mobilesubstrate, firmware (>=5.0), preferenceloader (>= 2.0), com.a3tweaks.flipswitch
+Conflicts: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.qda, com.clezz.qdb
+Replaces: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.qda, com.clezz.qdb
+Filename: ./debs/apktw.com.clezz.quickdo_3.9.2-beta4-1_iphoneos-arm.deb
+Size: 1679870
+MD5sum: b41b3e809a5b01d05c44cee4bdfb2f0b
+SHA1: ea5eafb82a6b5062c90244d1b8bb47a1a1d3a46c
+SHA256: fa740f91ddad44908be734bc521866a53e3389249d3779d9d99c1bdf4b860cc5
+Section: Tweaks
+Homepage: http://apk.tw/
+Description: Gestures, shortcuts, toggles, app switcher and multitasking management for iOS.
+Author: Ma Jun <majun3@gmail.com>
+Depiction: https://apktw.github.io/depictions/?p=apktw.com.clezz.quickdo
+Icon: file:///Library/PreferenceBundles/QuickDoSettings.bundle/Icon-small.png
+Name: QuickDo
+
+Package: apktw.com.clezz.tage
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1812
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Filename: ./debs/apktw.com.clezz.tage_1.2_iphoneos-arm.deb
+Size: 562824
+MD5sum: efb31664ba3f54f3f946a8395d6c0b0b
+SHA1: 584b91830b33080a138cf0869bde2c126a517ebd
+SHA256: f474e1df89f5ce5048fb78295216461a04afdd763378c2f3ea0ee72a07553b38
+Section: Tweaks
+Homepage: http://apk.tw/
+Description: Awesome multitasking gestures and more. / 功能强大的多任务手势。
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Author: Ma Jun <majun3@gmail.com>
+Depiction: https://apktw.github.io/depictions/?p=apktw.com.clezz.tage
+Dev: clezz
+Icon: file:////Library/PreferenceBundles/TageSettings.bundle/Icon-small@2x.png
+Name: Tage
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: apktw.com.exile90.icleanerpro
 Version: 7.5.0
 Architecture: iphoneos-arm
@@ -86,21 +153,21 @@ Name: Flex 2
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: apktw.com.gx5.onehandwizard
-Version: 1.0.4
+Version: 1.0.5
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 1514
 Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader (>= 2.2.2), libactivator | cy+model.iphone(>> 6)
-Filename: ./debs/apktw.com.gx5.onehandwizard_1.0.4_iphoneos-arm.deb
-Size: 924392
-MD5sum: 2e689e4792eaf628d6f4edb6d4662ec2
-SHA1: 4099f18e8098b16f28f348327eca08c6833f30cd
-SHA256: 5bf9a7ed2e12bdd673fa8ec03a9b7bdec35251377b034ddddddbb24b1054a2fc
+Filename: ./debs/apktw.com.gx5.onehandwizard_1.0.5_iphoneos-arm.deb
+Size: 931482
+MD5sum: 3e6aafaf5265f1ca3baf55b38d954380
+SHA1: 0c55d165168ea57872478799c75e3ec8a9c9cd46
+SHA256: 424cfe6598db4dc6e5c9dadab8aaee0fae1af0f95bf11bbd76d2bd6d599d50f4
 Section: Tweaks
 Priority: optional
 Homepage: http://apk.tw/
 Description: enjoy your phone using one hand
-Tag: purpose::extension, cydia::commercial, compatible::ios8
+Tag: purpose::extension, cydia::commercial, compatible::ios8, compatible::ios9
 Author: @TheAfricanNerd and sharedRoutine <support@gx-5.com>
 Depiction: https://apktw.github.io/depictions/?p=apktw.com.gx5.onehandwizard
 Dev: onehandwizard
@@ -176,6 +243,29 @@ Depiction: https://apktw.github.io/depictions/?p= apktw.com.rpetrich.biolockdown
 Dev: rpetrich
 Name: BioLockdown
 Website: http://apk.tw/
+
+Package: apktw.com.rpetrich.fullforce
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 264
+Depends: firmware (>= 6), mobilesubstrate, preferenceloader (>= 2.2), applist (>= 1.5.9), cy+model.iphone | cy+model.ipod
+Conflicts: com.kindadev.goodfit
+Replaces: com.kindadev.goodfit
+Filename: ./debs/apktw.com.rpetrich.fullforce_1.1.3_iphoneos-arm.deb
+Size: 106028
+MD5sum: 66facbb99afd68f39d2f71b073225328
+SHA1: a215860b13be9fcb27cb30ad75ee861c6ccb6da0
+SHA256: 1073c1b51be49a253a9ef1f1c8195bde3545f156e4414359e8978a966377e5df
+Section: Tweaks
+Homepage: http://apk.tw/
+Description: Force applications to show in fullscreen mode
+Tag: purpose::extension, cydia::commercial
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depiction: https://apktw.github.io/depictions/?p=apktw.com.rpetrich.fullforce
+Dev: rpetrich
+Name: FullForce for Phone
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: apktw.com.rpetrich.grabby
 Version: 1.3.10
@@ -454,15 +544,15 @@ Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
 
 Package: com.unlimapps.fbdowngradeenabler
-Version: 1.0-22
+Version: 1.0-21.MOD
 Architecture: iphoneos-arm
 Installed-Size: 88
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
-Filename: ./debs/com.unlimapps.fbdowngradeenabler_1.0-22_iphoneos-arm.deb
-Size: 25794
-MD5sum: 8db072efba0ed75bd52e5b80a14c0f43
-SHA1: f6c07d2ec4e7c9a9cd9efe792baa63bec436c109
-SHA256: 00f4029e555b2e290eeb3ebb3a9e54bfe98f9db1fff02de49908de9ebdd05648
+Filename: ./debs/com.unlimapps.fbdowngradeenabler_1.0-21.MOD_iphoneos-arm.deb
+Size: 25798
+MD5sum: e4faff97844373d83192c96e018de040
+SHA1: dcd16a904482eeca63a86e66cf4bf8cd7d9948d3
+SHA256: d9b50a04bf3f411f506490ae4ee94bb190561d263c3c247b1341d27e59982e96
 Section: Tweaks
 Homepage: http://apk.tw/
 Description: FBDowngradeEnabler allows you to sync and install Older Versions of the Facebook iOS applications. Thanks to Linus Yang and Karen Tsai (https://github.com/angelXwind/AppSync) for open sourcing their code.
