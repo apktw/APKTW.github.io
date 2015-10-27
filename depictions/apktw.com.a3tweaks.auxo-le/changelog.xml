@@ -4,8 +4,4 @@
 		<change>Support for ColorFlow 2</change>
 		<change>Hide mistakenly shown "InCallService" on iOS 8</change>
 	</changes>
-	<changes>
-		<version>N/A</version>
-		<change>N/A</change>
-	</changes>
 </changelog>
