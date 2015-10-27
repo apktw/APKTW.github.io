@@ -1,33 +1,52 @@
 <package>
-	<id>tw.apk.testpackage</id>
-	<name>測試網頁</name>
-	<version>1.0</version>
+	<id>apktw.com.booleanmagic.displayrecorder</id>
+	<name>Display Recorder</name>
+	<version>1.3.19</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>mobilesubstrate (>= 0.9.5000)</package>
+    <package>preferenceloader (>= 2.2.2)</package>
+    <package>libactivator (>= 1.9.1)</package>
+    <package>gdata-objectivec-client</package>
 	</dependencies>
 	<descriptionlist>
-		<description>這只是一個測試軟體！請勿安裝！</description>
-		<description></description>
+		<description>Records direct to H.264 or MJPG/AVI</description>
+		<description>App & web site to manage recordings</description>
+    <description>Optionally records mic audio</description>
+		<description>On-device YouTube uploading</description>
+    <description>Adjustable framerate & quality settings</description>
+		<description>Hardware accelerated video encoding</description>
+    <description>Activator integration for quick access</description>
+		<description>Remote control via web interface</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
-		</screenshot>		
+			<description></description>
+			<image>apktw.com.booleanmagic.displayrecorder_1.png</image>
+		</screenshot>
 		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
-		</screenshot>		
+			<description></description>
+			<image>apktw.com.booleanmagic.displayrecorder_2.png</image>
+		</screenshot>
+    <screenshot>
+			<description></description>
+			<image>apktw.com.booleanmagic.displayrecorder_3.png</image>
+		</screenshot>
+    <screenshot>
+			<description></description>
+			<image>apktw.com.booleanmagic.displayrecorder_4.png</image>
+		</screenshot>
+    <screenshot>
+			<description></description>
+			<image>apktw.com.booleanmagic.displayrecorder_5.png</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>首次發布</change>
-		<change>N/A</change>
-		<change>N/A</change>
+		<change>Support iOS 9.0</change>
 	</changelog>
 	<links>
 		<link>

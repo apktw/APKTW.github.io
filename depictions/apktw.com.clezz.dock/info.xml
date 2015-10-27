@@ -1,33 +1,55 @@
 <package>
-	<id>tw.apk.testpackage</id>
-	<name>測試網頁</name>
-	<version>1.0</version>
+	<id>apktw.com.clezz.dock</id>
+	<name>Dock</name>
+	<version>2.2.9-2</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>4.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>firmware (>= 3.0)</package>
+    <package>mobilesubstrate (>= 0.9.5000)</package>
+    <package>preferenceloader</package>
 	</dependencies>
 	<descriptionlist>
-		<description>這只是一個測試軟體！請勿安裝！</description>
-		<description></description>
+		<description>Compatible with iOS 4, 5, 6, 7, 8 & 9
+
+Dock is a app like Dock of Mac OSX,that can manage the background processes, app shortcuts, quickly switching between apps. Operation simple and quick.
+
+-Now support iPad.
+-Multi-task manage,background app quickly switch.
+-Customizable app shortcuts, you can add many app as shortcuts.
+-Quickly open app and quickly switch between apps, in the lock-screen can also be operational.
+-More than one way to show Dock,double tap Statusbar,short hold Statusbar,double tap home button,short hold home button,left/right corner slide up, QuickDo gestures.
+-A variety of display, rotating icons and does not rotate.
+-iOS4 folder support,themes support.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
-		</screenshot>		
+			<description></description>
+			<image>apktw.com.clezz.dock_1.png</image>
+		</screenshot>
 		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
-		</screenshot>		
+			<description></description>
+			<image>apktw.com.clezz.dock_2.png</image>
+		</screenshot>
+    <screenshot>
+			<description></description>
+			<image>apktw.com.clezz.dock_3.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>apktw.com.clezz.dock_4.png</image>
+		</screenshot>
+    <screenshot>
+			<description></description>
+			<image>apktw.com.clezz.dock_5.png</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>首次發布</change>
-		<change>N/A</change>
-		<change>N/A</change>
+		<change>Support for iOS 9</change>
+		<change>适配 iOS 9</change>
 	</changelog>
 	<links>
 		<link>
