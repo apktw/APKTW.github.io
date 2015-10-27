@@ -1,33 +1,48 @@
 <package>
-	<id>tw.apk.testpackage</id>
-	<name>測試網頁</name>
-	<version>1.0</version>
+	<id>apktw.com.a3tweaks.auxo-le</id>
+	<name>Auxo Legacy Edition</name>
+	<version>1.0.6</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>firmware (>= 7.0)</package>
+    <package>mobilesubstrate (>= 0.9.5001)</package>
+    <package>applist (>= 1.5.9)</package>
+    <package>preferenceloader (>= 2.2.2)</package>
 	</dependencies>
 	<descriptionlist>
-		<description>這只是一個測試軟體！請勿安裝！</description>
-		<description></description>
+		<description>A re-imagined, modern app switcher in your control center</description>
+		<description>Quick access to apps, settings, media controls and album art</description>
+    <description>Auxo Legacy Edition celebrates the original Auxo, that released over two years ago.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
-		</screenshot>		
+			<description>Auxo Legacy Edition Screenshots:</description>
+			<image>apktw.com.a3tweaks.auxo-le_1.png</image>
+		</screenshot>
 		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
-		</screenshot>		
+			<description></description>
+			<image>apktw.com.a3tweaks.auxo-le_2.jpg</image>
+		</screenshot>
+    <screenshot>
+			<description></description>
+			<image>apktw.com.a3tweaks.auxo-le_3.jpg</image>
+		</screenshot>
+    <screenshot>
+			<description></description>
+			<image>apktw.com.a3tweaks.auxo-le_4.jpg</image>
+		</screenshot>
+    <screenshot>
+			<description></description>
+			<image>apktw.com.a3tweaks.auxo-le_5.jpg</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>首次發布</change>
-		<change>N/A</change>
-		<change>N/A</change>
+		<change>Support for ColorFlow 2</change>
+		<change>Hide mistakenly shown "InCallService" on iOS 8</change>
 	</changelog>
 	<links>
 		<link>
