@@ -453,6 +453,46 @@ Depiction: https://apktw.github.io/depictions/?p=com.julioverne.cydown
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
 
+Package: com.unlimapps.fbdowngradeenabler
+Version: 1.0-22
+Architecture: iphoneos-arm
+Installed-Size: 88
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
+Filename: ./debs/com.unlimapps.fbdowngradeenabler_1.0-22_iphoneos-arm.deb
+Size: 25794
+MD5sum: 8db072efba0ed75bd52e5b80a14c0f43
+SHA1: f6c07d2ec4e7c9a9cd9efe792baa63bec436c109
+SHA256: 00f4029e555b2e290eeb3ebb3a9e54bfe98f9db1fff02de49908de9ebdd05648
+Section: Tweaks
+Homepage: http://apk.tw/
+Description: FBDowngradeEnabler allows you to sync and install Older Versions of the Facebook iOS applications. Thanks to Linus Yang and Karen Tsai (https://github.com/angelXwind/AppSync) for open sourcing their code.
+Tag: compatible::ios7, compatible::ios8, compatible::ios9
+Author: UnlimApps Inc.
+Depiction: https://apktw.github.io/depictions/?p=com.unlimapps.fbdowngradeenabler
+Name: FBDowngradeEnabler
+
+Package: com.unlimapps.fbpp
+Version: 1.5r-44.MOD
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 3614
+Depends: mobilesubstrate, firmware (>= 5.0), com.unlimapps.uasharedtools (>= 1.1r-67)
+Conflicts: repo.biteyourapple.net.pluscrack, repo.biteyourapple.net.gramplus
+Filename: ./debs/com.unlimapps.fbpp_1.5r-44.MOD_iphoneos-arm.deb
+Size: 1530300
+MD5sum: 93f23a10da06015f113e804f091f0ce8
+SHA1: 667e0063e6a3dcd8c5a674be93bea10bc29f9f64
+SHA256: 174a855bc65c47e383e752a17c88a168732bf620ad237a6ef5614ea5b561ed58
+Section: Tweaks
+Homepage: http://apk.tw/
+Description: no read recipts, in-app messenger, save videos & more
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9
+Author: UnlimApps Inc. <support@unlimapps.com>
+Depiction: https://apktw.github.io/depictions/?p=com.unlimapps.fbpp
+Dev: i4iphones
+Icon: file:///Library/Application%20Support/FacebookPP/UAResources.bundle/fbpp_settings.png
+Name: Facebook ++
+
 Package: org.ioshack.icontool
 Version: 1.9-2
 Architecture: iphoneos-arm
