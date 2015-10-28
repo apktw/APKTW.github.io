@@ -1,33 +1,67 @@
 <package>
-	<id>tw.apk.testpackage</id>
-	<name>測試網頁</name>
-	<version>1.0</version>
+	<id>apktw.com.clezz.quickdo</id>
+	<name>QuickDo</name>
+	<version>3.9.2~beta4-1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>5.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>firmware (>=5.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader (>= 2.0)</package>
+    <package>com.a3tweaks.flipswitch</package>
 	</dependencies>
 	<descriptionlist>
-		<description>這只是一個測試軟體！請勿安裝！</description>
-		<description></description>
+		<description>Supports iPhone/touch/iPad, iOS 5.x ~ 9.x
+
+QuickDo is centralized gestures, shortcuts, toggles, app switcher and multi-tasking management for iOS. By making use of the trigger function, QuickDo will help you operate iOS device easily, like exit a app, reboot or power off, mute or hang up the incoming call, etc. In addition, QuickDo now lets you define sliding short-cuts to quickly unlock your device and immediately launch your favorite apps. It's surely worth a shot! 
+
+Official website: http://www.clezz.com
+Official repo: http://cydia.clezz.com </description>
+		<description>Main Functions
+
+-Full screen two fingers and three fingers gestures.
+-Multitasking management, close or switch background app, quickly launch last app.
+-App shortcut management, quickly open your favorite app.
+-Toggles management. Built in Brightness, Volume and Information toggles, support SBSetttings toggles too.
+-Virtual "Home" button, exit app, lock the device and iPod everytime.
+-Power button, respring, reboot, safe mode and power off.
+-One click to close all running app and remove Multitasking bar recent icons.
+-Mute or hang up the incoming call.
+-Multitasking Gestures.
+-Activate SBSettings and Dock app, more apps coom soon.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
-		</screenshot>		
+			<description></description>
+			<image>apktw.com.clezz.quickdo_1.png</image>
+		</screenshot>
 		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
-		</screenshot>		
+			<description></description>
+			<image>apktw.com.clezz.quickdo_2.png</image>
+		</screenshot>
+    <screenshot>
+			<description></description>
+			<image>apktw.com.clezz.quickdo_3.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>apktw.com.clezz.quickdo_4.png</image>
+		</screenshot>
+    <screenshot>
+			<description></description>
+			<image>apktw.com.clezz.quickdo_5.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>apktw.com.clezz.quickdo_6.png</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>首次發布</change>
-		<change>N/A</change>
-		<change>N/A</change>
+		<change>Multitasking gestures support for iOS 9</change>
+		<change>多任务手势适配和修复一些问题(iOS 9)</change>
 	</changelog>
 	<links>
 		<link>

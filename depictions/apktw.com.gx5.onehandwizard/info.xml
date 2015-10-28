@@ -1,33 +1,59 @@
 <package>
-	<id>tw.apk.testpackage</id>
-	<name>測試網頁</name>
-	<version>1.0</version>
+	<id>apktw.com.gx5.onehandwizard</id>
+	<name>OneHandWizard</name>
+	<version>1.0.5</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>8.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>firmware (>= 8.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader (>= 2.2.2)</package>
+    <package>libactivator </package>
 	</dependencies>
 	<descriptionlist>
-		<description>這只是一個測試軟體！請勿安裝！</description>
-		<description></description>
+		<description>Compatible with iOS 8 and 9
+
+OneHandWizard solves one the biggest issues we have all had with newer iphones, especially the 6 and 6 plus.
+Till now, it was impossible to use the iPhone comfortably with one hand, causing clumsiness and plenty of discomfort. </description>
+		<description>
+OneHandWizard is here to let you now fully enjoy your iPhone in one hand mode with the following functionality:
+
+- Full one handed use by simply double tapping the home button ( triple press on iPhone 5/5c)
+- Resize one hand mode to fit your actual thumb reach
+- Left and right hand mode with simple edge drag
+- Volume,mute and other controls in one hand mode
+- Take screenshots in one hand mode
+- Stay in one hand mode as long as needed as opposed to Iphone’s reachability which auto forces you out of one hand mode
+- Endless activation methods thanks to Activator
+- We are the only one hand solution for the lock screen allowing you comfortable usage</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
-		</screenshot>		
+			<description></description>
+			<image>apktw.com.gx5.onehandwizard_1.jpg</image>
+		</screenshot>
 		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
-		</screenshot>		
+			<description></description>
+			<image>apktw.com.gx5.onehandwizard_2.jpg</image>
+		</screenshot>
+    <screenshot>
+			<description></description>
+			<image>apktw.com.gx5.onehandwizard_3.jpg</image>
+		</screenshot>
+    <screenshot>
+			<description></description>
+			<image>apktw.com.gx5.onehandwizard_4.jpg</image>
+		</screenshot>
+    <screenshot>
+			<description></description>
+			<image>apktw.com.gx5.onehandwizard_5.jpg</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>首次發布</change>
-		<change>N/A</change>
-		<change>N/A</change>
+		<change>Support for iOS 9</change>
 	</changelog>
 	<links>
 		<link>
