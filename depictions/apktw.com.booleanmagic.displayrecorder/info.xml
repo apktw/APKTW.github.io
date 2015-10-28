@@ -15,10 +15,10 @@
 	</dependencies>
 	<descriptionlist>
 		<description>Records direct to H.264 or MJPG/AVI</description>
-		<description>App & web site to manage recordings</description>
+		<description>App &amp; web site to manage recordings</description>
     <description>Optionally records mic audio</description>
 		<description>On-device YouTube uploading</description>
-    <description>Adjustable framerate & quality settings</description>
+    <description>Adjustable framerate &amp; quality settings</description>
 		<description>Hardware accelerated video encoding</description>
     <description>Activator integration for quick access</description>
 		<description>Remote control via web interface</description>
