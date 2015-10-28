@@ -48,7 +48,7 @@ Temporary files: it deletes temporary files from your device. These files are me
 Filetype cleanup: iCleaner features a custom cleanup pass based on file extensions. By default, it looks for log and temp files all over the directory tree.
 
 Custom files and Folders cleanup: with this extremely powerful feature, you can add any file or folder to the cleanup process. Check the user guide for a detailed explaination of how it works.</description>
-    <description>Launch Daemons, Cydia Substrate addons & Preference Bundles management:
+    <description>Launch Daemons, Cydia Substrate addons &amp; Preference Bundles management:
 
 Daemons are processes that are launched upon system startup (or at a later time) and run in the background. Disabling daemons allows you to break core system functions (such as OTA updates, Game Center, error logging, etc.).
 
