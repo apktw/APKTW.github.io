@@ -239,7 +239,7 @@ Section: Tweaks
 Description: Fingerprint lock apps, settings & switches
 Tag: cydia::commercial
 Author: Ryan Petrich <rpetrich+biolockdown@gmail.com>
-Depiction: https://apktw.github.io/depictions/?p=apktw.com.rpetrich.biolockdown
+Depiction: https://apktw.github.io/depictions/?p= apktw.com.rpetrich.biolockdown
 Dev: rpetrich
 Name: BioLockdown
 Website: http://apk.tw/
@@ -312,16 +312,16 @@ Name: VideoPane
 Website: http://apk.tw/
 
 Package: apktw.com.tigisoftware.filza
-Version: 2.2.0-25
+Version: 2.2.0-30
 Architecture: iphoneos-arm
 Maintainer: TIGI Software
 Installed-Size: 18348
 Depends: zip, unzip, gzip, unrar, p7zip
-Filename: ./debs/apktw.com.tigisoftware.filza_2.2.0-25_iphoneos-arm.deb
-Size: 9288274
-MD5sum: 29666b207bf7e9bb26933a6386b482c6
-SHA1: 06b1227bcb09b7e7fb267b1582afcd2032cfe5c7
-SHA256: f11123bec88922eb7b6fc380d75f52e31c38101a95434216a5ea75627897eaaa
+Filename: ./debs/apktw.com.tigisoftware.filza_2.2.0-30_iphoneos-arm.deb
+Size: 9288292
+MD5sum: 8f1ac75acfc4decc04ff1f4052936a67
+SHA1: 264a903a37ac87cedac0a09804d1ebd4f2e0aed3
+SHA256: b6f99b083070cce4929cf0908f7c2b5b9600193c7f75fb4d15a693ddac77f487
 Section: Utilities
 Homepage: http://apk.tw/
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
@@ -501,6 +501,29 @@ Dev: hacx
 Icon: file:///Library/Application%20Support/hAcx/volamp_icon_small@2x.png
 Name: Volume Amplifier
 
+Package: apktw.org.ioshack.icontool
+Version: 1.9-2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1222
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2), com.ericasadun.utilities
+Conflicts: com.rpetrich.iconrenamer
+Filename: ./debs/apktw.org.ioshack.icontool_1.9-2_iphoneos-arm_julioverne.deb
+Size: 384254
+MD5sum: 65a5c9c1f0602088862b3104ad99ff29
+SHA1: 4f521db5bf408c9c2930e2fd5eef13e233f134a9
+SHA256: cf4dcf7636886139dc40942ea2e910d6af19566bfc944ff4c39ca2fbe0cb52ed
+Section: Tweaks
+Homepage: http://apk.tw/
+Description: app tools menu from jiggle mode
+Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9
+Author: ioshack <wsdhr1982@gmail.com>
+Depiction: https://apktw.github.io/depictions/?p=apktw.org.ioshack.icontool
+Dev: ioshack
+Icon: file:///Library/PreferenceLoader/Preferences/IconTool/IconTool@2x.png
+Name: Icon Tool
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: apktw.org.thebigboss.locationfaker8
 Version: 1.2-1
 Architecture: iphoneos-arm
@@ -582,27 +605,4 @@ Depiction: https://apktw.github.io/depictions/?p=com.unlimapps.fbpp
 Dev: i4iphones
 Icon: file:///Library/Application%20Support/FacebookPP/UAResources.bundle/fbpp_settings.png
 Name: Facebook ++
-
-Package: org.ioshack.icontool
-Version: 1.9-2
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 1222
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2), com.ericasadun.utilities
-Conflicts: com.rpetrich.iconrenamer
-Filename: ./debs/apktw.org.ioshack.icontool_1.9-2_iphoneos-arm.deb
-Size: 384268
-MD5sum: 49323d03b3488743d40f63e4452accdd
-SHA1: 8813e0dd3e6737996d01e52c4a2558b5e8344d1c
-SHA256: 97195f52143bdfee5a4ce2ed95251fc6de44beffaae04f17b3fe86693a63f8f4
-Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icontoolDp
-Description: app tools menu from jiggle mode
-Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9
-Author: ioshack <wsdhr1982@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icontoolDp
-Dev: ioshack
-Icon: file:///Library/PreferenceLoader/Preferences/IconTool/IconTool@2x.png
-Name: Icon Tool
-Sponsor: thebigboss.org <http://thebigboss.org>
 
