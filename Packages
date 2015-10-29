@@ -239,7 +239,7 @@ Section: Tweaks
 Description: Fingerprint lock apps, settings & switches
 Tag: cydia::commercial
 Author: Ryan Petrich <rpetrich+biolockdown@gmail.com>
-Depiction: https://apktw.github.io/depictions/?p= apktw.com.rpetrich.biolockdown
+Depiction: https://apktw.github.io/depictions/?p=apktw.com.rpetrich.biolockdown
 Dev: rpetrich
 Name: BioLockdown
 Website: http://apk.tw/
