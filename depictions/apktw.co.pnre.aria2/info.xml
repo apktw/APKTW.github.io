@@ -14,17 +14,17 @@
 	</dependencies>
 	<descriptionlist>
 		<description>
-      Aria² is here to improve the new Music app shipped with iOS 8.4+ as Aria did with older versions.&#xA;
-&#xA;
-Main Aria² features:&#xA;
-- Fully customizable tabs layout, add, remove and reorder the Music app tabs without any restriction.&#xA;
-- Classic Aria grid layouts for albums, artists and playlists.&#xA;
-- Shuffle buttons in the songs and albums lists.&#xA;
-- Dark themed now playing view with improved lyrics.&#xA;
-- Equalizer presets access from the now playing view.&#xA;
-- More: hide/show unwanted elements, disable blurred artist views, ...&#xA;
-&#xA;
-Aria² is compatible with iOS 8.4 - 9.x, for older version please check out <a href="cydia://package/org.thebigboss.aria" target="_new">Aria</a>.&#xA;
+      Aria² is here to improve the new Music app shipped with iOS 8.4+ as Aria did with older versions.&#xD;
+&#xD;
+Main Aria² features:&#xD;
+- Fully customizable tabs layout, add, remove and reorder the Music app tabs without any restriction.&#xD;
+- Classic Aria grid layouts for albums, artists and playlists.&#xD;
+- Shuffle buttons in the songs and albums lists.&#xD;
+- Dark themed now playing view with improved lyrics.&#xD;
+- Equalizer presets access from the now playing view.&#xD;
+- More: hide/show unwanted elements, disable blurred artist views, ...&#xD;
+&#xD;
+Aria² is compatible with iOS 8.4 - 9.x, for older version please check out <a href="cydia://package/org.thebigboss.aria" target="_new">Aria</a>.&#xD;
     </description>
 	</descriptionlist>
 	<screenshots>
