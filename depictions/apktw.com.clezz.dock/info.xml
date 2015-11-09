@@ -9,21 +9,23 @@
 	</compatibility>
 	<dependencies>
 		<package>firmware (>= 3.0)</package>
-    <package>mobilesubstrate (>= 0.9.5000)</package>
+    <package>mobilesubstrate</package>
     <package>preferenceloader</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Compatible with iOS 4, 5, 6, 7, 8 &amp; 9
-
-Dock is a app like Dock of Mac OSX,that can manage the background processes, app shortcuts, quickly switching between apps. Operation simple and quick.
-
--Now support iPad.
--Multi-task manage,background app quickly switch.
--Customizable app shortcuts, you can add many app as shortcuts.
--Quickly open app and quickly switch between apps, in the lock-screen can also be operational.
--More than one way to show Dock,double tap Statusbar,short hold Statusbar,double tap home button,short hold home button,left/right corner slide up, QuickDo gestures.
--A variety of display, rotating icons and does not rotate.
--iOS4 folder support,themes support.</description>
+		<description><![CDATA[
+Compatible with iOS 4, 5, 6, 7, 8 &amp; 9<br />
+<br />
+Dock is a app like Dock of Mac OSX,that can manage the background processes, app shortcuts, quickly switching between apps. Operation simple and quick.<br />
+<br />
+-Now support iPad.<br />
+-Multi-task manage,background app quickly switch.<br />
+-Customizable app shortcuts, you can add many app as shortcuts.<br />
+-Quickly open app and quickly switch between apps, in the lock-screen can also be operational.<br />
+-More than one way to show Dock,double tap Statusbar,short hold Statusbar,double tap home button,short hold home button,left/right corner slide up, QuickDo gestures.<br />
+-A variety of display, rotating icons and does not rotate.<br />
+-iOS4 folder support,themes support.<br />
+    ]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>

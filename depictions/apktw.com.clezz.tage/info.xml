@@ -13,51 +13,53 @@
     <package>preferenceloader</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Compatible with iOS 7, 8 and 9
-Supports iPhone, iPod Touch &amp; iPad
-3 days FREE trial, Commercial Package $1.99
-
-Tage is awesome multitasking gestures and more.
-    </description>
-    <description>Features:
-• Close App or Activate Switcher
-- Swipe up from the bottom edge to close app or activate App Switcher (Long swipe up to close app and quit background).• • • Switch Apps
-- Swipe from left and right edge to switch apps.
-
-• Quick Switcher
-- slide in from the bottom left or right corner of the screen to quickly switch apps.
-
-• Lock Device
-- Can set gestures to lock device.
-
-• Switcher Page Action
-- Home page swipe down to show action menu (Power Off, Reboot, Safe Mode, Respring, Lock).
-
-- App page swipe down to show action menu (Quit all Apps, Quit Background Apps, Quit Other Apps).
-    </description>
-		<description>功能:
-
-• 返回主屏幕或激活多任務
-從屏幕底部邊緣向上滑動來返回主屏幕或激活多任務管理(向上長距離滑動關閉程序並退出後台)。
-
-• 切換程序
-從屏幕左邊或右邊滑入屏幕來切換程序。
-
-• 快速切換
-快速切換程序，從屏幕左下角或右下角劃入屏幕來快速切換程序。
-
-• 鎖定機器
-可設置多個手勢來鎖定機器。
-
-• 任務管理界面卡片動作
-- 首頁卡片下滑來顯示電源選項(關機，重啟，安全模式，註銷，鎖屏)。
-
-- 程序卡片下滑來顯示關閉後台選項(關閉所有程序，關閉後台程序，關閉其他程序)。
-    </description>
-    <description>No icon is added to the homescreen. Configure options from Settings app.
-
-Official website: www.clezz.com
-    </description>
+		<description><![CDATA[
+Compatible with iOS 7, 8 and 9<br />
+Supports iPhone, iPod Touch &amp; iPad<br />
+3 days FREE trial, Commercial Package $1.99<br />
+<br />
+Tage is awesome multitasking gestures and more.<br />
+    ]]></description>
+    <description><![CDATA[
+Features:<br />
+• Close App or Activate Switcher<br />
+- Swipe up from the bottom edge to close app or activate App Switcher (Long swipe up to close app and quit background).• • • Switch Apps<br />
+- Swipe from left and right edge to switch apps.<br />
+<br />
+• Quick Switcher<br />
+- slide in from the bottom left or right corner of the screen to quickly switch apps.<br />
+<br />
+• Lock Device<br />
+- Can set gestures to lock device.<br />
+<br />
+• Switcher Page Action<br />
+- Home page swipe down to show action menu (Power Off, Reboot, Safe Mode, Respring, Lock).<br />
+- App page swipe down to show action menu (Quit all Apps, Quit Background Apps, Quit Other Apps).<br />
+    ]]></description>
+		<description><![CDATA[
+功能:<br />
+<br />
+• 返回主屏幕或激活多任務<br />
+從屏幕底部邊緣向上滑動來返回主屏幕或激活多任務管理(向上長距離滑動關閉程序並退出後台)。<br />
+<br />
+• 切換程序<br />
+從屏幕左邊或右邊滑入屏幕來切換程序。<br />
+<br />
+• 快速切換<br />
+快速切換程序，從屏幕左下角或右下角劃入屏幕來快速切換程序。<br />
+<br />
+• 鎖定機器<br />
+可設置多個手勢來鎖定機器。<br />
+<br />
+• 任務管理界面卡片動作<br />
+- 首頁卡片下滑來顯示電源選項(關機，重啟，安全模式，註銷，鎖屏)。<br />
+- 程序卡片下滑來顯示關閉後台選項(關閉所有程序，關閉後台程序，關閉其他程序)。<br />
+    ]]></description>
+    <description><![CDATA[
+No icon is added to the homescreen. Configure options from Settings app.<br />
+<br />
+Official website: www.clezz.com<br />
+    ]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>

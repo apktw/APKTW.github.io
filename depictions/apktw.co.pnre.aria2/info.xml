@@ -1,20 +1,21 @@
 <package>
-	<id></id>
-	<name></name>
-	<version></version>
+	<id>apktw.co.pnre.aria2</id>
+	<name>Aria 2 (iOS 8.4+)</name>
+	<version>1.0.2-1</version>
 	<compatibility>
 		<firmware>
-			<miniOS></miniOS>
+			<miniOS>8.4</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package></package>
-		<package></package>
-		<package></package>
+    <package>firmware (>= 8.4)</package>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>org.thebigboss.libcolorpicker</package>
 	</dependencies>
 	<descriptionlist>
 		<description><![CDATA[
-      Aria² is here to improve the new Music app shipped with iOS 8.4+ as Aria did with older versions.<br />
+Aria² is here to improve the new Music app shipped with iOS 8.4+ as Aria did with older versions.<br />
 <br />
 Main Aria² features:<br />
 - Fully customizable tabs layout, add, remove and reorder the Music app tabs without any restriction.<br />
@@ -24,33 +25,29 @@ Main Aria² features:<br />
 - Equalizer presets access from the now playing view.<br />
 - More: hide/show unwanted elements, disable blurred artist views, ...<br />
 <br />
-Aria² is compatible with iOS 8.4 - 9.x, for older version please check out <a href="cydia://package/org.thebigboss.aria" target="_new">Aria</a>.<br />;
+Aria² is compatible with iOS 8.4 - 9.x, for older version please check out <a href="cydia://package/org.thebigboss.aria" target="_new">Aria</a>.
     ]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description></description>
-			<image></image>
+			<image>apktw.co.pnre.aria2_1.jpg</image>
 		</screenshot>
 		<screenshot>
 			<description></description>
-			<image></image>
+			<image>apktw.co.pnre.aria2_2.jpg</image>
 		</screenshot>
 		<screenshot>
 			<description></description>
-			<image></image>
+			<image>apktw.co.pnre.aria2_3.jpg</image>
 		</screenshot>
 		<screenshot>
 			<description></description>
-			<image></image>
-		</screenshot>
-		<screenshot>
-			<description></description>
-			<image></image>
+			<image>apktw.co.pnre.aria2_4.jpg</image>
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change></change>
+		<change>iOS9 support</change>
 	</changelog>
 	<links>
 		<link>

@@ -9,9 +9,9 @@
 	</compatibility>
 	<dependencies>
 		<package>firmware (>= 7.0)</package>
-    <package>mobilesubstrate (>= 0.9.5001)</package>
-    <package>applist (>= 1.5.9)</package>
-    <package>preferenceloader (>= 2.2.2)</package>
+    <package>mobilesubstrate</package>
+    <package>applist</package>
+    <package>preferenceloader</package>
 	</dependencies>
 	<descriptionlist>
 		<description>A re-imagined, modern app switcher in your control center</description>

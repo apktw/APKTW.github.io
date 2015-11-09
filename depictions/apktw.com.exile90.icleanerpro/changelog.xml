@@ -1,30 +1,30 @@
 <changelog>
 	<changes>
 		<version>7.5.0</version>
-		<change>Features:
-+ Full iOS 9 compatibility.
-+ New, modern cleanup user interface.
-+ Added battery usage data cleanup step.
-+ Added automatic dependency management to the Cydia Substrate addon tool.
-+ Added full theming support via WinterBoard and Anemone. See the theming documentation.
-* Re-enabling a Cydia Substrate addon or Preference Bundle prior to uninstalling it via Cydia is not necessary anymore.
-* The images removal tools now support the iPhone 6s, 6s plus, iPad mini 4 and 6th gen iPod touch.
-* The preference files tool now attempts to indicate which tweak each file belongs to.
-* The wallpapers tool can now remove live wallpapers.</change>
-		<change>Fixes and improvements:
-* Fixed bug where the Cydia Substrate addons tools would fail to recognize a symlink to a dylib, when both were placed in the DynamicLibraries directory.
-* Fixed bug that prevented the Preference Bundles tool to appropriately get the icon for packages with multiple bundles.
-* Fixed bug that disallowed the log file from being written while the device was locked with a passcode.
-* Potentially fixed bug that could cause iCleaner to crash when dependencies were not respected while disabling tweaks.
-* Reduced iCleanerLib memory footprint.
-* Improved iCleanerLib loading and initialization.
-* Added device identifiers usage consent alert for european users to comply with EU privacy directives.
+		<change><![CDATA[
+Features:<br />
++ Full iOS 9 compatibility.<br />
++ New, modern cleanup user interface.<br />
++ Added battery usage data cleanup step.<br />
++ Added automatic dependency management to the Cydia Substrate addon tool.<br />
++ Added full theming support via WinterBoard and Anemone. See the theming documentation.<br />
+* Re-enabling a Cydia Substrate addon or Preference Bundle prior to uninstalling it via Cydia is not necessary anymore.<br />
+* The images removal tools now support the iPhone 6s, 6s plus, iPad mini 4 and 6th gen iPod touch.<br />
+* The preference files tool now attempts to indicate which tweak each file belongs to.<br />
+* The wallpapers tool can now remove live wallpapers.<br />
+    ]]></change>
+		<change><![CDATA[
+Fixes and improvements:<br />
+* Fixed bug where the Cydia Substrate addons tools would fail to recognize a symlink to a dylib, when both were placed in the DynamicLibraries directory.<br />
+* Fixed bug that prevented the Preference Bundles tool to appropriately get the icon for packages with multiple bundles.<br />
+* Fixed bug that disallowed the log file from being written while the device was locked with a passcode.<br />
+* Potentially fixed bug that could cause iCleaner to crash when dependencies were not respected while disabling tweaks.<br />
+* Reduced iCleanerLib memory footprint.<br />
+* Improved iCleanerLib loading and initialization.<br />
+* Added device identifiers usage consent alert for european users to comply with EU privacy directives.<br />
 * The log file is now automatically loaded completely once the text view is scrolled to the bottom.
-* User interface improvements.
-* Miscellaneous performance improvements.</change>
-	</changes>
-	<changes>
-		<version>N/A</version>
-		<change>N/A</change>
+* User interface improvements.<br />
+* Miscellaneous performance improvements.<br />
+    ]]></change>
 	</changes>
 </changelog>

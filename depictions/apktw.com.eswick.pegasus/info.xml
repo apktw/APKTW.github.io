@@ -1,44 +1,42 @@
 <package>
-	<id></id>
-	<name></name>
-	<version></version>
+	<id>apktw.com.eswick.pegasus</id>
+	<name>Pegasus</name>
+	<version>0.9.0-17</version>
 	<compatibility>
 		<firmware>
-			<miniOS></miniOS>
+			<miniOS>9.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package></package>
-		<package></package>
-		<package></package>
+    <package>firmware (>= )</package>
+		<package>mobilesubstrate</package>
+		<package>com.rpetrich.rocketbootstrap</package>
 	</dependencies>
 	<descriptionlist>
-		<description></description>
+		<description><![CDATA[
+Compatible with iOS 9<br />
+<br />
+Enables Apple's picture-in-picture capabilities on unsupported devices<br />
+<br />
+Pegasus allows you to detach videos into a separate, draggable pane<br />
+<br />
+Pegasus adds a button next to the pause button in videos. Upon pressing this button, your video is detached from the screen, and becomes freely moveable. The video will keep playing, even in other apps, until you press close<br />
+<br />
+No options to configure.
+    ]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description></description>
-			<image></image>
+			<image>apktw.com.eswick.pegasus_1.jpg</image>
 		</screenshot>		
 		<screenshot>
 			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
+			<image>apktw.com.eswick.pegasus_2.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change></change>
+		<change>Initial Release</change>
 	</changelog>
 	<links>
 		<link>

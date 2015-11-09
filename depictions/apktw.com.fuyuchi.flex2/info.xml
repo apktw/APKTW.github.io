@@ -12,26 +12,30 @@
     <package>mobilesubstrate</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Compatible with iOS 5, 6, 7, 8 and 9
-
-We've all wanted to change something about our favorite apps. If you wanted to do something about it you had to be a programmer. Until now.
-
-Flex gives you the power to modify apps and change their behavior. Want to see every timestamp in the Messages app? The patch takes no longer than 30 seconds to make.
-
-Siri too tall for your tastes? Make her window half the size. Is Safari's 8 tab maximum limiting you? Make the maximum 1,000 tabs. All of this is easy to do, and if you've wanted it chances are someone else has too. Make sure to check on the Flex Community Cloud to see if someone's already made the patch you've been wanting! With over 6,000 patches submitted, there’s a good chance it already exists.
-
-Every day someone downloads Flex with a idea in their head, and is able to create their perfect patch. Then they upload that patch to the Flex Community Cloud and others are able to share their vision. Flex is purpose built for this, and seeing your ideas come to life couldn't be simpler. If there's something you want to be different in an app, there's a good chance Flex can help you achieve your goal.</description>
-		<description>What’s new in Flex 2:
-
-I've gotten a lot of feature requests since I released Flex a year ago, and I'm happy to announce that the biggest and most requested features have made it into Flex 2.
-
-Flex 2 has some major upgrades that let you modify apps like never before. Previously, units were restricted to only modifying return values. In Flex 2 you’re able to modify any argument a function is passed, giving you more power than ever.
-
-The cloud is easier to navigate than ever, with sections added for Popular and Recent patches.
-
-Flex 2 has been re-built from the ground up for iOS 7 compatibility, while maintaining compatibility with iOS 5 and 6. In Flex 2 you’ll find more power, more patches, and more usefulness than ever before.
-
-Have a tweak request, or need help making one? Visit reddit.com/r/flextweak</description>
+		<description><![CDATA[
+Compatible with iOS 5, 6, 7, 8 and 9<br />
+<br />
+We've all wanted to change something about our favorite apps. If you wanted to do something about it you had to be a programmer. Until now.<br />
+<br />
+Flex gives you the power to modify apps and change their behavior. Want to see every timestamp in the Messages app? The patch takes no longer than 30 seconds to make.<br />
+<br />
+Siri too tall for your tastes? Make her window half the size. Is Safari's 8 tab maximum limiting you? Make the maximum 1,000 tabs. All of this is easy to do, and if you've wanted it chances are someone else has too. Make sure to check on the Flex Community Cloud to see if someone's already made the patch you've been wanting! With over 6,000 patches submitted, there’s a good chance it already exists.<br />
+<br />
+Every day someone downloads Flex with a idea in their head, and is able to create their perfect patch. Then they upload that patch to the Flex Community Cloud and others are able to share their vision. Flex is purpose built for this, and seeing your ideas come to life couldn't be simpler. If there's something you want to be different in an app, there's a good chance Flex can help you achieve your goal.<br />
+    ]]></description>
+		<description><![CDATA[
+What’s new in Flex 2:<br />
+<br />
+I've gotten a lot of feature requests since I released Flex a year ago, and I'm happy to announce that the biggest and most requested features have made it into Flex 2.<br />
+<br />
+Flex 2 has some major upgrades that let you modify apps like never before. Previously, units were restricted to only modifying return values. In Flex 2 you’re able to modify any argument a function is passed, giving you more power than ever.<br />
+<br />
+The cloud is easier to navigate than ever, with sections added for Popular and Recent patches.<br />
+<br />
+Flex 2 has been re-built from the ground up for iOS 7 compatibility, while maintaining compatibility with iOS 5 and 6. In Flex 2 you’ll find more power, more patches, and more usefulness than ever before.<br />
+<br />
+Have a tweak request, or need help making one? Visit reddit.com/r/flextweak<br />
+    ]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
