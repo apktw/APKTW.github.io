@@ -1,3 +1,26 @@
+Package: apktw.co.pnre.aria2
+Version: 1.0.2-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1112
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8.4), org.thebigboss.libcolorpicker
+Conflicts: org.thebigboss.aria
+Filename: ./debs/apktw.co.pnre.aria2_1.0.2-1_iphoneos-arm.deb
+Size: 413362
+MD5sum: bbbe9f451ba5a67cbc9986a320998fb7
+SHA1: 1da0a86c334e8f8e1695c1b0278b3d3acb845f81
+SHA256: e4ec40aa067980526155f1ece412c6da1383e6ad749fb24fe51c94d303ffec92
+Section: Tweaks
+Homepage: http://apk.tw/
+Description: Music app the way it should have been
+Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9
+Author: pNre <aria@pnre.co>
+Depiction: https://apktw.github.io/depictions/?p=apktw.co.pnre.aria2
+Dev: corelab
+Icon: file:///Library/PreferenceBundles/Aria2Preferences.bundle/Aria2@2x.png
+Name: Aria 2 (iOS 8.4+)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: apktw.com.a3tweaks.auxo-le
 Version: 1.0.6
 Architecture: iphoneos-arm
@@ -107,6 +130,27 @@ Icon: file:////Library/PreferenceBundles/TageSettings.bundle/Icon-small@2x.png
 Name: Tage
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: apktw.com.eswick.pegasus
+Version: 0.9.0-17
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 2211
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Filename: ./debs/apktw.com.eswick.pegasus_0.9.0-17_iphoneos-arm.deb
+Size: 1038964
+MD5sum: 28265e46e13a46146d986cf9dd18f5a7
+SHA1: ed941745f72ffaaaeff0ca8b2453b3e251c94f37
+SHA256: 169db00288228e4c7268db09388a8268c6d0576b509076e950426be04b23f853
+Section: Tweaks
+Homepage: http://apk.tw/
+Description: Enables Picture-in-Picture on unsupported devices
+Tag: cydia::commercial, purpose::extension, compatible::ios9
+Author: Evan Swick <eswick@eswick.com>
+Depiction: https://apktw.github.io/depictions/?p=apktw.com.eswick.pegasus
+Dev: pegasus
+Name: Pegasus
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: apktw.com.exile90.icleanerpro
 Version: 7.5.0
 Architecture: iphoneos-arm
@@ -176,17 +220,17 @@ Name: OneHandWizard
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: apktw.com.kdfly.ibox
-Version: 1.1.8-1
+Version: 1.2.0-6
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 809
+Installed-Size: 1004
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libstatusbar
 Conflicts: com.kdfly.kdlte4g, com.kdfly.kdlte4gpro
-Filename: ./debs/apktw.com.kdfly.ibox_1.1.8-1_iphoneos-arm.deb
-Size: 265308
-MD5sum: f9d8ba644ae47ff64163599ca1b6c3ab
-SHA1: e401488e0f465fe6699f063dc08fa4da108bc72a
-SHA256: d6ca965f8686064b0e1e0b5d99355b0b1a3fa319ab134cfad52eb301d5423688
+Filename: ./debs/apktw.com.kdfly.ibox_1.2.0-6_iphoneos-arm.deb
+Size: 271498
+MD5sum: 651bbb9e5db4716677973ff3daf04452
+SHA1: 1f5219e2c9938132a932abe9c71c6f041f1ea1e8
+SHA256: 18ce0d63f85b763ad49c096701a9425b2a1223353a8366e46191601cc042389f
 Section: Tweaks
 Homepage: http://apk.tw/
 Description: iBox for iOS8是一款增强iOS使用体验的多功能插件，通过集成各种实用的功能，iBox会为大家提供更好的iOS增强体验。
@@ -231,15 +275,15 @@ Depends: mobilesubstrate (>= 0.9.5001), firmware (>= 6.0), preferenceloader (>= 
 Conflicts: com.w00tylab.virtualhome (<< 1.1.1), net.limneos.bioprotect
 Replaces: com.w00tylab.virtualhome (<< 1.1.1), net.limneos.bioprotect
 Filename: ./debs/apktw.com.rpetrich.biolockdown_1.2.14_iphoneos-arm.deb
-Size: 345224
-MD5sum: b6d189d98c803e206697db662837eea1
-SHA1: 04d9c94cabc7c496047016364f7de817fad3f9e7
-SHA256: acab9f801f46906030838616b95a1dd7321cd58d6a583fdcf95b9a28a3bb6a43
+Size: 345222
+MD5sum: 393a9b0a4a4f7e8f9a922c45531b2fcb
+SHA1: e97d07b6fb2ac43567fd615e13eb0fb9115fc382
+SHA256: 28310752bc79f835fe35780bd58b7570c23339e0334f867fb23a29e6ecdae590
 Section: Tweaks
 Description: Fingerprint lock apps, settings & switches
 Tag: cydia::commercial
 Author: Ryan Petrich <rpetrich+biolockdown@gmail.com>
-Depiction: https://apktw.github.io/depictions/?p= apktw.com.rpetrich.biolockdown
+Depiction: https://apktw.github.io/depictions/?p=apktw.com.rpetrich.biolockdown
 Dev: rpetrich
 Name: BioLockdown
 Website: http://apk.tw/
@@ -268,19 +312,20 @@ Name: FullForce for Phone
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: apktw.com.rpetrich.grabby
-Version: 1.3.10
+Version: 1.3.11
 Architecture: iphoneos-arm
 Maintainer: Ryan Petrich <rpetrich+grabby@gmail.com>
-Installed-Size: 700
-Depends: mobilesubstrate (>= 0.9.5001), firmware (>= 5.1), preferenceloader (>= 2.2.2), libactivator (>= 1.9.1), com.a3tweaks.flipswitch
+Installed-Size: 812
+Depends: mobilesubstrate (>= 0.9.5001), firmware (>= 5.1), preferenceloader (>= 2.2.2), libactivator (>= 1.9.6), com.a3tweaks.flipswitch
 Conflicts: me.adambell.stride, de.neorame.noisy (<= 1.2), com.nickf.anylockapp, com.nickf.cameralocker, com.myrepospace.maxkatzmann.jellylock, com.a3tweaks.axis
 Replaces: me.adambell.stride, de.neorame.noisy (<= 1.2), com.nickf.anylockapp, com.nickf.cameralocker, com.myrepospace.maxkatzmann.jellylock, com.a3tweaks.axis
-Filename: ./debs/apktw.com.rpetrich.grabby_1.3.10_iphoneos-arm.deb
-Size: 242896
-MD5sum: 6d53e2a21dc6099592df8512ebd4b873
-SHA1: 534d340679c5e6a9af4c5a2b7813eb72ff938f93
-SHA256: 6175164920eef9a3080afb17df9654c63b3f2c659a0c96439a3cc0ed6106dc50
+Filename: ./debs/apktw.com.rpetrich.grabby_1.3.11_iphoneos-arm.deb
+Size: 279272
+MD5sum: 9aa0f41f202448538e811a899021b90e
+SHA1: ab043e3315786478ce7dd4280e48fe788a38b2ea
+SHA256: d7c079256c67fe72b40e4520f88b1ceaf81fd51f4f59cc52269442003443be83
 Section: Tweaks
+Homepage: http://apk.tw/
 Description: Customizable camera grabber
 Tag: cydia::commercial
 Author: Ryan Petrich <rpetrich+grabby@gmail.com>
@@ -288,7 +333,6 @@ Depiction: https://apktw.github.io/depictions/?p=apktw.com.rpetrich.grabby
 Dev: rpetrich
 Icon: file:///Applications/Preferences.app/Camera.png
 Name: Grabby
-Website: http://apk.tw/
 
 Package: apktw.com.rpetrich.videopane
 Version: 2.0.2
@@ -311,6 +355,29 @@ Icon: file:///System/Library/PreferenceLoader/Preferences/VideoPane/VideoPane@2x
 Name: VideoPane
 Website: http://apk.tw/
 
+Package: apktw.com.spiritoflogic.aeternum.hives
+Version: 1.0.1.0
+Architecture: iphoneos-arm
+Maintainer: SpiritOfLogic <support@aeternum.at>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5015), preferenceloader, com.rpetrich.rocketbootstrap, libactivator
+Conflicts: com.spiritoflogic.aeternum
+Replaces: com.spiritoflogic.aeternum
+Filename: ./debs/apktw.com.spiritoflogic.aeternum.hives_1.0.1.0_iphoneos-arm.deb
+Size: 439828
+MD5sum: ba404d592d0afce0cddfb144a5ef7db1
+SHA1: 922e7dd0638dd282eee8f02b2ee625156c71364d
+SHA256: 36a4883c90acd7c0f07116f6928a781f16402728a3d813743a8a81ace3d57911
+Section: Tweaks
+Homepage: http://apk.tw/
+Description: Apple Watch UI App-Grouping SpringBoard replacement,Dock,Spotlight,fully featured Icon Rearranging DeletingAppsBadgesAnimationsiWatchInterfaceSpring BoardPreferenceLoaderSettingsWinterboardThemeActivatorActionNoCrack
+Tag: purpose::extension, purpose::commercial, cydia::commercial, role::enduser
+Author: SpiritOfLogic <support@aeternum.at>
+Depiction: https://apktw.github.io/depictions/?p=apktw.com.spiritoflogic.aeternum.hives
+Dev: spiritoflogic
+Icon: file:///Library/PreferenceBundles/Aeternum.bundle/Icon.png
+Name: Aeternum Hives
+Sponsor: thebigboss.org <http://bigboss@thebigboss.org/>
+
 Package: apktw.com.tigisoftware.filza
 Version: 2.2.0-30
 Architecture: iphoneos-arm
@@ -328,6 +395,28 @@ Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
 Author: TIGI Software
 Depiction: https://apktw.github.io/depictions/?p=apktw.com.tigisoftware.filza
 Name: Filza File Manager
+
+Package: apktw.hapticpro
+Version: 1.4.0
+Architecture: iphoneos-arm
+Installed-Size: 576
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap | firmware (<< 7.0), shell-cmds
+Conflicts: gsc.wildcat
+Filename: ./debs/apktw.hapticpro_1.4.0_iphoneos-arm.deb
+Size: 153574
+MD5sum: 3c4db7c53e92d89ead171e83d627caa9
+SHA1: 6c513db67d7f56cffabbd559d28dd12572f10cdb
+SHA256: ce85fe1e0618d5cd4c6c8fb56a1ec15d9376c83fd68513b439fb361a52db0df1
+Section: System
+Priority: optional
+Homepage: http://apk.tw/
+Description: Customizable haptic feedback for the keyboard, buttons and more!
+Tag: cydia::commercial
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depiction: https://apktw.github.io/depictions/?p=apktw.hapticpro
+Dev: ryanpetrich
+Icon: file:///Library/HapticPro/icon-large.png
+Name: HapticPro
 
 Package: apktw.idv.aqua.iGameGuardian
 Version: 7.0.1.APKTW
@@ -368,21 +457,21 @@ Depiction: https://apktw.github.io/depictions/?p=apktw.idv.aqua.iGameGuardian.Be
 Name: iGameGuardian Beta
 
 Package: apktw.kr.typostudio.tsprotector8
-Version: 1.0-1
+Version: 1.1.2-14
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 807
-Depends: firmware(>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Installed-Size: 667
+Depends: firmware(>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
 Conflicts: kr.typostudio.tsprotector.8, kr.typostudio.tsprotector.p, org.thebigboss.tsprotectorp, kr.typostudio.tsprotector.pfb
-Filename: ./debs/apktw.kr.typostudio.tsprotector8_1.0-1_iphoneos-arm.deb
-Size: 315558
-MD5sum: 522f28215784daca47c7f54045e4305a
-SHA1: d7d5317325e57e2b647414399c35ef55099100c5
-SHA256: 1cd47b15d7179e81cfbb299276e81c692e0a8b5c231a64b90952c502ec0892b4
+Filename: ./debs/apktw.kr.typostudio.tsprotector8_1.1.2-14_iphoneos-arm.deb
+Size: 297052
+MD5sum: 9d156588a64acbe5273db201500abd4a
+SHA1: f26f4ae7edfa651dadf39c0b75fcfdc280cf5276
+SHA256: 9bf89c16d152e8f607a47957b875e67b4a54f135eb0dc3ba9a3ec6ab601f95ca
 Section: Tweaks
 Homepage: http://apk.tw/
 Description: Protect system from suspicious apps
-Tag: cydia::commercial, purpose::extension, compatible::ios8
+Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9
 Author: typ0s2d10 <typ0s2d10@gmail.com>
 Depiction: https://apktw.github.io/depictions/?p=apktw.kr.typostudio.tsprotector8
 Dev: typ0s2d10
@@ -391,27 +480,27 @@ Name: tsProtector 8 (iOS 8+)
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: apktw.me.autotouch.autotouch.ios8
-Version: 3.5.2
+Version: 3.5.3-8
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 10016
-Depends: firmware (>= 8.0), mobilesubstrate (>=0.9.5000), libactivator, com.rpetrich.rocketbootstrap, applist (>= 1.4.1)
+Installed-Size: 7611
+Depends: firmware (>= 8.0), mobilesubstrate (>=0.9.5000), libactivator, applist (>= 1.4.1)
 Conflicts: me.autotouch.autotouch.ios7
-Filename: ./debs/apktw.me.autotouch.autotouch.ios8_3.5.2_iphoneos-arm.deb
-Size: 3868838
-MD5sum: 3f2f812aaf2769815b73c1395eb31c88
-SHA1: 9a4ff4f3cfabfbfb52def6adeea442c18bdf243c
-SHA256: 5662ff96ea107229700b1621b4af84949e14f82ef99672fad368d93cd67f5577
+Filename: ./debs/apktw.me.autotouch.autotouch.ios8_3.5.3-8_iphoneos-arm.deb
+Size: 2830456
+MD5sum: 2af9d27e7017cb5052caff02c91cebda
+SHA1: 2fd4386360895cf3f9f1e340ae8bfdf5d55f8b80
+SHA256: 9c3d2c3354266e99b324b54009a39270696fb206efe00ed18702b3a485fff643
 Section: Tweaks
 Priority: optional
 Homepage: http://apk.tw/
 Description: record and playback touch operations
-Tag: purpose::extension, compatible::ios8
+Tag: purpose::extension, compatible::ios8, compatible::ios9
 Author: Kent Krantz <kentkrantz@gmail.com>
 Depiction: https://apktw.github.io/depictions/?p=apktw.me.autotouch.autotouch.ios8
 Dev: kentkrantz
 Icon: file:///Applications/AutoTouch.app/logo@2x-58.png
-Name: AutoTouch for iOS 8
+Name: AutoTouch
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: apktw.net.joedj.nitrous
@@ -524,6 +613,29 @@ Icon: file:///Library/PreferenceLoader/Preferences/IconTool/IconTool@2x.png
 Name: Icon Tool
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: apktw.org.thebigboss.ccquickpro9
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1122
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: com.cunstuck.ccquick, com.danyl.cccontrols, org.thebigboss.ccquickpro, org.thebigboss.ccquickpro8
+Filename: ./debs/apktw.org.thebigboss.ccquickpro9_1.0-2_iphoneos-arm.deb
+Size: 335534
+MD5sum: 283d81bdf365799d712337ce44e82aa6
+SHA1: 77003612ec05dfc6254104768c5a4f171dd949e0
+SHA256: e2a8f56f9ec2471c5e5472049a60437dc03c6dd1e60c25525b67a8d173238e81
+Section: Tweaks
+Homepage: http://apk.tw/
+Description: shortcuts & powerful options for Control Center
+Tag: purpose::extension, role::enduser, cydia::commercial, compatible::ios9
+Author: Cunstuck <cunstuck@gmail.com>
+Depiction: https://apktw.github.io/depictions/?p=apktw.org.thebigboss.ccquickpro9
+Dev: cunstuck
+Icon: file:///Library/PreferenceBundles/CCQuick.bundle/CCQuickIcon@2x.png
+Name: CCQuick Pro for iOS9
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: apktw.org.thebigboss.locationfaker8
 Version: 1.2-1
 Architecture: iphoneos-arm
@@ -545,6 +657,28 @@ Depiction: https://apktw.github.io/depictions/?p=apktw.org.thebigboss.locationfa
 Dev: cunstuck
 Icon: file:///Applications/LocationChanger.app/icon.png
 Name: LocationFaker (iOS 8 & 9)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: apktw.org.thebigboss.sphereview
+Version: 1.2-4
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 5311
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Filename: ./debs/apktw.org.thebigboss.sphereview_1.2-4_iphoneos-arm.deb
+Size: 2569268
+MD5sum: dc4966b01feba48c390d428a21676953
+SHA1: 83088527cc49c84f40712240aedc4fe99f3f4d47
+SHA256: 63fce9876250cf7a74510abe21aca2b5213d03813475b045c7c1800c977c4f15
+Section: Tweaks
+Homepage: http://apk.tw/
+Description: home screen as zoomable 3D Sphere
+Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9
+Author: va2ron1 <va2ron1@hotmail.com>
+Depiction: https://apktw.github.io/depictions/?p=apktw.org.thebigboss.sphereview
+Dev: va2ron1
+Icon: file:///Library/PreferenceBundles/SphereViewSettings.bundle/icon-small@2x.png
+Name: SphereView
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.julioverne.cydown
