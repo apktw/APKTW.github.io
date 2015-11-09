@@ -1,16 +1,19 @@
 <package>
-	<id></id>
-	<name></name>
-	<version></version>
+	<id>apktw.com.spiritoflogic.aeternum.hives</id>
+	<name>Aeternum Hives</name>
+  <name>（已破解DRM）</name>
+	<version>1.0.1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS></miniOS>
+			<miniOS>8.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package></package>
-		<package></package>
-		<package></package>
+		<package>firmware (>= 8.0)</package>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+    <package>libactivator</package>
+		<package>com.rpetrich.rocketbootstrap</package>
 	</dependencies>
 	<descriptionlist>
 		<description></description>
@@ -18,24 +21,70 @@
 	<screenshots>
 		<screenshot>
 			<description></description>
-			<image></image>
-		</screenshot>		
+			<image>apktw.com.spiritoflogic.aeternum.hives_1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description><![CDATA[
+"The beauty of Aeternum Hives is that you can quickly view and manage all apps without the need for folders. It’s all right there in front of your eyes, with all of your apps being just a tap away." - Jeff from iDownloadBlog<br />
+<br />
+"the best take on my Apple Watch iPhone home screen concept I've seen." - @MichaelSteeber from 9to5mac.com<br />
+<br />
+"MUST HAVE TWEAK! My GF wont let me update her JB from 8 to 9 because she doesnt want to lose Aeternum!!!!" - AnthMosk on reddit<br />
+      ]]></description>
+      <description><![CDATA[
+Apple Watch UI with App-Grouping?<br />
+<br />
+Do you love the look of the Apple Watch UI but feel a lack of usability without the ability to group apps? Do you simply like the new beautiful design and want it with you all the time on your iPhone but at the same time organize your apps in an efficient way?<br />
+This is for you: Aeternum Hives. Meaning "eternity" in Latin Aeternum provides you the elegant new user interface inspired by Apple Watch, scrolling in any direction eternally as long as you have enough icons to feed it. This is where the Hives newly come in: An efficient way to group your apps in the Aeternum space. Icons arrange in hives of 7, and those in hive clusters of 7 hives, which in turn build hive superclusters. That way you can group your apps by whatever you like and you will naturally remember "ok photos stuff is in the upper-left hive", "fitness: bottom-right", "messaging: center" etc. Everything is fully functional, featuring a Dock, Spotlight search and the ability to rearrange all icons (and it is beautiful at that!). There are various settings to adjust the appearance to your needs and you can even theme it.<br />
+<br />
+From the makers of iTouchSecure, PwnTunes and PhotoAlbums+:<br />
+Aeternum Hives - Design... Optimized for your Lifestyle:<br />
+Apple - but with ALL possibilities.<br />
+      ]]></description>
+      <description><![CDATA[
+Features:<br />
+<br />
+-Fully functional Apple Watch SpringBoard UI on iPhone<br />
+-App-Grouping in hives for dramatically increased usability<br />
+-Dock and Spotlight integration<br />
+-Rearrangable icons<br />
+-Ability to sort icons by app usage counts<br />
+-Detailed and smooth animations<br />
+-Fully themable<br />
+-Settings to adjust it to your needs<br />
+-Simply Hide/Show with an Activator action<br />
+-Battery friendly (only uses CPU while scrolling)<br />
+      ]]></description>
+			<image>apktw.com.spiritoflogic.aeternum.hives_2.jpg</image>
+		</screenshot>
 		<screenshot>
 			<description></description>
-			<image></image>
-		</screenshot>		
+			<image>apktw.com.spiritoflogic.aeternum.hives_3.jpg</image>
+		</screenshot>
 		<screenshot>
 			<description></description>
-			<image></image>
-		</screenshot>		
+			<image>apktw.com.spiritoflogic.aeternum.hives_4.jpg</image>
+		</screenshot>
 		<screenshot>
 			<description></description>
-			<image></image>
-		</screenshot>		
+			<image>apktw.com.spiritoflogic.aeternum.hives_5.jpg</image>
+		</screenshot>
+    <screenshot>
+			<description></description>
+			<image>apktw.com.spiritoflogic.aeternum.hives_6.jpg</image>
+		</screenshot>
 		<screenshot>
 			<description></description>
-			<image></image>
-		</screenshot>		
+			<image>apktw.com.spiritoflogic.aeternum.hives_7.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>apktw.com.spiritoflogic.aeternum.hives_8.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>apktw.com.spiritoflogic.aeternum.hives_9.jpg</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
 		<change></change>

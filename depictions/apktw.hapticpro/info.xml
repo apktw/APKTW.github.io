@@ -1,37 +1,24 @@
 <package>
-	<id></id>
-	<name></name>
-	<version></version>
+	<id>apktw.hapticpro</id>
+	<name>HapticPro</name>
+  <name>（已破解DRM）</name>
+	<version>1.4.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS></miniOS>
+			<miniOS>5.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package></package>
-		<package></package>
-		<package></package>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+    <package>com.rpetrich.rocketbootstrap</package>
 	</dependencies>
 	<descriptionlist>
-		<description></description>
+		<description>Customizable haptic feedback for the keyboard, buttons and more!</description>
+    <description>Includes a settings pane to customize the activation sources, trigger events and length of vibration.</description>
+    <description>By it's nature, HapticPro will use more battery to perform device vibration when enabled. For best results choose the shortest vibrate duration you are comfortable with.</description>
 	</descriptionlist>
 	<screenshots>
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
 		<screenshot>
 			<description></description>
 			<image></image>

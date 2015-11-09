@@ -1,12 +1,116 @@
 <changelog>
 	<changes>
+		<version>1.2.14</version>
+		<change>Support iOS 9's new six-digit numeric passcode</change>
+    <change>Updated localizations</change>
+    <change>Restore previous match mode when finish matching, to provide better compatibility with other tweaks that use the Touch ID sensor</change>
+	</changes>
+  <changes>
+		<version>1.2.13</version>
+		<change>Support iOS 9</change>
+	</changes>
+  <changes>
+		<version>1.2.12</version>
+		<change>Support iOS 8.3</change>
+	</changes>
+  <changes>
+		<version>1.2.11</version>
+		<change>Allow picking Wi-Fi networks by name</change>
+    <change>When BioLockdown completes revert biometric matching mode to original state</change>
+    <change>Fix URL loads not receiving protection on iOS 8</change>
+	</changes>
+  <changes>
+		<version>1.2.10</version>
+		<change>Fix restricting bulletins on iOS 8</change>
+    <change>Add White option to the App Switcher privacy settings</change>
+    <change>Properly support protected data mode on iOS 8</change>
+	</changes>
+  <changes>
+		<version>1.2.9</version>
+		<change>Fix iOS 8 crash bug when opening to a locked app</change>
+    <change>Fix Open button in App Store not receiving protection</change>
+    <change>Fix URL loads not receiving protection on iOS 8</change>
+	</changes>
+  <changes>
+		<version>1.2.8</version>
+		<change>Support iOS 8</change>
+	</changes>
+  <changes>
+		<version>1.2.5</version>
+		<change>Update localizations</change>
+    <change>Fix out of process features not being protected</change>
+    <change>Fix Flipswitch not working due to settings path migration</change>
+    <change>Support 32-bit processes requesting access to 64-bit authentication service</change>
+    <change>Block more third-party apps use of photos/camera data</change>
+    <change>Lock down settings panes better when minimizing/restoring the settings app</change>
+	</changes>
+  <changes>
+		<version>1.2.4</version>
+		<change>Secure settings file by making it inaccessible to app store apps</change>
+    <change>Improve performance</change>
+    <change>Require latest versions of dependencies</change>
+    <change>Fix settings pane crash on iOS 6.x</change>
+    <change>Update localizations</change>
+	</changes>
+  <changes>
+		<version>1.2.3</version>
+		<change>Don't prompt twice if device was unlocked with fingerprint that is allowed access to the target app</change>
+    <change>Allow choosing whether grace period is expired upon locking the device</change>
+    <change>Add vibration settings</change>
+    <change>Fix being unable to power down the device</change>
+    <change>Fix "tiny app" bug when rebooting an iOS 6.x device</change>
+	</changes>
+  <changes>
+		<version>1.2.2</version>
+		<change>Allow configuring whether power off, icon reorder, spotlight and Siri are accessible</change>
+    <change>Restrict access to the embeddable views for Mail, Messages, Camera, Photos, Contacts, Twitter and Facebook when the equivalent app is locked down</change>
+    <change>Allow selecting fingerprints individually again</change>
+	</changes>
+  <changes>
+		<version>1.2.1</version>
+		<change>Support disabling passcode and still having apps locked down</change>
+    <change>Allow authenticating based on the Wi-Fi network name</change>
+    <change>Restrict icon rearranging</change>
+    <change>Support iOS 6.x</change>
+    <change>Add Flipswitch switch</change>
+    <change>Gray out device passcode field when no passcode is set</change>
+    <change>Fallback to English text when localization is missing text</change>
+	</changes>
+  <changes>
+		<version>1.2</version>
+		<change>Support choosing which fingerprints are allowed</change>
+    <change>Support authenticating via a device passcode</change>
+    <change>Support authenticating via a custom passcode</change>
+    <change>Terminate grace period if device is locked</change>
+    <change>Support selecting how app switcher previews should be protected</change>
+    <change>Include localizations</change>
+    <change>Support non-iPhone 5S devices</change>
+	</changes>
+  <changes>
+		<version>1.1</version>
+		<change>Allow setting a grace period where fingerprints aren't required</change>
+    <change>Prevent deleting locked apps</change>
+    <change>Restrict access to apps from Spotlight</change>
+    <change>Disable access to the camera roll from photos if the Photos app is locked</change>
+    <change>Localization support</change>
+    <change>Reset Control Center switch state when action is rejected</change>
+    <change>Fix unlocking the device to a protected application</change>
+    <change>Blur the contents of protected apps in the App Switcher</change>
+    <change>Apply locking to apps launched from the Control Center</change>
+    <change>Require fingerprint to power down the device</change>
+	</changes>
+  <changes>
 		<version>1.0</version>
-		<change>首次發布</change>
-		<change>N/A</change>
-		<change>N/A</change>
+		<change>Add support for the upcoming version of VirtualHome and conflict with version 1.0</change>
+    <change>Fix support for locking Flipswitch switches</change>
+    <change>Reshow fingerprint prompt after unlocking, if app is locked down and unlock did not occur using a fingerprint</change>
+    <change>Make doubly sure the sensor is turned on when necessary</change>
+    <change>Fix cases where settings panes would not be locked down after a fresh launch of the settings app</change>
+    <change>Require Flipswitch as necessary</change>
+    <change>Conflict with BioProtect, so that both cannot be installed at the same time</change>
 	</changes>
-	<changes>
-		<version>N/A</version>
-		<change>N/A</change>
-	</changes>
+  <changes>
+		<version>1.0</version>
+		<change>Initial Release</change>
+	</changes>  
 </changelog>

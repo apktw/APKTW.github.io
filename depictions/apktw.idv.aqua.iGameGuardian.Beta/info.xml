@@ -1,33 +1,88 @@
 <package>
-	<id>tw.apk.testpackage</id>
-	<name>測試網頁</name>
-	<version>1.0</version>
+	<id>apktw.idv.aqua.iGameGuardian.beta</id>
+	<name>iGameGuardian Beta</name>
+  <name>（已破解DRM）</name>
+	<version>7.0.1.APKTW</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>6.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>firmware (>= 6.0)</package>
+    <package>mobilesubstrate</package>
 	</dependencies>
 	<descriptionlist>
-		<description>這只是一個測試軟體！請勿安裝！</description>
-		<description></description>
+		<description><![CDATA[
+Requirement: iOS /6.x/7.x/8.x/9.x + JB (jailbreak)<br />
+<br />
+Overview:<br />
+Without it, you are played by games; with it, you play games in your own rules!<br />
+“iGameGuardian” is a game hack/alteration tool for iOS. With it, you can modify money, HP, SP, and much more. You can enjoy the fun part of a game without suffering from its unseasonable part.<br />
+<br />
+Main Features:<br />
+1. Search game value with precise numbers.<br />
+2. Search game value with vague instructions, e.g. larger or smaller.<br />
+3. Lock the game value to a fixed number.<br />
+4. Save/Load the managed list.<br />
+5. Memory browser/editor.<br />
+<br />
+Installation:<br />
+* Before install the newer version, please uninstall the old one first.<br />
+1. Use the tool like 'iTools' to put the file under directory /var/root/Media/Cydia/AutoInstall/ of your jailbreak iOS device.<br />
+2. Reboot your device, it will be installed automatically.<br />
+3. Reboot.<br />
+4. Pangu -> Utility -> Rebuild App list<br />
+(You can also use iFile to install iGG: video. Reboot after installation.)<br />
+<br />
+Un-installation:<br />
+1. Cydia > Manage > Packages > iGameGuardian > Modify > Remove > Confirm<br />
+2. Reboot.<br />
+<br />
+Known Issues:<br />
+1. iOS would disable certain sub-systems when the screen is off, that may cause this iGG failed. DO NOT let you screen off when iGameGuardian is busy, e.g. searching, scrolling.<br />
+<br />
+Warning:<br />
+Don't expect it works on every game. Some games may encode the data to prevent from cheating. Some games, especially online games, store data in servers.<br />
+<br />
+Enjoy playing games in your own way!<br />
+<br />
+FAQ<br />
+<br />
+- Can't find the icon in SpringBoard<br />
+1. Pangu -> Utility -> Rebuild App list<br />
+2. Install other tweaks from Cydia<br />
+<br />
+- iGG does not work after restoring system<br />
+1. Restoring system or upgrading system will clear iGG license. Please email me and providing your WiFi MAC address<br />
+<br />
+- Keep showing "Please reboot your device"<br />
+1. Please don't use tools to kill background processes.<br />
+2. Please don't use Flex to hack iGG.<br />
+3. Try to delete /var/mobile/Library/com.apple.gg.record2.plist<br />
+4. Use VPN if necessary<br />
+<br />
+- Searching forever<br />
+Please check the "Search range" in "More" tab. What's the min and max?<br />
+If your device is 32-bit, try [0x0 ~ 0x10000000].<br />
+If your device is 64-bit, try [0x0 ~ 0x200000000].<br />
+Maybe your should reboot your device after setting the search range.<br />
+<br />
+- App Dead<br />
+Please try to turn on "Use storage" in more tab<br />
+    ]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
-		</screenshot>		
-		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
-		</screenshot>		
+			<description></description>
+			<image></image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>首次發布</change>
-		<change>N/A</change>
-		<change>N/A</change>
+		<change>Thanks for APK.TW for rewritting this tweak and crack the DRM.</change>
+    <change>Support iOS 8, iOS 9.</change>
+    <change>Add difference search function.</change>
+    <change>Add nearby search function.</change>
 	</changelog>
 	<links>
 		<link>

@@ -1,6 +1,7 @@
 <package>
 	<id>apktw.com.kdfly.ibox</id>
 	<name>iBox</name>
+  <name>（已破解DRM）</name>
 	<version>1.1.9-2</version>
 	<compatibility>
 		<firmware>
@@ -14,76 +15,81 @@
     <package>libstatusbar</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Compatible with iOS 7, 8, and 9
-
-Main Features:
-1.StatusBar NetMeter and Floating window NetMeter.
-2.No PassCode on Trusty WiFi.
-①When you are at home,you can jump over the LockScreen without input your PassCode.
-3.Add StatusBar Mute Icon.
-4.Allow StatusBar Style Personalization.
-①Support for custom time format.
-②Support for operator name changes.
-③Support for lock screen displays the time.
-④Support for hidden statusbar icon.
-⑤Support for Replacing WiFi operator name to WiFi SSID or IP address.
-5.Support for modifying the data icon.
-6.More Customization Features In SpringBoard
-①Support for Notification Center always show cleared.
-②Support for Canceling Spotlight.
-③Support for WIFI signal showing numbers.
-④Support for hidden "unread notifications" tab.
-⑤Support for clicking on the icon to display WIFI SSID name and IP address.
-⑥Support for modifying the lock screen text.
-⑦Support for modifying the system animation speed.
-⑧Support for long open press HOME to open flashlight (turnoff just short press the HOME button).
-⑨Enhanced features in AssistiveTouch (AssistiveTouch only have HOME key function).
-⑩Added Remove button to clock and alarm.
-⑪Added control center project management.
-⑫Support for hidden icon text.
-⑬Support for removeing TestFlight orange dots.
-7.Support for hiding Part Some Alert Message
-①Support for hiding "Unsupported accessories" and "non-certified parts" prompt.
-②Support for hiding trust this computer prompts.
-③Support for hiding the "Enable WIFI improve positioning accuracy" prompt.
-④Support for hidden flight mode warning.</description>
-		<description>主要功能：
-一、网速显示
-支持在状态栏时间处和悬浮窗显示即时网速。
-二、信任WIFI下免密码
-很多时候我们在家里或者办公室里玩手机的时候，密码或者指纹解锁总会有那么一丝不方便，开启此功能即可在指定WIFI下跳过解锁界面，直接进入手机主界面。 三、支持状态栏显示静音图标
-四、支持修改数据图标
-你是不是觉得4G图标没有LTE图标好看呢？或者你怕别人看到你在使用WIFI呢？用这个吧。同时支持E,G,3G标志的修改。
-五、状态栏风格个性化
-1、支持自定义时间格式。
-2、运营商名称修改。
-3、支持锁屏显示时间。
-4、支持隐藏不想看到的状态栏图标。
-5、支持运营商处显示为WIFI名称或IP地址。
-六、更多的自定义SpringBoard功能
-1、支持取消长按弹出语音控制。
-2、通知中心总是显示清除。
-3、取消Spotlight。
-4、支持WIFI信号数字。
-5、支持隐藏“未读通知”标签。
-6、点击WIFI图标显示SSID名称和IP地址。
-7、支持修改锁屏文字。
-8、支持修改系统动画速度。
-9、支持长按HOME打开手电筒(关闭只需短按HOME键即可。)。
-10、支持隐藏通知中心提供方信息和雅虎图标。
-11、加入增强小圆点功能（小圆点只有HOME键功能）。
-12、为时钟闹钟添加左滑删除按钮。
-13、加入控制中心项目管理。
-14、支持隐藏主界面图标文字。
-15、支持清除通知时自动清除程序角标。
-16、支持移除TestFlight程序的橘色小圆点。
-七、支持屏蔽部分弹出消息
-1、支持隐藏“不支持的配件”和“未认证的配件”提示。
-2、支持隐藏信任此计算机提示。
-3、支持隐藏“启用WIFI提高定位精度”提示。
-4、支持隐藏飞行模式警告提示。
-八、支持隐藏不想显示的控制中心项目
-Configure options from Settings.</description>
+		<description><![CDATA[
+Compatible with iOS 7, 8, and 9<br />
+<br />
+Main Features:<br />
+1.StatusBar NetMeter and Floating window NetMeter.<br />
+2.No PassCode on Trusty WiFi.<br />
+①When you are at home,you can jump over the LockScreen without input your PassCode.<br />
+3.Add StatusBar Mute Icon.<br />
+4.Allow StatusBar Style Personalization.<br />
+①Support for custom time format.<br />
+②Support for operator name changes.<br />
+③Support for lock screen displays the time.<br />
+④Support for hidden statusbar icon.<br />
+⑤Support for Replacing WiFi operator name to WiFi SSID or IP address.<br />
+5.Support for modifying the data icon.<br />
+6.More Customization Features In SpringBoard<br />
+①Support for Notification Center always show cleared.<br />
+②Support for Canceling Spotlight.<br />
+③Support for WIFI signal showing numbers.<br />
+④Support for hidden "unread notifications" tab.<br />
+⑤Support for clicking on the icon to display WIFI SSID name and IP address.<br />
+⑥Support for modifying the lock screen text.<br />
+⑦Support for modifying the system animation speed.<br />
+⑧Support for long open press HOME to open flashlight (turnoff just short press the HOME button).<br />
+⑨Enhanced features in AssistiveTouch (AssistiveTouch only have HOME key function).<br />
+⑩Added Remove button to clock and alarm.<br />
+⑪Added control center project management.<br />
+⑫Support for hidden icon text.<br />
+⑬Support for removeing TestFlight orange dots.<br />
+7.Support for hiding Part Some Alert Message<br />
+①Support for hiding "Unsupported accessories" and "non-certified parts" prompt.<br />
+②Support for hiding trust this computer prompts.<br />
+③Support for hiding the "Enable WIFI improve positioning accuracy" prompt.<br />
+④Support for hidden flight mode warning.<br />
+    ]]></description>
+		<description><![CDATA[
+主要功能：<br />
+一、网速显示<br />
+支持在状态栏时间处和悬浮窗显示即时网速。<br />
+二、信任WIFI下免密码<br />
+很多时候我们在家里或者办公室里玩手机的时候，密码或者指纹解锁总会有那么一丝不方便，开启此功能即可在指定WIFI下跳过解锁界面，直接进入手机主界面。<br /> 
+三、支持状态栏显示静音图标<br />
+四、支持修改数据图标<br />
+你是不是觉得4G图标没有LTE图标好看呢？或者你怕别人看到你在使用WIFI呢？用这个吧。同时支持E,G,3G标志的修改。<br />
+五、状态栏风格个性化<br />
+1、支持自定义时间格式。<br />
+2、运营商名称修改。<br />
+3、支持锁屏显示时间。<br />
+4、支持隐藏不想看到的状态栏图标。<br />
+5、支持运营商处显示为WIFI名称或IP地址。<br />
+六、更多的自定义SpringBoard功能<br />
+1、支持取消长按弹出语音控制。<br />
+2、通知中心总是显示清除。<br />
+3、取消Spotlight。<br />
+4、支持WIFI信号数字。<br />
+5、支持隐藏“未读通知”标签。<br />
+6、点击WIFI图标显示SSID名称和IP地址。<br />
+7、支持修改锁屏文字。<br />
+8、支持修改系统动画速度。<br />
+9、支持长按HOME打开手电筒(关闭只需短按HOME键即可。)。<br />
+10、支持隐藏通知中心提供方信息和雅虎图标。<br />
+11、加入增强小圆点功能（小圆点只有HOME键功能）。<br />
+12、为时钟闹钟添加左滑删除按钮。<br />
+13、加入控制中心项目管理。<br />
+14、支持隐藏主界面图标文字。<br />
+15、支持清除通知时自动清除程序角标。<br />
+16、支持移除TestFlight程序的橘色小圆点。<br />
+七、支持屏蔽部分弹出消息<br />
+1、支持隐藏“不支持的配件”和“未认证的配件”提示。<br />
+2、支持隐藏信任此计算机提示。<br />
+3、支持隐藏“启用WIFI提高定位精度”提示。<br />
+4、支持隐藏飞行模式警告提示。<br />
+八、支持隐藏不想显示的控制中心项目<br />
+Configure options from Settings.<br />
+    ]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -108,11 +114,10 @@ Configure options from Settings.</description>
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>兼容适配iOS9。</change>
-		<change>支持禁用主页右滑SpotLight。</change>
-		<change>优化系统动画速度的代码和提示。</change>
-    <change>支持Dock栏透明化处理。</change>
-    <change>Compatible with iOS9.</change>
+		<change>修复6s和6s plus接通震动弱的问题。（需大家测试反馈）</change>
+		<change>修复锁屏显示时间的一个界面bug。</change>
+		<change>新增左右下角手势(beta)。</change>
+    <change>Add bottom corner gestures.</change>
 	</changelog>
 	<links>
 		<link>

@@ -1,6 +1,7 @@
 <package>
 	<id>apktw.com.gx5.onehandwizard</id>
 	<name>OneHandWizard</name>
+  <name>（已破解DRM）</name>
 	<version>1.0.5</version>
 	<compatibility>
 		<firmware>
@@ -10,25 +11,28 @@
 	<dependencies>
 		<package>firmware (>= 8.0)</package>
     <package>mobilesubstrate</package>
-    <package>preferenceloader (>= 2.2.2)</package>
-    <package>libactivator </package>
+    <package>preferenceloader</package>
+    <package>libactivator</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Compatible with iOS 8 and 9
-
-OneHandWizard solves one the biggest issues we have all had with newer iphones, especially the 6 and 6 plus.
-Till now, it was impossible to use the iPhone comfortably with one hand, causing clumsiness and plenty of discomfort. </description>
-		<description>
-OneHandWizard is here to let you now fully enjoy your iPhone in one hand mode with the following functionality:
-
-- Full one handed use by simply double tapping the home button ( triple press on iPhone 5/5c)
-- Resize one hand mode to fit your actual thumb reach
-- Left and right hand mode with simple edge drag
-- Volume,mute and other controls in one hand mode
-- Take screenshots in one hand mode
-- Stay in one hand mode as long as needed as opposed to Iphone’s reachability which auto forces you out of one hand mode
-- Endless activation methods thanks to Activator
-- We are the only one hand solution for the lock screen allowing you comfortable usage</description>
+		<description><![CDATA[
+Compatible with iOS 8 and 9<br />
+<br />
+OneHandWizard solves one the biggest issues we have all had with newer iphones, especially the 6 and 6 plus.<br />
+Till now, it was impossible to use the iPhone comfortably with one hand, causing clumsiness and plenty of discomfort. <br />
+    ]]></description>
+		<description><![CDATA[
+OneHandWizard is here to let you now fully enjoy your iPhone in one hand mode with the following functionality:<br />
+<br />
+- Full one handed use by simply double tapping the home button ( triple press on iPhone 5/5c)<br />
+- Resize one hand mode to fit your actual thumb reach<br />
+- Left and right hand mode with simple edge drag<br />
+- Volume,mute and other controls in one hand mode<br />
+- Take screenshots in one hand mode<br />
+- Stay in one hand mode as long as needed as opposed to Iphone’s reachability which auto forces you out of one hand mode<br />
+- Endless activation methods thanks to Activator<br />
+- We are the only one hand solution for the lock screen allowing you comfortable usage<br />
+    ]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>

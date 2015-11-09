@@ -1,33 +1,59 @@
 <package>
-	<id>tw.apk.testpackage</id>
-	<name>測試網頁</name>
-	<version>1.0</version>
+	<id>com.julioverne.cydown</id>
+	<name>CyDown</name>
+  <name>（已破解付費DRM）</name>
+	<version>6.0.7.APKTW</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>6.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
 	</dependencies>
 	<descriptionlist>
-		<description>這只是一個測試軟體！請勿安裝！</description>
-		<description></description>
+		<description>Awesome Download Manager for Cydia</description>
+    <description><![CDATA[
+Compatible with iOS 6 through 9.0.2<br />
+Requires Cydia Installer 1.1.26<br />
+    ]]></description>
+    <description><![CDATA[
+Features:<br />
+<br />
+✔️ Install packages free.<br />
+✔️ Multiples connections downloads.<br />
+✔️ Turbo Mode downloads.<br />
+✔️ Blocker ADs.<br />
+✔️ Tap&amp;Hold any package to start download has background.<br />
+✔️ Backup/Restore all your packages and sources quickly.<br />
+✔️ Cache your packages with MD5Sum verification.<br />
+✔️ Downgrade any package cached by CyDown.<br />
+✔️ Upload files to SendSpace.<br />
+✔️ And more others features.<br />
+Configure options from Settings.<br />
+    ]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
-		</screenshot>		
+			<description></description>
+			<image>com.julioverne.cydown_1.png</image>
+		</screenshot>
 		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
-		</screenshot>		
+			<description></description>
+			<image>com.julioverne.cydown_2.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>com.julioverne.cydown_3.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>com.julioverne.cydown_4.png</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>首次發布</change>
-		<change>N/A</change>
-		<change>N/A</change>
+		<change>Thanks for APK.TW for rewritting this tweak and crack the DRM.</change>
 	</changelog>
 	<links>
 		<link>

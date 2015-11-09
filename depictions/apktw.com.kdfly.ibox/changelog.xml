@@ -1,4 +1,11 @@
 <changelog>
+  <changes>
+		<version>1.2.0-6</version>
+		<change>修复6s和6s plus接通震动弱的问题。（需大家测试反馈）</change>
+		<change>修复锁屏显示时间的一个界面bug。</change>
+		<change>新增左右下角手势(beta)。</change>
+    <change>Add bottom corner gestures.</change>
+  </changes>
 	<changes>
 		<version>1.1.9</version>
 		<change>兼容适配iOS9。</change>

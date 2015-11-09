@@ -1,33 +1,29 @@
 <package>
-	<id>tw.apk.testpackage</id>
-	<name>測試網頁</name>
-	<version>1.0</version>
+	<id>apktw.net.limneos.photoslive</id>
+	<name>PhotosLive</name>
+  <name>（已破解DRM）</name>
+	<version>0.2-59</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>8.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
+    <package>firmware (>= 8.0)</package>
 		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
 	</dependencies>
 	<descriptionlist>
-		<description>這只是一個測試軟體！請勿安裝！</description>
 		<description></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
-		</screenshot>		
-		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
+			<description></description>
+			<image></image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>首次發布</change>
-		<change>N/A</change>
-		<change>N/A</change>
+		<change></change>
 	</changelog>
 	<links>
 		<link>

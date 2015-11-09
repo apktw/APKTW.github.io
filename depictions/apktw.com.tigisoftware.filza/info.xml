@@ -1,33 +1,89 @@
 <package>
-	<id>tw.apk.testpackage</id>
-	<name>測試網頁</name>
-	<version>1.0</version>
+	<id>apktw.com.tigisoftware.filza</id>
+	<name>Filza File Manager</name>
+  <name>（已破解DRM）</name>
+	<version>2.2.0-30</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>1.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>zip</package>
+		<package>unzip</package>
+		<package>gzip</package>
+    <package>unrar</package>
+    <package>p7zip</package>
 	</dependencies>
 	<descriptionlist>
-		<description>這只是一個測試軟體！請勿安裝！</description>
-		<description></description>
+		<description><![CDATA[
+Compatible with iOS 7, 8 and 9<br />
+<br />
+Powerful File Manager for iPhone, iPad, iPod Touch. Flat design, with best performance:<br />
+– File viewers: Media player, Hex editor, Text editor, SQLite Editor, IPA Installer, DEB Installer, Web viewer, Terminal ….<br />
+– SQLite Editor was design for large query, works well with over 100k+ rows in result<br />
+– Execute shell scripts and applications just few tap<br />
+– Cloud services: Dropbox, Box, Google Drive, WebDAV, FTP, SFTP<br />
+– Supports SMB (Windows File Sharing)<br />
+– Search files and folders easily<br />
+– Powerful files copy/move design, just few taps<br />
+– Download normal/html file with easy way: copy html link to Pasteboard, and paste it to destination folder<br />
+– Manage Music library easily: import/export/delete/rename ... just do same as normal files<br />
+– Explore files in list view mode or grid view mode, with thumbnail<br />
+– Compress zip file, decompress zip/7z/rar/tar/tar.gz/gz ...<br />
+– Install and extract DEB/IPA file, view DEB/IPA file information<br />
+– Black theme and white theme, custom folder icon, file extension icon, ...<br />
+– And more features ...<br />
+    ]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
-		</screenshot>		
+			<description></description>
+			<image>apktw.com.tigisoftware.filza_1.jpg</image>
+		</screenshot>
 		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
-		</screenshot>		
+			<description></description>
+			<image>apktw.com.tigisoftware.filza_2.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>apktw.com.tigisoftware.filza_3.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>apktw.com.tigisoftware.filza_4.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>apktw.com.tigisoftware.filza_5.jpg</image>
+		</screenshot>
+    <screenshot>
+			<description></description>
+			<image>apktw.com.tigisoftware.filza_6.jpg</image>
+		</screenshot>
+    <screenshot>
+			<description></description>
+			<image>apktw.com.tigisoftware.filza_7.jpg</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>首次發布</change>
-		<change>N/A</change>
-		<change>N/A</change>
+		<change><![CDATA[
+Please view Filza > Settings > Changelog for full list<br />
+<br />
+- Updated for iOS 9<br />
+- Fixed WebDAV/SMB issue (cause Filza crash at startup)<br />
+- Fixed Plist Editor display issue<br />
+- Fixed some UI bugs on iPad<br />
+-Updated for iOS 9<br />
+-Updated Music library for iOS 9 (import issue was fixed in version 2.1.1)<br />
+-Updated Text Editor for iOS 9<br />
+-Fixed bug when creating new file/folder on iPad<br />
+-Fixed unzip feature on iOS 9<br />
+-Updated Change File user/group owner, added 'apply to subitems'<br />
+-Updated Unzip feature: restore file owner, setuid/setgid/tacky permissions<br />
+-Updated SugarSync cloud storage service<br />
+-Updated FTP, SFTP, SMB (Fixed issue: Can't login with username contains character '@')<br />
+    ]]></change>
 	</changelog>
 	<links>
 		<link>

@@ -1,33 +1,47 @@
 <package>
-	<id>tw.apk.testpackage</id>
-	<name>測試網頁</name>
-	<version>1.0</version>
+	<id>apktw.net.joedj.nitrous</id>
+	<name>Nitrous</name>
+  <name>（已破解DRM）</name>
+	<version>2.5-6</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>4.3</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
+		<package>firmware (>= 4.3)</package>
 		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+    <package>applist</package>
 	</dependencies>
 	<descriptionlist>
-		<description>這只是一個測試軟體！請勿安裝！</description>
-		<description></description>
+		<description><![CDATA[
+Compatible with iOS 4.3 through 9<br />
+Featured in Lifehacker's Best Jailbreak Tweaks for both iOS 6 and iOS 7!<br />
+<br />
+Unlock the Nitro Just-In-Time JavaScript engine to give your apps a speed boost.<br />
+<br />
+Nitrous unlocks the faster Nitro JavaScript JIT compiler that is normally reserved only for Apple's own apps.<br />
+<br />
+Nitro dramatically improves JavaScript performance in web-oriented applications like Chrome/Facebook/Twitter /AlienBlue/Dolphin/Mercury, typically making it 4x to 5x faster.<br />
+<br />
+You can choose to enable Nitrous for all apps, or select which apps to boost. Turn it on and off quickly using Activator actions or FlipSwitch switches.<br />
+<br />
+No new icons are added to your home screen - you can find Nitrous on the main page of the Settings app.<br />
+    ]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
+			<description></description>
+			<image>apktw.net.joedj.nitrous_1.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
+			<description></description>
+			<image>apktw.net.joedj.nitrous_2.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>首次發布</change>
-		<change>N/A</change>
-		<change>N/A</change>
+		<change>iOS 9 compatibility</change>
 	</changelog>
 	<links>
 		<link>

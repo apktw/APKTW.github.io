@@ -1,33 +1,100 @@
 <package>
-	<id>tw.apk.testpackage</id>
-	<name>測試網頁</name>
-	<version>1.0</version>
+	<id>apktw.com.ouraigua.safaridownloaderplus</id>
+	<name>Safari Downloader+</name>
+  <name>（已破解DRM）</name>
+	<version>4.0.3-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
+    <package>firmware (>= 7.0)</package>
 		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>com.ouraigua.safaridownloader</package>
 	</dependencies>
 	<descriptionlist>
-		<description>這只是一個測試軟體！請勿安裝！</description>
-		<description></description>
+		<description><![CDATA[
+<strong>Compatibility Information:</strong><br />
+<strong style="color:green">
+- Supported devices: All current iOS devices<br />
+- Firmware: iOS 7, 8 and 9 (Support for iOS 6.x is now discontinued).<br />
+- Language: English, French, German, Italian, Spanish and Arabic (Please contact me if you wish to help localize SD+ to your native language).<br />
+</strong>
+<br />
+<strong>Description</strong><br />
+--------------------------------------<br />
+Safari Downloader+ is a nifty extension which combines 3 apps in one package:<br />
+- A "File Download Manager”.<br />
+- A "Video Downloader" for popular video websites like Youtube, Vevo, Dailymotion and Vimeo.<br />
+- A "Media Importer”.<br />
+<br />
+It's like having "Safari Download Manager", "Protube" and "Bridge" all in one package for a fraction of their combined price, giving you an all in one solution for all your downloading needs and media related activities.<br />
+Safari Downloader+ adds a powerful, slick and easy to use download manager to Safari browser right on your iDevice. It allows you to download pretty much anything you encounter on the Web. It supports an extensive list of file types and mimes which you can configure and expand to suit your needs. Files can then be opened in any application that supports that particular file type in your device.<br />
+<br />
+Safari Downloader+ also delivers a unique and fully featured solution for downloading videos for offline viewing from major video websites like YouTube, Vevo, Dailymotion and Vimeo (other sites are periodically added). And if that's not enough, SD+ integrates a standalone app for importing and viewing any supported media on your device. You can use it to fully customise the Metadata, add artwork and import the video or only the audio into various built-in supported apps: Music App, Videos App, Podcasts, Photos App...<br />
+<br />
+The user interface was lovingly designed to give SD+ a clean and sexy look and feel which integrate discreetly and beautifully with iOS design.<br />
+<br />
+<strong>Download Manager Features</strong><br />
+--------------------------------------<br />
+- Pause and resume your downloads. And even when a download fails or you turn off your device, you can go back and resume any unfinished downloads.<br />
+- Provides a convenience and accessible switch to quickly toggle Safari Downloader+ On/Off simply by holding and swiping away on the "Downloads" icon.<br />
+- A large and fully customisable list of supported file types.<br />
+- Control the number of concurrent downloads in the queue.<br />
+- Badge notification to denote number of downloads in progress.<br />
+- Save downloads anywhere within the "mobile" (/var/mobile) directory.<br />
+- In app previewing of common file types (iWork, Microsoft Office, RTF, PDF, Images, CSV…).<br />
+- Import supported Media (Audio/Video) to a wide range of destinations.<br />
+- Supports Private browsing mode.<br />
+<br />
+<strong>Video Downloading Features</strong><br />
+--------------------------------------<br />
+- Download YouTube, Vevo, Dailymotion and Vimeo videos for offline viewing (other sites are periodically added).<br />
+- Choose between multiple video qualities: 144p up to 1080p (YouTube has removed 1080p mp4 videos. However SD+ will still allow you to download 1080p video only when available.)<br />
+- Discreet sliding panel with quality options controlled by a convenient draggable button.<br />
+- Large and beautiful Retina icons fully adaptable to iPhone and iPad display.<br />
+- Supports both portrait and landscape device orientations.<br />
+<br />
+<strong>Media Importer</strong><br />
+--------------------------------------<br />
+- Import supported Media (Audio/Video) with corresponding artwork to a wide range of destinations: Music Library, Video App, Podcasts App, Camera Roll, Mail App…<br />
+- Freely modify your media's Metadata with support to search for a specific album artwork.<br />
+- Media Importer supports 3G/LTE and WiFi modes.<br />
+- Ability to import multiple files in one go to the same destination.<br />
+<br />
+<strong>Preferences</strong><br />
+--------------------------------------<br />
+- Configure options from within the “Settings” app as well as within Safari app.<br />
+- Please use twitter to request new features, report bugs or simply to leave a comment.<br />
+<br />
+<strong>More Info</strong><br />
+<strong style="color:green">
+For more information, explanations and screenshots, please visit <a href="http://www.ouraigua.com" target="_new">www.ouraigua.com</a><br />
+</strong>
+    ]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
-		</screenshot>		
-		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
-		</screenshot>		
+			<description></description>
+			<image>apktw.com.ouraigua.safaridownloaderplus_1.jpg</image>
+		</screenshot>
+    <screenshot>
+			<description></description>
+			<image>apktw.com.ouraigua.safaridownloaderplus_2.jpg</image>
+		</screenshot>
+    <screenshot>
+			<description></description>
+			<image>apktw.com.ouraigua.safaridownloaderplus_3.jpg</image>
+		</screenshot>
+    <screenshot>
+			<description></description>
+			<image>apktw.com.ouraigua.safaridownloaderplus_4.jpg</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>首次發布</change>
-		<change>N/A</change>
-		<change>N/A</change>
+		<change>Fixed DailyMotion videos not downloading</change>
 	</changelog>
 	<links>
 		<link>

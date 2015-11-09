@@ -1,33 +1,43 @@
 <package>
-	<id>tw.apk.testpackage</id>
-	<name>測試網頁</name>
-	<version>1.0</version>
+	<id>apktw.com.rpetrich.grabby</id>
+	<name>Grabby</name>
+  <name>（已破解DRM）</name>
+	<version>1.3.11</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>5.1</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
+    <package>firmware (>= 5.1)</package>
 		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>libactivator</package>
+    <package>com.a3tweaks.flipswitch</package>
 	</dependencies>
 	<descriptionlist>
-		<description>這只是一個測試軟體！請勿安裝！</description>
-		<description></description>
+		<description>Quick and stylish access to apps from the camera grabber—just swipe left!</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
+			<description></description>
+			<image>apktw.com.rpetrich.grabby_1.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
+			<description></description>
+			<image>apktw.com.rpetrich.grabby_2.jpg</image>
+		</screenshot>		
+    <screenshot>
+			<description></description>
+			<image>apktw.com.rpetrich.grabby_3.png</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>apktw.com.rpetrich.grabby_4.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>首次發布</change>
-		<change>N/A</change>
-		<change>N/A</change>
+		<change></change>
 	</changelog>
 	<links>
 		<link>

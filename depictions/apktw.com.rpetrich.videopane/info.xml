@@ -1,33 +1,50 @@
 <package>
-	<id>tw.apk.testpackage</id>
-	<name>測試網頁</name>
-	<version>1.0</version>
+	<id>apktw.com.rpetrich.videopane</id>
+	<name>VideoPane</name>
+  <name>（已破解DRM）</name>
+	<version>2.0.2</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>5.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
+    <package>firmware (>= 5.0)</package>
 		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>applist</package>
+    <package>libactivator</package>
+		<package>com.rpetrich.rocketbootstrap</package>
 	</dependencies>
 	<descriptionlist>
-		<description>這只是一個測試軟體！請勿安裝！</description>
-		<description></description>
+		<description>Detach videos into a separate draggable pane</description>
+		<description>Multitask watching videos from iTunes, Safari, Facebook, Twitter, Dropbox, iPlayer and more</description>
+    <description>Features simple gestures with Activator customization</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
+			<description></description>
+			<image>apktw.com.rpetrich.videopane_1.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
+			<description></description>
+			<image>apktw.com.rpetrich.videopane_2.jpg</image>
+		</screenshot>		
+    <screenshot>
+			<description></description>
+			<image>apktw.com.rpetrich.videopane_3.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>apktw.com.rpetrich.videopane_4.jpg</image>
+		</screenshot>		
+    <screenshot>
+			<description></description>
+			<image>apktw.com.rpetrich.videopane_5.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>首次發布</change>
-		<change>N/A</change>
-		<change>N/A</change>
+		<change></change>
 	</changelog>
 	<links>
 		<link>

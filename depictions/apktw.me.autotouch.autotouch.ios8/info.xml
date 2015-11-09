@@ -1,33 +1,58 @@
 <package>
-	<id>tw.apk.testpackage</id>
-	<name>測試網頁</name>
-	<version>1.0</version>
+	<id>apktw.me.autotouch.autotouch.ios8</id>
+	<name>AutoTouch</name>
+  <name>（已破解DRM）</name>
+	<version>3.5.3-8</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>8.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
+		<package>firmware (>= 8.0)</package>
 		<package>mobilesubstrate</package>
+		<package>libactivator</package>
+    <package>applist</package>
 	</dependencies>
 	<descriptionlist>
-		<description>這只是一個測試軟體！請勿安裝！</description>
-		<description></description>
+		<description><![CDATA[
+Supports iOS 8/9 and above, a macro tool for recording and playing back the touch actions.<br />
+<br />
+AutoTouch is used to record and playback your operations in your mobile device, such as iPhone, iPad, iPad Mini, iPod Touch. More often it’s used to run the lua script written beforehand to implement more powerful features. You may use it to play games automatically to gain more score and coins, even use it to simulate human operations to test your program with nobody. You have to jailbreak you device before installing AutoTouch. Jailbreak is easy and you can search from the internet.<br />
+<br />
+Configure options at Autotouch app.<br />
+    ]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
+			<description></description>
+			<image>apktw.me.autotouch.autotouch.ios8_1.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
+			<description></description>
+			<image>apktw.me.autotouch.autotouch.ios8_2.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>apktw.me.autotouch.autotouch.ios8_3.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>apktw.me.autotouch.autotouch.ios8_4.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>apktw.me.autotouch.autotouch.ios8_5.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>首次發布</change>
-		<change>N/A</change>
-		<change>N/A</change>
+		<change>New getColors function.</change>
+    <change>Fixed some bugs.</change>
+    <change>Fixed the bug of screenshot/getColor in iPhone5 with iOS9.</change>
+    <change>Fixed the bug of crash when loop getting color.</change>
+    <change>Fixed the bug of coordinate picker.</change>
+    <change>Fixed the bug of replaying inaccurately.</change>
+    <change>Fixed the bug of taking screenshot and finding colors for iPhone 6 Plus.</change>
 	</changelog>
 	<links>
 		<link>

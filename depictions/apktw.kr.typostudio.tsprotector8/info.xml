@@ -1,33 +1,57 @@
 <package>
-	<id>tw.apk.testpackage</id>
-	<name>測試網頁</name>
-	<version>1.0</version>
+	<id>apktw.kr.typostudio.tsprotector8</id>
+	<name>tsProtector 8 (iOS 8+)</name>
+  <name>（已破解DRM）</name>
+	<version>1.1.2-14</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>8.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
+    <package>firmware (>= 8.0)</package>
 		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+    <package>applist</package>
 	</dependencies>
 	<descriptionlist>
-		<description>這只是一個測試軟體！請勿安裝！</description>
-		<description></description>
+		<description><![CDATA[
+Compatible with iOS 8 and 9<br />
+Also, <a href="cydia://package/org.thebigboss.tsprotectorp" target="_new">tsProtector P (iOS 5,6,7)</a><br />
+<br />
+iOS8 이상 버전이 필요한 트윅입니다.<br />
+<br />
+이 트윅은 앱스토어의 앱이 시스템에 접근하는 것을 탐지하고 보호합니다.<br />
+<br />
+tsProtector P 의 iOS8 대응 버전입니다.<br />
+점차 여러 유용한 기능을 추가해 나갈 것입니다.<br />
+<br />
+접근탐지를 하지 못하거나 어떠한 문제가 생긴다면 설정에서 "문제점 보고하기"로 메일을 보내주십시오. 또는 트위터 @typ0s2d10 로 연락주시면 감사하겠습니다.<br />
+<br />
+홈화면에 아이콘이 생기지 않으며, 설정앱에 설정항목이 추가됩니다.<br />
+<br />
+Requires iOS 8 or higher<br />
+<br />
+This tweak let you protect your device's system from AppStore apps.<br />
+<br />
+This tweak is the next version of tsProtector P for iOS 8.<br />
+I'll add more features soon.<br />
+<br />
+If you would like to report any app that cannot be detected by this tweak, please report it to @typ0s2d10, can't guarantee a fix though. I also welcome bug reports via Settings.<br />
+Thanks to Alexianos Noad(@alexianos_n) for translating.<br />
+<br />
+Configure tweak options from Settings app. No icon is added to the home screen.<br />
+    ]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
-		</screenshot>		
-		<screenshot>
-			<description>This is a screenshot of Cydia.</description>
-			<image>Cydia.jpg</image>
-		</screenshot>		
+			<description></description>
+			<image>apktw.kr.typostudio.tsprotector8_1.jpg</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>首次發布</change>
-		<change>N/A</change>
-		<change>N/A</change>
+		<change>Changed license check for users in CHINA</change>
+    <change>Support iOS 9+</change>
 	</changelog>
 	<links>
 		<link>
