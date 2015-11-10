@@ -1,7 +1,9 @@
 <package>
 	<id>apktw.idv.aqua.iGameGuardian</id>
-	<name>iGameGuardian</name>
-  <name>（APK.TW獨家破解DRM）</name>
+	<name><![CDATA[
+iGameGuardian<br />
+（APK.TW獨家破解DRM）<br />
+  ]]></name>
 	<version>7.0.1.APKTW</version>
 	<compatibility>
 		<firmware>
