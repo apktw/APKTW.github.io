@@ -1,44 +1,51 @@
 <package>
-	<id></id>
-	<name></name>
-	<version></version>
+	<id>apktw.org.ioshack.icontool</id>
+	<name>Icon Tool</name>
+	<version>1.9-2</version>
 	<compatibility>
 		<firmware>
-			<miniOS></miniOS>
+			<miniOS>5.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package></package>
-		<package></package>
-		<package></package>
+    <package>firmware (>= 5.0)</package>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+    <package>com.ericasadun.utilities</package>
 	</dependencies>
 	<descriptionlist>
-		<description></description>
+		<description><![CDATA[
+Compatible with iOS 5, 6, 7, 8 and 9<br />
+Supports iPhone, iPod, iPad<br />
+<br />
+Triple-click app icon to Launch the tools when icon is jittering.<br />
+Current Tools List:<br />
+1. Open in iFile<br />
+2. Clear App Badge<br />
+3. Launch App<br />
+4. Delete App<br />
+5. Clear App Caches<br />
+6. Backup App Data<br />
+7. Restore App Data(like Time Machine)<br />
+<br />
+I'll add more tools.<br>
+<br />
+Configure options from Settings.<br />
+    ]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description></description>
-			<image></image>
-		</screenshot>		
+			<image>apktw.org.ioshack.icontool_1.jpg</image>
+		</screenshot>
 		<screenshot>
 			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
+			<image>apktw.org.ioshack.icontool_2.jpg</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change></change>
+		<change>iOS9 compatible</change>
+    <change>兼容iOS9</change>
 	</changelog>
 	<links>
 		<link>

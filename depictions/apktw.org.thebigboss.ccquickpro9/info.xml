@@ -1,44 +1,61 @@
 <package>
-	<id></id>
-	<name></name>
-	<version></version>
+	<id>apktw.org.thebigboss.ccquickpro9</id>
+	<name>CCQuick Pro for iOS9</name>
+	<version>1.0-2</version>
 	<compatibility>
 		<firmware>
-			<miniOS></miniOS>
+			<miniOS>9.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package></package>
-		<package></package>
-		<package></package>
+    <package>firmware (>= 9.0)</package>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
 	</dependencies>
 	<descriptionlist>
-		<description></description>
+		<description><![CDATA[
+Compatible with iOS 9<br />
+If you purchase CCQuick Pro, you can use "CCQuick Pro for iOS9" for free<br />
+Also available, <a href="cydia://package/org.thebigboss.ccquickpro8">CCQuick Pro for iOS8</a><br />
+<br />
+StatusBar Gesture<br />
+Swipe right to lock device in anywhere.<br />
+Swipe left to goto Home Screen in Application, and to lock device in Home Screen.<br />
+Double Tap to open Multitask.<br />
+Hold to Screen Capture.<br />
+Hide ControlCenter Sections<br />
+You can hide unused section<br />
+<br />
+Customize ControlCenter BackgroundColor by RGB and alpha<br />
+Multitask<br />
+Customize CCQuick Pro Buttons.<br />
+Add more CCQuick Buttons.<br />
+Swipe up on the APP Icon when Portrait, and swipe right on the APP Icon when Landscape. <br />
+Hold on to kill background.<br />
+Animation and Gesture<br />
+You can push the MainView up when ContorlCenter is transition.<br />
+Also you can swipe up than original height and drag off to quit app or lock device and you can set the height which activate the gesture functions.<br />
+<br />
+Animation and Gesture!!!!!!<br />
+ControlCenter Animation and Gesture, you can push the MainView up when ContorlCenter is show, and swipe up than original height and drag off to quit app or lock device. Also you can set the height which activate the gesture functions.<br />
+<br />
+There are 15 toggles: location, ringer muted, edge, 3G/LTE, vibrate, hotspot, vpn, autobrightness, autolock, locationfaker, airplane, wifi, bluetooth, donotdisturb, orientationlocked.<br />
+<br />
+<iframe width="268" height="201" src="//www.youtube.com/embed/BK3MWXy7BVo" frameborder="0" allowfullscreen></iframe><br />
+    ]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
+			<image>apktw.org.thebigboss.ccquickpro9_1.jpg</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change></change>
+		<change>add NoGrabber</change>
+    <change>Fix crash bug</change>
+    <change>Optimize Spotlight lock</change>
+    <change>Add Low Power Mode Toggle</change>
+    <change>Optimize for iOS9</change>
 	</changelog>
 	<links>
 		<link>

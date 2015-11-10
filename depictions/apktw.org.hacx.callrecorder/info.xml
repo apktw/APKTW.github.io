@@ -1,44 +1,54 @@
 <package>
-	<id></id>
-	<name></name>
-	<version></version>
+	<id>apktw.org.hacx.callrecorder</id>
+	<name>Call Recorder (iOS)</name>
+	<version>2.07-3</version>
 	<compatibility>
 		<firmware>
-			<miniOS></miniOS>
+			<miniOS>6.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package></package>
-		<package></package>
-		<package></package>
+    <package>firmware (>= 6.0)</package>
+		<package>mobilesubstrate</package>
+		<package>applist</package>
+		<package>org.hacx.hacxdaemon</package>
 	</dependencies>
 	<descriptionlist>
-		<description></description>
+		<description><![CDATA[
+<font color='red'>Compatible with iPhone 4S/5/5C/5S/6/6+/6S/6S+ on iOS 7.0 - 9.02</font><br />
+      <br />
+Record any Phone Call or VoIP Call (speaker or microphone, except iPhone 4S) on your device without using an external call service.<br />
+<br />
+Supports: Phone/Voip Calls, Viber, Skype, FaceTime, Line, Music App, YouTube, Spotify, Radio, etc,..<br />
+<br />
+<p style='text-align: center; font-size:15px;'>
+Call Recorder App: Play/Delete/Share your recordings and quickly setup Activator gestures.<br />
+<br />
+Internal Web Server allows to easily access all your recordings from your personal computer and directly download, delete or play them from the device.<br />
+<br />
+Skype/Viber &amp; CallBar Support: Adds a quick record button directly into the call view.<br />
+<br />
+Google Drive: Every recording will be automatically uploaded to your Google Drive account when you finish recording.<br />
+<br />
+Activator Support: Toggle recording by Triple clicking the home button (or set other Activator gesture from the inside the application settings).<br /></p>
+    ]]></description>
+    <description><![CDATA[
+* This tweak only works on iPhone 4S/5/5C/5S/6/6+/6S/6S+ with iOS 7 and up.<br />
+on iPhone 4S it only works while playing through the external Speaker.<br />
+<br />
+** In some countries it's illegal to perform a recording without the other party acknowledgement. Call Recorder can play a beep sound every 20 seconds to notify the other party of a recording taking place (You can disable/enable beeping from the application). Yaniv Danan (aka @hAcx) cannot be held responsible for any illegal use of this application and by installing this application you confirm that you take full responsibility on actions performed by this application **<br />
+    ]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description></description>
 			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change></change>
+		<change>Even more iOS 9 Support</change>
+    <change>Fixed - "Add Contact" in auto record settings was not working</change>
+    <change>Fixed - Settings not saved</change>
 	</changelog>
 	<links>
 		<link>

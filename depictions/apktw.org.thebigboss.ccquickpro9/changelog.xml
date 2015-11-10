@@ -1,6 +1,10 @@
 <changelog>
 	<changes>
-		<version></version>
-		<change></change>
+		<version>1.0-2</version>
+		<change>add NoGrabber</change>
+    <change>Fix crash bug</change>
+    <change>Optimize Spotlight lock</change>
+    <change>Add Low Power Mode Toggle</change>
+    <change>Optimize for iOS9</change>
 	</changes>
 </changelog>

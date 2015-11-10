@@ -1,5 +1,12 @@
 <changelog>
 	<changes>
+    <version>3.0.0-43</version>
+		<change><![CDATA[
+-Filza now runs as mobile user instead of root.<br />
+-Fixes 3rd keyboard, language, airdrop issue, black status bar issue ...<br />
+-Fixed FTP bug.<br />
+    ]]></change>
+	</changes>
 		<version>2.2.0-30</version>
 		<change><![CDATA[
 Please view Filza > Settings > Changelog for full list<br />

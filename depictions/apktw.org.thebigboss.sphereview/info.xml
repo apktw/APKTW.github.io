@@ -1,44 +1,54 @@
 <package>
-	<id></id>
-	<name></name>
-	<version></version>
+	<id>apktw.org.thebigboss.sphereview</id>
+	<name>SphereView</name>
+	<version>1.2-4</version>
 	<compatibility>
 		<firmware>
-			<miniOS></miniOS>
+			<miniOS>8.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package></package>
-		<package></package>
-		<package></package>
+    <package>firmware (>= 8.0)</package>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
 	</dependencies>
 	<descriptionlist>
-		<description></description>
+		<description><![CDATA[
+SphereView is another perspective view of the SpringBoard in which replace the home screen with a fantastic 3D Sphere. Is zoomable so you can watch easily your apps even with a hundreds of them.<br />
+Also have a Dock with your notifications apps.<br />
+<br />
+Works in portrait and landscape.<br />
+Compatible with iOS 8 and 9 on iPhone and iPad.<br />
+<br />
+After installed go to the SphereView option on Settings for the activation.<br />
+<br />
+Configure options from Settings.<br />
+    ]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description></description>
-			<image></image>
-		</screenshot>		
+			<image>apktw.org.thebigboss.sphereview_1.jpg</image>
+		</screenshot>
 		<screenshot>
 			<description></description>
-			<image></image>
-		</screenshot>		
+			<image>apktw.org.thebigboss.sphereview_2.jpg</image>
+		</screenshot>
 		<screenshot>
 			<description></description>
-			<image></image>
-		</screenshot>		
+			<image>apktw.org.thebigboss.sphereview_3.jpg</image>
+		</screenshot>
 		<screenshot>
 			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
+			<image>apktw.org.thebigboss.sphereview_4.jpg</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change></change>
+		<change>fixed a bug that prevent opening apps from Favorite Dock</change>
+    <change>fixed slow animation of the sphere</change>
+    <change>now compatible with iOS 9</change>
+    <change>added a new dock to set your favorite apps</change>
+    <change>minor improvements</change>
 	</changelog>
 	<links>
 		<link>

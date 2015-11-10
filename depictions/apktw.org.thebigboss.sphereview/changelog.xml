@@ -1,6 +1,10 @@
 <changelog>
 	<changes>
-		<version></version>
-		<change></change>
+		<version>1.2-4</version>
+		<change>fixed a bug that prevent opening apps from Favorite Dock</change>
+    <change>fixed slow animation of the sphere</change>
+    <change>now compatible with iOS 9</change>
+    <change>added a new dock to set your favorite apps</change>
+    <change>minor improvements</change>
 	</changes>
 </changelog>

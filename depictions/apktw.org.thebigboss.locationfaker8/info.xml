@@ -1,44 +1,58 @@
 <package>
-	<id></id>
-	<name></name>
-	<version></version>
+	<id>apktw.org.thebigboss.locationfaker8</id>
+	<name>LocationFaker (iOS 8 &amp; 9)</name>
+	<version>1.2-1</version>
 	<compatibility>
 		<firmware>
-			<miniOS></miniOS>
+			<miniOS>8.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package></package>
-		<package></package>
-		<package></package>
+    <package>firmware (>= 8.0)</package>
+		<package>mobilesubstrate</package>
 	</dependencies>
 	<descriptionlist>
-		<description></description>
+		<description><![CDATA[
+Compatible with iOS 8 and 9<br />
+LocationFaker is compatible with iOS8 and 9(iPhone6/6s, iPhone6/6s Plus)<br />
+<br />
+If you purchase "LocationFaker", you can use "LocationFaker8" for free<br />
+Also available, <a href="cydia://package/org.thebigboss.locationchangerx" target="_new">LocationFaker for iOS 5,6,7</a><br />
+<br />
+You can change you Location in any app.<br />
+Like: We Chat, Facebook,Find My iPhone...<br />
+<br />
+Just select the location in the map, and turn on the switch<br />
+<br />
+New app on your home screen.<br />
+    ]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description></description>
-			<image></image>
+			<image>apktw.org.thebigboss.locationfaker8_1.jpg</image>
 		</screenshot>		
 		<screenshot>
 			<description></description>
-			<image></image>
+			<image>apktw.org.thebigboss.locationfaker8_2.jpg</image>
 		</screenshot>		
 		<screenshot>
 			<description></description>
-			<image></image>
+			<image>apktw.org.thebigboss.locationfaker8_3.jpg</image>
 		</screenshot>		
 		<screenshot>
 			<description></description>
-			<image></image>
+			<image>apktw.org.thebigboss.locationfaker8_4.jpg</image>
 		</screenshot>		
 		<screenshot>
 			<description></description>
-			<image></image>
+			<image>apktw.org.thebigboss.locationfaker8_5.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change></change>
+		<change>Fix the bug for iOS8</change>
+    <change>Optimization for iOS9</change>
+    <change>Add ShortcutItem(3D Touch)</change>
 	</changelog>
 	<links>
 		<link>

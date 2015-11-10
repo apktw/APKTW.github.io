@@ -1,44 +1,57 @@
 <package>
-	<id></id>
-	<name></name>
-	<version></version>
+	<id>apktw.org.hacx.volumeamplifier</id>
+	<name>Volume Amplifier</name>
+	<version>1.70</version>
 	<compatibility>
 		<firmware>
-			<miniOS></miniOS>
+			<miniOS>6.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package></package>
-		<package></package>
-		<package></package>
+		<package>firmware (>= 6.0)</package>
+		<package>mobilesubstrate</package>
+		<package>org.hacx.hacxdaemon</package>
 	</dependencies>
 	<descriptionlist>
-		<description></description>
+		<description><![CDATA[
+One of the main problems in iPhone 4S/5/5C/5S/6/6+/6s/6s+ and also iOS 6/7/8/9 (or any other iPad for that matter) is that the speaker volume is not loud enough while talking on the phone.<br />
+<br />
+hAcx Volume Amplifier fixes this problem by directly manipulating the speaker audio stream and amplifies it by up to 200%.  YES!  200%.<br />
+<br />
+The difference between Volume Amplifier and other Voice boosting tweaks out there on Cydia is that it does not alter a specific OS configuration file (which actually don't work), it actually manipulates the audio stream in such way that you will really notice the difference. <br />
+<br />
+The tweak just got a major update and now amplifies EVERYTHING that comes out of your speaker (internal or external on iPhone 5/5C/5S/6/6+ and only External on iPhone 4s). so now you can amplify your iPod music, VOIP calls (such as Viber, Skype, FaceTime, ..), Radio players, Ringer and much more.<br />
+<br />
+The tweak doesn't add any application or settings to the device. all you have to do is just make a phone call (or play a song), click the volume "+" button on the left side of the device and continue clicking it till you see the Amplifier bar appears on the volume popup. that's it.<br />
+<br />
+If up until now you couldn't talk on the phone while driving without going 'nuts' why the speaker is at such a low volume, although you raised the speaker volume all the way to the top, you got to try Volume Amplifier. you'll be amazed at how high you can push your speaker output. which really makes you wonder why Apple limit it in the first place!<br />
+<br />
+You can always reset Volume Amplifier by assigning an Activator event inside the device Settings->General->Activator menu.<br />
+<br />
+* This tweak only works on iPhone 4S/5/5C/5S/6/6+/6s/6s+ with iOS 6 and up only. because of technical issues iPhone 3GS &amp; 4 won't be supported. ever. sorry.<br />
+** On iPhone 4S the volume is only amplified while in speaker mode during a phone call. everywhere else it works as expected (again, while playing through speaker).<br />
+*** Yaniv Danan (aka @hAcx) will not be held responsible for any damage you may cause to your device by abusing this tweak.<br />
+<br />
+<iframe width="268" height="151" src="http://www.youtube.com/embed/v1FjtY83t0Q?rel=0" frameborder="0" allowfullscreen></iframe><br />
+Configure options from Settings.<br />
+    ]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description></description>
-			<image></image>
-		</screenshot>		
+			<image>apktw.org.hacx.volumeamplifier_1.jpg</image>
+		</screenshot>
 		<screenshot>
 			<description></description>
-			<image></image>
-		</screenshot>		
+			<image>apktw.org.hacx.volumeamplifier_2.jpg</image>
+		</screenshot>
 		<screenshot>
 			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
+			<image>apktw.org.hacx.volumeamplifier_3.jpg</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change></change>
+		<change>iOS 9 Support</change>
 	</changelog>
 	<links>
 		<link>

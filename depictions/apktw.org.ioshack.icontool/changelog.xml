@@ -1,6 +1,7 @@
 <changelog>
 	<changes>
-		<version></version>
-		<change></change>
+		<version>1.9-2</version>
+		<change>iOS9 compatible</change>
+    <change>兼容iOS9</change>
 	</changes>
 </changelog>

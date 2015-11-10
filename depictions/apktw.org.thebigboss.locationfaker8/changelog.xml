@@ -1,6 +1,8 @@
 <changelog>
 	<changes>
-		<version></version>
-		<change></change>
+		<version>1.2-1</version>
+		<change>Fix the bug for iOS8</change>
+    <change>Optimization for iOS9</change>
+    <change>Add ShortcutItem(3D Touch)</change>
 	</changes>
 </changelog>

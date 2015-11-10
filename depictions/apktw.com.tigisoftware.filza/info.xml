@@ -2,7 +2,7 @@
 	<id>apktw.com.tigisoftware.filza</id>
 	<name>Filza File Manager</name>
   <name>（已破解DRM）</name>
-	<version>2.2.0-30</version>
+	<version>3.0.0-43</version>
 	<compatibility>
 		<firmware>
 			<miniOS>1.0</miniOS>
@@ -68,21 +68,9 @@ Powerful File Manager for iPhone, iPad, iPod Touch. Flat design, with best perfo
 	</screenshots>
 	<changelog>
 		<change><![CDATA[
-Please view Filza > Settings > Changelog for full list<br />
-<br />
-- Updated for iOS 9<br />
-- Fixed WebDAV/SMB issue (cause Filza crash at startup)<br />
-- Fixed Plist Editor display issue<br />
-- Fixed some UI bugs on iPad<br />
--Updated for iOS 9<br />
--Updated Music library for iOS 9 (import issue was fixed in version 2.1.1)<br />
--Updated Text Editor for iOS 9<br />
--Fixed bug when creating new file/folder on iPad<br />
--Fixed unzip feature on iOS 9<br />
--Updated Change File user/group owner, added 'apply to subitems'<br />
--Updated Unzip feature: restore file owner, setuid/setgid/tacky permissions<br />
--Updated SugarSync cloud storage service<br />
--Updated FTP, SFTP, SMB (Fixed issue: Can't login with username contains character '@')<br />
+-Filza now runs as mobile user instead of root.<br />
+-Fixes 3rd keyboard, language, airdrop issue, black status bar issue ...<br />
+-Fixed FTP bug.<br />
     ]]></change>
 	</changelog>
 	<links>
