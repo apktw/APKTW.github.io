@@ -1,5 +1,10 @@
 <repo>
 	<footerlinks>
+    <link>
+			<name>各類問題回報專區</name>
+			<url>http://goo.gl/forms/pUIDPZYEbT</url>
+			<iconclass>glyphicon glyphicon-wrench</iconclass>
+		</link>
 		<link>
 			<name>軟體源管理者－mahmoodma</name>
 			<url>http://apk.tw/space-uid-1391243.html</url>
