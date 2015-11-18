@@ -1,0 +1,79 @@
+<package>
+	<id>apktw.org.thebigboss.lylac</id>
+	<name>Lylac</name>
+	<version>1.0.3-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+    <package>firmware (>= 9.0)</package>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>applist</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[
+Compatible with iOS 9.<br />
+Not compatible with iPad<br />
+<br />
+Lylac is a highly customisable tweak that enhances your app switcher on iOS 9.<br />
+<br />
+Compatible with these devices:<br />
+iPhone 5, 5c, 5s, 6, 6 plus, 6s, 6s plus.<br />
+<br />
+Features:<br />
+<br />
+Mutli-Center:<br />
+The mutli-center fuses app switcher and control center in a seamless way. With a single-swipe, you can access toggles, quick launch buttons and music player, which are integrated with app switcher.<br />
+<br />
+More 3D Touch Gestures:<br />
+With Lylac, you can trigger the app switcher from the right edge of your device.<br />
+<br />
+Make App Switcher More Powerful:<br />
+Swipe your home screen card in app switcher to kill all background apps, or you can swipe down to access more actions. Lylac also supports whitelist, apps in the whitelist or playing audio won't be closed.<br />
+<br />
+Customize Your App Switcher:<br />
+Now, you can customize the style of app switcher, including the darkness, blur, offset effects. You can also change the background image of the app switcher.<br />
+<br />
+Compatible with Polus, CCSettings, FlipControCenter, Quickactivator<br />
+<br />
+Conflict with SwipeHome, LegacySwitcher, SwitcherTweak, Slide2Kill9, SwitcherFlipper<br />
+<br />
+Configure options from Settings.<br />
+    ]]></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>apktw.org.thebigboss.lylac_1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>apktw.org.thebigboss.lylac_2.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>apktw.org.thebigboss.lylac_3.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>apktw.org.thebigboss.lylac_4.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>apktw.org.thebigboss.lylac_5.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Bugs fixed</change>
+    <change>Reduce motion, page flip and some other little bugs</change>
+	</changelog>
+	<links>
+		<link>
+			<name>APK.TW 台灣中文網</name>
+			<url>http://apk.tw/</url>
+		</link>
+	</links>
+</package>

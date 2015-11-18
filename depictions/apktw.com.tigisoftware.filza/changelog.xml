@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-    <version>3.0.0-43</version>
+    <version>3.0.0-111</version>
 		<change><![CDATA[
 -Filza now runs as mobile user instead of root.<br />
 -Fixes 3rd keyboard, language, airdrop issue, black status bar issue ...<br />

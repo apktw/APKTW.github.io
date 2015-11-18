@@ -1,0 +1,65 @@
+<package>
+	<id>apktw.jp.r-plus.cloaky</id>
+	<name>Cloaky</name>
+  <name>（已破解DRM）</name>
+	<version>3.0.1-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>4.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+    <package>firmware (>= 4.0)</package>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>applist</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[
+Compatible with iOS 4, 5, 6, 7, 8 and 9<br />
+<br />
+Cloak annoyance items! Now support below items.<br />
+<br />
+- Activity<br />
+- ControlCenter<br />
+- Menu<br />
+- NotificationCenter<br />
+- Preferences<br />
+- StatusBar<br />
+<br />
+Activity and Menu cloaking feature support third-party(AppStore) app defined item.<br />
+Additionally, Statusbar time string custom format feature. (e.g. Month/Day/Year Hour:Min)<br />
+    ]]></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>apktw.jp.r-plus.cloaky_1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>apktw.jp.r-plus.cloaky_2.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>apktw.jp.r-plus.cloaky_3.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>apktw.jp.r-plus.cloaky_4.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Fixed conflict Shortcuts tweak.</change>
+    <change>Fixed some issue.</change>
+    <change>[All] Support iOS 9.</change>
+    <change>[Shortcut] 3D Touch shortcut section.</change>
+    <change>[Statusbar] "CellerIP" special format.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>APK.TW 台灣中文網</name>
+			<url>http://apk.tw/</url>
+		</link>
+	</links>
+</package>

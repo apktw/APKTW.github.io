@@ -16,14 +16,6 @@
 		<package>com.rpetrich.rocketbootstrap</package>
 	</dependencies>
 	<descriptionlist>
-		<description></description>
-	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<description></description>
-			<image>apktw.com.spiritoflogic.aeternum.hives_1.jpg</image>
-		</screenshot>
-		<screenshot>
 			<description><![CDATA[
 "The beauty of Aeternum Hives is that you can quickly view and manage all apps without the need for folders. It’s all right there in front of your eyes, with all of your apps being just a tap away." - Jeff from iDownloadBlog<br />
 <br />
@@ -55,6 +47,13 @@ Features:<br />
 -Simply Hide/Show with an Activator action<br />
 -Battery friendly (only uses CPU while scrolling)<br />
       ]]></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>apktw.com.spiritoflogic.aeternum.hives_1.jpg</image>
+		</screenshot>
+		<screenshot>
 			<image>apktw.com.spiritoflogic.aeternum.hives_2.jpg</image>
 		</screenshot>
 		<screenshot>

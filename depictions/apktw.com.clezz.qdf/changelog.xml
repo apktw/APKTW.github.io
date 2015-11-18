@@ -1,0 +1,61 @@
+<changelog>
+	<changes>
+		<version>V3.9.2~BETA4 (2015-10-26)</version>
+		<change>Multitasking gestures support for iOS 9</change>
+		<change>多任务手势适配和修复一些问题(iOS 9)</change>
+	</changes>
+	<changes>
+		<version>V3.9.2~BETA2 (2015-10-19)</version>
+		<change>修复不流畅及一些其他问题</change>
+	</changes>
+  <changes>
+		<version>V3.9.2~BETA1 (2015-10-18)</version>
+		<change>Basic support for iOS 9 (some functions not support yet)</change>
+    <change>初步适配iOS 9 (多任务手势和部分功能暂不支持)。</change>
+	</changes>
+  <changes>
+		<version>V3.9.1-1 (2015-07-02)</version>
+		<change>Fix "Clear Badges" switch on iOS 8.4.</change>
+    <change>Fix "Back" action crash.</change>
+    <change>修复iOS8.4清除角标开关崩溃。</change>
+    <change>修复返回动作有时候导致崩溃。</change>
+	</changes>
+  <changes>
+		<version>V3.9.1 (2015-06-29)</version>
+		<change>Add "Go back to previous page" action.</change>
+    <change>添加返回上一个页面动作。</change>
+	</changes>
+  <changes>
+		<version>V3.9-2 (2015-06-25)</version>
+		<change>Support for iOS 8.3</change>
+    <change>适配iOS 8.3</change>
+	</changes>
+  <changes>
+		<version>V3.9-1 (2015-01-06)</version>
+		<change>Various improvements and performance enhancements.</change>
+    <change>优化及修复问题。</change>
+	</changes>
+  <changes>
+		<version>V3.9 (2014-10-27)</version>
+		<change>Support for iOS 8, iPhone 6 and iPhone 6 Plus</change>
+    <change>Add fingerprint sensor double press gestures.</change>
+    <change>Add "Vibrate on Touch" option, default is disabled.</change>
+    <change>Add "Turn on Screen and Unlock" setting.</change>
+    <change>Add Turn on Screen trigger gesture setting.</change>
+    <change>Add Turn on Screen auto disable setting.</change>
+    <change>Add activate Reachability action (iOS 8).</change>
+    <change>Improve keyboard detection.</change>
+    <change>Other improvements.</change>
+    <change>支持iOS 8，iPhone 6，iPhone 6 Plus</change>
+    <change>添加指纹感应双击手势。</change>
+    <change>添加“触摸振动”设置，默认是关闭。</change>
+    <change>添加“点亮屏幕并解锁”设置。</change>
+    <change>添加点亮屏幕激活手势设置。</change>
+    <change>添加点亮屏幕自动关闭设置。</change>
+    <change>添加激活便捷访问动作(iOS 8)。</change>
+    <change>优化键盘检测。</change>
+    <change>其他优化。</change>
+    
+	</changes>
+  
+</changelog>

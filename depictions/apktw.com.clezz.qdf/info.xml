@@ -1,8 +1,8 @@
 <package>
-	<id>apktw.com.clezz.quickdo</id>
-	<name>QuickDo</name>
+	<id>apktw.com.clezz.qdf</id>
+	<name>QuickDo (Activator)</name>
   <name>（已破解DRM）</name>
-	<version>3.9.2-beta7</version>
+	<version>3.9.2-beta7-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>5.0</miniOS>
@@ -41,27 +41,27 @@ Main Functions<br />
 	<screenshots>
 		<screenshot>
 			<description></description>
-			<image>apktw.com.clezz.quickdo_1.png</image>
+			<image>apktw.com.clezz.qdf_1.png</image>
 		</screenshot>
 		<screenshot>
 			<description></description>
-			<image>apktw.com.clezz.quickdo_2.png</image>
+			<image>apktw.com.clezz.qdf_2.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>apktw.com.clezz.qdf_3.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>apktw.com.clezz.qdf_4.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>apktw.com.clezz.qdf_5.png</image>
 		</screenshot>
     <screenshot>
 			<description></description>
-			<image>apktw.com.clezz.quickdo_3.png</image>
-		</screenshot>
-		<screenshot>
-			<description></description>
-			<image>apktw.com.clezz.quickdo_4.png</image>
-		</screenshot>
-    <screenshot>
-			<description></description>
-			<image>apktw.com.clezz.quickdo_5.png</image>
-		</screenshot>
-		<screenshot>
-			<description></description>
-			<image>apktw.com.clezz.quickdo_6.png</image>
+			<image>apktw.com.clezz.qdf_6.png</image>
 		</screenshot>
 	</screenshots>
 	<changelog>

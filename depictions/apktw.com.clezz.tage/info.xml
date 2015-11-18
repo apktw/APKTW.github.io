@@ -2,7 +2,7 @@
 	<id>apktw.com.clezz.tage</id>
 	<name>Tage</name>
   <name>（已破解DRM）</name>
-	<version>1.2</version>
+	<version>1.2-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -85,8 +85,8 @@ Official website: www.clezz.com<br />
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Support for iOS 9</change>
-		<change>适配 iOS 9</change>
+		<change>Fix bugs</change>
+		<change>修复问题</change>
 	</changelog>
 	<links>
 		<link>

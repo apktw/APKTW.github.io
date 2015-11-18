@@ -1,0 +1,10 @@
+<changelog>
+	<changes>
+		<version>3.0.1-1</version>
+		<change>Fixed conflict Shortcuts tweak.</change>
+    <change>Fixed some issue.</change>
+    <change>[All] Support iOS 9.</change>
+    <change>[Shortcut] 3D Touch shortcut section.</change>
+    <change>[Statusbar] "CellerIP" special format.</change>
+	</changes>
+</changelog>

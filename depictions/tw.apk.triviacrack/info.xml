@@ -1,0 +1,52 @@
+<package>
+	<id>tw.apk.triviacrack</id>
+	<name>Trivia Crack Cheats</name>
+	<version>2.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+    <package>firmware (>= 7.0)</package>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[
+Trivia Crack Cheats<br />
+<font color='red'>請注意：此修改外掛只適用於版本2.3的Trivia Crack</font><br />
+<br />
+<strong style="color:green">修改內容：<br />
+－遊戲內的輔助功能皆免費<br />
+－使用輔助工具「炸彈」即會顯示唯一的正確答案<br />
+－無限答題時間</strong><br />
+<br />
+此外掛為iOS Global修改組成員Pro所編修<br />
+APK.TW擁有最後的變更權力<br />
+為防止修改被盜賣的情況發生<br />
+本檔案已追加UDID辨識及IP位置紀錄<br />
+最後感謝使用iOS Global之產品<br />
+祝您有個完美的遊戲體驗<br />
+    ]]></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>tw.apk.triviacrack_1.PNG</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>tw.apk.triviacrack_2.PNG</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>APK.TW首發</change>
+	</changelog>
+	<links>
+		<link>
+			<name>APK.TW 台灣中文網</name>
+			<url>http://apk.tw/</url>
+		</link>
+	</links>
+</package>

@@ -1,0 +1,45 @@
+<package>
+	<id>apktw.com.groovycarrot.setback9</id>
+	<name>SetBack 9</name>
+  <name>（已破解DRM）</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+    <package>firmware (>= 8.0)</package>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>com.rpetrich.rocketbootstrap</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[
+This version of SetBack is also compatible with iOS 8, and addresses issues whereby a reboot would sometimes be necessary to perform a revert correctly. Wallpaper positioning flaws have also been addressed.<br />
+<br />
+SetBack allows you to save your device's setup, all tweak preferences, wallpapers, SpringBoard layout and applied themes, and pretty much everything else, for you to be able to revert back to at the touch of a button in the future.<br />
+<br />
+To use, tap the SetBack icon on SpringBoard to load the SetBack interface. The add (+) button will allow you to save new setups, while holding down on a setup will give you several options such as: update, rename, and delete. To revert to a saved setup, just tap on the setup and confirm to begin the reverting process. Your device will automatically respring at the end and your setup will be loaded.<br />
+    ]]></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>apktw.com.groovycarrot.setback9_1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>apktw.com.groovycarrot.setback9_2.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>APK.TW 台灣中文網</name>
+			<url>http://apk.tw/</url>
+		</link>
+	</links>
+</package>
