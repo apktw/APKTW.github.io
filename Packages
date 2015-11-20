@@ -260,6 +260,30 @@ Icon: file:///Applications/OneHandWizardApp.app/AppIcon60x60.png
 Name: OneHandWizard
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: apktw.com.ichitaso.pasithea
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1312
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001), preferenceloader (>= 2.2.2), applist (>= 1.5.9), com.a3tweaks.flipswitch
+Conflicts: com.ichitaso.pasteboardswitch
+Replaces: com.ichitaso.pasithea
+Filename: ./debs/apktw.com.ichitaso.pasithea_1.2.0_iphoneos-arm.deb
+Size: 509414
+MD5sum: 573e560928c0970b447b04a3a1913d2c
+SHA1: de36429ec4e3d04204b72f6d370d75556dfa2c4f
+SHA256: 873182d962a85dcd7310228d6356d85f12a8f098840df2feb98c3e6d02cf5deb
+Section: Tweaks
+Homepage: http://apk.tw/
+Description: Saves the history copied to pasteboard
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Author: Cannathea <csupport@cannathea.com>
+Depiction: https://apktw.github.io/depictions/?p=apktw.com.ichitaso.pasithea
+Dev: cannathea
+Icon: file:///Library/PreferenceBundles/PasitheaSettings.bundle/Pasithea@2x.png
+Name: Pasithea
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: apktw.com.kdfly.ibox
 Version: 1.2.0-6
 Architecture: iphoneos-arm
@@ -808,4 +832,42 @@ Author: julioverne <julioverne@me.com>
 Depiction: https://apktw.github.io/depictions/?p=com.julioverne.cydown
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
+
+Package: tw.apk.triviacrack
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: APK.TW
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/tw.apk.triviacrack_2.3_iphoneos-arm.deb
+Size: 4912
+MD5sum: 9dc28350a54cd6e7aa5c8494ca53d46b
+SHA1: 32c4d22a4053ef664e6acbec73978823e1cb3557
+SHA256: badc792786002f508b3bc81d882e621a12f7e8316d19d44a7d2e16062a98f622
+Section: Game Cheats
+Homepage: http://apk.tw/
+Description: Trivia Crack Cheats, powered by APK.TW (http://apk.tw/), our official repository is https://apktw.github.io/ .
+Tag: cydia::commercial, purpose::extension
+Author: Pro@iOSGods
+Depiction: https://apktw.github.io/depictions/?p=tw.apk.triviacrack
+Name: Trivia Crack Cheats
+
+Package: tw.apk.triviacrackkingdoms
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: APK.TW
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/tw.apk.triviacrackkingdoms_1.0.4_iphoneos-arm.deb
+Size: 4720
+MD5sum: a40780669279460928f82312b287948d
+SHA1: dd9270fec479cb2904bc0bb24337dbd5de2305af
+SHA256: 790ab486353da9e865371d4e9eb3c8b5366762631367fb69819c61c50fe731be
+Section: Game Cheats
+Homepage: http://apk.tw/
+Description: Trivia Crack Kingdoms Cheats, powered by APK.TW (http://apk.tw/), our official repository is https://apktw.github.io/ .
+Tag: cydia::commercial, purpose::extension
+Author: Pro@iOSGods
+Depiction: https://apktw.github.io/depictions/?p=tw.apk.triviacrackkingdoms
+Name: Trivia Crack Kingdoms Cheats
 
