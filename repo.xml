@@ -1,5 +1,10 @@
 <repo>
-	<footerlinks>
+	<footerlinks>  
+    <link>
+			<name>繁化人員廣大招募中！</name>
+			<url>http://goo.gl/forms/z0V4PsrqES</url>
+			<iconclass>glyphicon glyphicon-edit</iconclass>
+		</link>
     <link>
 			<name>各類問題回報專區</name>
 			<url>http://goo.gl/forms/pUIDPZYEbT</url>
