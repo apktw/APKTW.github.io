@@ -1,0 +1,103 @@
+html, body {
+    height: 100%;
+    overflow-x: hidden;
+}
+
+body {
+    background: url('../img/bg.jpg');
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    display: table;
+    font-weight: 100;
+    font-family: 'Comic Sans MS';
+    color: #ececec;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select:none;
+	user-select:none;
+	-o-user-select:none;"
+	unselectable="on"
+	onselectstart="return false;" 
+	onmousedown="return false;
+}
+
+a:link {
+    text-decoration: none;
+    color: #ececec;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #ececec;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #ececec;
+}
+
+a:active {
+    text-decoration: none;
+    color: #ececec;
+}
+
+.container {
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.content {
+    text-align: center;
+    display: inline-block;
+}
+
+.title {
+    font-size: 5vw;
+    margin-bottom: 3vw;
+	color: #47f388;
+}
+
+.subtitle {
+    font-size: 2vw;
+	color: #ececec;
+}
+
+.subtitle span:not(:last-of-type) {
+    margin-right: 20px;
+	color: #ececec;
+}
+
+.subtitle span i {
+    margin-right: 5px;
+	color: #ececec;
+}
+
+.wrapper {
+    min-height: 100%;
+    height: auto;
+    height: 100%;
+    margin: 0 auto -142px; /* the bottom margin is the negative value of the footer's height */
+}
+
+.footer, .push {
+    height: 142px; /* .push must be the same height as .footer */
+	text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	line-height: 10px;
+    font-size: 12px;
+	color: #D3D3D3;
+}
+
+b, strong {
+    font-weight: 700;
+    color: chocolate;
+}
+
+a {
+    color: #ececec;
+    text-decoration: none;
+}
+
