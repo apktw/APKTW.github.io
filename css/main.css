@@ -13,14 +13,14 @@ body {
     font-weight: 100;
     font-family: 'Comic Sans MS';
     color: #ececec;
-	-moz-user-select: none;
-	-webkit-user-select: none;
-	-ms-user-select:none;
-	user-select:none;
-	-o-user-select:none;"
-	unselectable="on"
-	onselectstart="return false;" 
-	onmousedown="return false;
+	  -moz-user-select: none;
+	  -webkit-user-select: none;
+	  -ms-user-select: none;
+	  user-select: none;
+	  -o-user-select: none;
+	  unselectable="on";
+	  onselectstart="return false";
+	  onmousedown="return false";
 }
 
 a:link {
@@ -55,13 +55,13 @@ a:active {
 }
 
 .title {
-    font-size: 5vw;
+    font-size: 250%;
     margin-bottom: 3vw;
 	color: #47f388;
 }
 
 .subtitle {
-    font-size: 2vw;
+    font-size: 150%;
 	color: #ececec;
 }
 
