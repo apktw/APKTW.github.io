@@ -3,6 +3,16 @@ html, body {
     overflow-x: hidden;
 }
 
+/* bootstrap.css */
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+
+/* main.css */
 body {
     background: url('../img/bg.jpg');
     background-size: cover;
@@ -55,7 +65,7 @@ a:active {
 }
 
 .title {
-    font-size: 275%;
+    font-size: 250%;
     margin-bottom: 3vw;
 	color: #47f388;
 }
@@ -92,7 +102,7 @@ a:active {
 }
 
 b, strong {
-    font-size: 150%;
+    font-size: 130%;
     font-weight: 700;
     color: #ffae1a;
 }
