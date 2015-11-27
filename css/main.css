@@ -12,12 +12,12 @@ body {
     width: 100%;
     display: table;
     font-weight: 100;
-    font-family: Georgia, "Times New Roman", Times, serif;
+    font-family: "微軟正黑體", "Microsoft JhengHei", Ubuntu;
     color: #ececec;
-	  -moz-user-select: none;
+    -moz-user-select: none;
 	  -webkit-user-select: none;
 	  -ms-user-select: none;
-	  user-select: none;
+	  -moz-selection: none;
 	  -o-user-select: none;
 	  unselectable="on";
 	  onselectstart="return false";
