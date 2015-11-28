@@ -12,7 +12,7 @@ body {
     width: 100%;
     display: table;
     font-weight: 100;
-    font-family: "微軟正黑體", "Microsoft JhengHei", Ubuntu;
+    font-family: "微軟正黑體", "Microsoft JhengHei", Ubuntu, sans-serif;
     color: #ececec;
     -moz-user-select: none;
 	  -webkit-user-select: none;
@@ -90,6 +90,15 @@ a:active {
 	line-height: 10px;
     font-size: 12px;
 	color: #D3D3D3;
+}
+
+ul.share-buttons{
+  list-style: none;
+  padding: 0;
+}
+
+ul.share-buttons li{
+  display: inline;
 }
 
 b, strong {
