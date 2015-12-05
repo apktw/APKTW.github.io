@@ -1,4 +1,18 @@
 <changelog>
+  <changes>
+		<version>1.2.3</version>
+		<change>Support: Perfect365 (App Store)</change>
+	</changes>
+  <changes>
+		<version>1.2.2</version>
+		<change>Remove the Conflict of SwipeExpander.</change>
+	</changes>
+  <changes>
+		<version>1.2.1</version>
+		<change>Remove: Flipswitch animation of iOS 9</change>
+    <change>Adjust: the display settings</change>
+    <change>Add: Conflict SwipeExpander</change>
+	</changes>
 	<changes>
 		<version>1.2.0</version>
 		<change>Compatible with iOS 9.0.x</change>

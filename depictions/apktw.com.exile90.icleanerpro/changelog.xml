@@ -1,4 +1,22 @@
 <changelog>
+  <changes>
+		<version>7.5.1</version>
+		<change><![CDATA[
+Features:<br />
++ Added 3D Touch app shortcuts (for registered devices, enable in settings).<br />
+    ]]></change>
+		<change><![CDATA[
+Fixes and improvements:<br />
+* Replaced "Reset" button with "All" button in the excluded apps menus.<br />
+* Improved the keyboard removal tool on iOS 9.x (it's now able to clear hundreds of megabytes on the root filesystem).<br />
+* Improved small icon for better display in the app switcher.<br />
+* Adopted San Francisco font on cleanup view in iOS 9.<br />
+* Added Portuguese (Portugal) localization.<br />
+* Temporarily removed IconBundles support in iOS 9.x, will be reintroduced whenever IconBundles is updated.<br />
+* Fixed iPad layout issues on iOS 9.x.<br />
+* Attempt at fixing sporadic crash on ad interstitial dismiss.<br />
+    ]]></change>
+	</changes>
 	<changes>
 		<version>7.5.0</version>
 		<change><![CDATA[

@@ -2,7 +2,7 @@
 	<id>apktw.com.ichitaso.pasithea</id>
 	<name>Pasithea</name>
   <name>（已破解DRM）</name>
-	<version>1.2.0</version>
+	<version>1.2.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -51,42 +51,42 @@ Pasithea has been tested to be compatible with these tweaks: HandyKey Showcase i
 		<screenshot>
 			<description></description>
 			<image>apktw.com.ichitaso.pasithea_1.jpg</image>
-		</screenshot>		
+		</screenshot>
 		<screenshot>
 			<description></description>
 			<image>apktw.com.ichitaso.pasithea_2.jpg</image>
-		</screenshot>		
+		</screenshot>
 		<screenshot>
 			<description></description>
 			<image>apktw.com.ichitaso.pasithea_3.jpg</image>
-		</screenshot>		
+		</screenshot>
 		<screenshot>
 			<description></description>
 			<image>apktw.com.ichitaso.pasithea_4.jpg</image>
-		</screenshot>		
+		</screenshot>
 		<screenshot>
 			<description></description>
 			<image>apktw.com.ichitaso.pasithea_5.jpg</image>
-		</screenshot>		
+		</screenshot>
     <screenshot>
 			<description></description>
 			<image>apktw.com.ichitaso.pasithea_6.jpg</image>
-		</screenshot>		
+		</screenshot>
 		<screenshot>
 			<description></description>
 			<image>apktw.com.ichitaso.pasithea_7.jpg</image>
-		</screenshot>		
+		</screenshot>
 		<screenshot>
 			<description></description>
 			<image>apktw.com.ichitaso.pasithea_8.jpg</image>
-		</screenshot>		
+		</screenshot>
 		<screenshot>
 			<description></description>
 			<image>apktw.com.ichitaso.pasithea_9.jpg</image>
-		</screenshot>		
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Compatible with iOS 9.0.x</change>
+		<change>Support: Perfect365 (App Store)</change>
 	</changelog>
 	<links>
 		<link>

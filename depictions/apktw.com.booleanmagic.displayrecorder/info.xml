@@ -2,7 +2,7 @@
 	<id>apktw.com.booleanmagic.displayrecorder</id>
 	<name>Display Recorder</name>
   <name>（已破解DRM）</name>
-	<version>1.3.19</version>
+	<version>1.3.20</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -47,7 +47,11 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Support iOS 9.0</change>
+		<change>Fix camera roll permissions error on iOS 9</change>
+    <change>Fix iFile integration on iOS 9</change>
+    <change>Fix tapper settings not applying immediately in some cases</change>
+    <change>Fix landscape recording resulting in cropped videos on iPad</change>
+    <change>Allow assigning an Activator action to launch the Display Recorder app</change>
 	</changelog>
 	<links>
 		<link>
