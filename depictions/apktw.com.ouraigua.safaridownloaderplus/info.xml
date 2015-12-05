@@ -2,7 +2,7 @@
 	<id>apktw.com.ouraigua.safaridownloaderplus</id>
 	<name>Safari Downloader+</name>
   <name>（已破解DRM）</name>
-	<version>4.0.3-1</version>
+	<version>4.0.7-3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -94,7 +94,7 @@ For more information, explanations and screenshots, please visit <a href="http:/
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Fixed DailyMotion videos not downloading</change>
+		<change>Fixed Safari crashing when loading YouTube for users of iOS prior to 9.xB</change>
 	</changelog>
 	<links>
 		<link>

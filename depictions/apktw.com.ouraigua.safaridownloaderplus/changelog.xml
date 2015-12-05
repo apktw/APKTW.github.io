@@ -1,4 +1,19 @@
 <changelog>
+  <changes>
+		<version>4.0.7-3</version>
+		<change>Fixed Safari crashing when loading YouTube for users of iOS prior to 9.xB</change>
+	</changes>
+  <changes>
+		<version>4.0.7-2</version>
+		<change>Fixed Vimeo videos no longer downloading following Vimeo site API change.</change>
+	</changes>
+  <changes>
+		<version>4.0.7-1</version>
+		<change>Added support for downloading videos from the Chinese video website “Youku.com”.</change>
+    <change>Youku support includes downloading multi parts videos in one go.</change>
+    <change>Fixed Youtube videos no longer downloading following Youtube API change.</change>
+    <change>Fixed the issue which causes searching for album artwork to yield only low resolution images.</change>
+	</changes>
 	<changes>
 		<version>4.0.6-1</version>
 		<change>Fixed DailyMotion videos not downloading</change>

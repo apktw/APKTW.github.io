@@ -1,0 +1,55 @@
+<package>
+	<id>tw.apk.smsflooder</id>
+	<name>SMSFlooder</name>
+	<version>3.1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+    <package>firmware (>= 7.0)</package>
+		<package>mobilesubstrate</package>
+		<package>applist</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[
+Trivia Crack Cheats<br />
+<font color='red'>請注意：錯誤使用此工具可能會導致收到大量簡訊費帳單</font><br />
+<br />
+<strong style="color:green">主要功能：<br />
+－待更新<br />
+    ]]></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial update release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>APK.TW 台灣中文網</name>
+			<url>http://apk.tw/</url>
+		</link>
+	</links>
+</package>
