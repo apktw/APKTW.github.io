@@ -833,6 +833,43 @@ Depiction: https://apktw.github.io/depictions/?p=com.julioverne.cydown
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
 
+Package: tw.apk.debian
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Mahmood Ma
+Depends: dpkg
+Filename: ./debs/tw.apk.debian_1.0_iphoneos-arm.deb
+Size: 1102
+MD5sum: 57884f0576601947cfff4273b78e3f6c
+SHA1: 0e02c65ffba46c62ccadb7e66e4cf661073728f9
+SHA256: f89f5a49fcbad890b570e0e8113af2adf91f7c57ff7ac593e97eddffc1447275
+Section: Development
+Homepage: http://apk.tw/
+Description: For tweak development purpose only, powered by APK.TW (http://apk.tw/), our official repository is https://apktw.github.io/ .
+Tag: purpose::extension
+Author: Mahmood Ma
+Depiction: https://apktw.github.io/depictions/?p=tw.apk.debian
+Name: Debian Development
+
+Package: tw.apk.grandtheftautosanandreas
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: APK.TW
+Installed-Size: 640
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/tw.apk.grandtheftautosanandreas_1.6_iphoneos-arm.deb
+Size: 256622
+MD5sum: d356d58c46f4ed1369f564da7c7d074f
+SHA1: cad123de95e7ce5c412805c7908542c7fbcbe3d7
+SHA256: 171add6169b5331ef9a406d4f7f1a281f96de71773b4ec8746e49633f6f36aa2
+Section: Game Cheats
+Homepage: http://apk.tw/
+Description: Grand Theft Auto: San Andreas Cheats, powered by APK.TW (http://apk.tw/), our official repository is https://apktw.github.io/ .
+Tag: cydia::commercial, purpose::extension
+Author: Mohammad96@iOSGods
+Depiction: https://apktw.github.io/depictions/?p=tw.apk.grandtheftautosanandreas
+Name: Grand Theft Auto: San Andreas Cheats
+
 Package: tw.apk.infdesign.assisttos
 Version: 3.0.2.APKTW.20151123
 Architecture: iphoneos-arm
@@ -851,6 +888,43 @@ Author: inf117design
 Depiction: https://apktw.github.io/depictions/?p=tw.apk.infdesign.assisttos
 Name: AssistTOS x APK.TW
 
+Package: tw.apk.moderncombat5blackout
+Version: 1.5.4
+Architecture: iphoneos-arm
+Maintainer: APK.TW
+Installed-Size: 16056
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/tw.apk.moderncombat5blackout_1.5.4_iphoneos-arm.deb
+Size: 7731808
+MD5sum: b9de8d279ea7cabbe2aaafa9f4a2c74f
+SHA1: 2f3d08998e438bef01bcbae120512c4ec50b4fca
+SHA256: e24e504933375b16055fbe55acc2fab6298a5e87509dc36a3f2683092b6bad56
+Section: Game Cheats
+Homepage: http://apk.tw/
+Description: Modern Combat 5: Blackout Cheats, powered by APK.TW (http://apk.tw/), our official repository is https://apktw.github.io/ .
+Tag: cydia::commercial, purpose::extension
+Author: shmoo@iOSGods
+Depiction: https://apktw.github.io/depictions/?p=tw.apk.moderncombat5blackout
+Name: Modern Combat 5: Blackout Cheats
+
+Package: tw.apk.respawnables
+Version: 3.5.0
+Architecture: iphoneos-arm
+Maintainer: APK.TW
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/tw.apk.respawnables_3.5.0_iphoneos-arm.deb
+Size: 6677958
+MD5sum: 2261862a9cf6eab1960e60f10016e35e
+SHA1: a1785d56871afc4e27503e0175205c94362efc51
+SHA256: 40d376dd6e94b4d208e510c4e24359e5fbf60cc2c3411d7adecacbc864ed8da9
+Section: Game Cheats
+Homepage: http://apk.tw/
+Description: Respawnables Cheats, powered by APK.TW (http://apk.tw/), our official repository is https://apktw.github.io/ .
+Tag: cydia::commercial, purpose::extension
+Author: Chrizk0@iOSGods
+Depiction: https://apktw.github.io/depictions/?p=tw.apk.respawnables
+Name: Respawnables Cheats
+
 Package: tw.apk.smsflooder
 Version: 3.1.1
 Architecture: iphoneos-arm
@@ -867,17 +941,35 @@ Depiction: https://apktw.github.io/depictions/?p=tw.apk.smsflooder
 Name: SMSFlooder
 Sponsor: APK.TW <http://apk.tw/>
 
+Package: tw.apk.taptitans
+Version: 3.2.1
+Architecture: iphoneos-arm
+Maintainer: APK.TW
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/tw.apk.taptitans_3.2.1_iphoneos-arm.deb
+Size: 87658
+MD5sum: 14a849245652482f68d03bb2ee2fbbff
+SHA1: 75a3b2cdf58ac73c578bfcd21479e3171baca042
+SHA256: e7d0de351f6bbe79489b7d660fd85798552af69c2e1dada30e78567cf740ce4b
+Section: Game Cheats
+Homepage: http://apk.tw/
+Description: Tap Titans Cheats, powered by APK.TW (http://apk.tw/), our official repository is https://apktw.github.io/ .
+Tag: cydia::commercial, purpose::extension
+Author: Diversityy,Chrizk0@iOSGods
+Depiction: https://apktw.github.io/depictions/?p=tw.apk.taptitans
+Name: Tap Titans Cheats
+
 Package: tw.apk.triviacrack
-Version: 2.3
+Version: 2.4
 Architecture: iphoneos-arm
 Maintainer: APK.TW
 Installed-Size: 104
-Depends: mobilesubstrate
-Filename: ./debs/tw.apk.triviacrack_2.3_iphoneos-arm.deb
-Size: 4912
-MD5sum: 9dc28350a54cd6e7aa5c8494ca53d46b
-SHA1: 32c4d22a4053ef664e6acbec73978823e1cb3557
-SHA256: badc792786002f508b3bc81d882e621a12f7e8316d19d44a7d2e16062a98f622
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/tw.apk.triviacrack_2.4_iphoneos-arm.deb
+Size: 5068
+MD5sum: 00b89bbd5cd7a555fdec208d34954a40
+SHA1: 403c20383055d891d7f4f1663463ba09521c2bcd
+SHA256: cd384712be978d097d4cd1b9b2b1a5be97d7284d9a43330258b6b63c6d895ab4
 Section: Game Cheats
 Homepage: http://apk.tw/
 Description: Trivia Crack Cheats, powered by APK.TW (http://apk.tw/), our official repository is https://apktw.github.io/ .
