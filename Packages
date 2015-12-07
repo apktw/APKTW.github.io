@@ -770,28 +770,6 @@ Icon: file:///Library/PreferenceBundles/Lylac.bundle/icon@2x.png
 Name: Lylac
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: apktw.tweakwiz.nccards
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 856
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.tweakwiz.wizlib (>= 1.2-5), applist (>= 1.5.11), org.thebigboss.libcolorpicker (>= 1.4-2)
-Filename: ./debs/apktw.com.tweakwiz.nccards_2.0_iphoneos-arm.deb
-Size: 469812
-MD5sum: 8ceae7695c1fce05b2ea013b553f6eec
-SHA1: 98aaf8901bec4189cca06bd950e68c9ff6f74835
-SHA256: e165365bbb9fdbd5acbcf14dbcf808ef93a4706fc7db9310660b80006703f4ed
-Section: Tweaks
-Homepage: http://apk.tw/
-Description: Notification Center Cards
-Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9
-Author: TweakWiz <jon@tweakwiz.com>
-Depiction: https://apktw.github.io/depictions/?p=apktw.tweakwiz.nccards
-Dev: tweakwiz
-Icon: file:///Library/PreferenceBundles/NCCardsPrefs.bundle/images/NCCards@2x.png
-Name: NCCards
-Sponsor: thebigboss.org <http://thebigboss.org>
-
 Package: com.julioverne.cydown
 Version: 6.0.7.APKTW
 Architecture: iphoneos-arm
