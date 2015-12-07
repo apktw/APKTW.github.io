@@ -1,44 +1,22 @@
 <package>
-	<id></id>
-	<name></name>
-	<version></version>
+	<id>tw.apk.debian</id>
+	<name>Debian Development</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS></miniOS>
+			<miniOS>7.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package></package>
-		<package></package>
-		<package></package>
+		<package>mobilesubstrate</package>
 	</dependencies>
 	<descriptionlist>
-		<description></description>
+		<description><![CDATA[
+<font color='red'>請注意：此開發工具僅限編修組、繁化組成員所使用！</font><br />
+    ]]></description>
 	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-	</screenshots>
 	<changelog>
-		<change></change>
+		<change>APK.TW首發</change>
 	</changelog>
 	<links>
 		<link>

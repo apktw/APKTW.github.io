@@ -1,44 +1,51 @@
 <package>
-	<id></id>
-	<name></name>
-	<version></version>
+	<id>tw.apk.asphalt8airborne</id>
+	<name>Asphalt 8: Airborne Cheats</name>
+	<version>2.1.3</version>
 	<compatibility>
 		<firmware>
-			<miniOS></miniOS>
+			<miniOS>7.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package></package>
-		<package></package>
-		<package></package>
+    <package>firmware (>= 7.0)</package>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
 	</dependencies>
 	<descriptionlist>
-		<description></description>
+		<description><![CDATA[
+Asphalt 8: Airborne Cheats<br />
+<font color='red'>請注意：此修改外掛只適用於版本2.1.3的Asphalt 8: Airborne</font><br />
+<br />
+<strong style="color:green">修改內容：<br />
+－無限金錢<br />
+－無限等級<br />
+－無限氮氣<br />
+－無限星星<br />
+－無限獎牌<br />
+－解鎖所有車種<br />
+－車輛不會撞毀<br />
+－車輛沒有速度限制<br />
+－Anti-Ban(請隨時開啟)</strong><br />
+<br />
+此外掛為iOS Global修改組成員AirMAX所編修<br />
+APK.TW擁有最後的變更權力<br />
+為防止修改被盜賣的情況發生<br />
+本檔案已追加UDID辨識及IP位置紀錄<br />
+最後感謝使用iOS Global之產品<br />
+若使用上有任何問題<br />
+請使用下方的「各類問題回報專區」功能回報<br />
+祝您有個完美的遊戲體驗<br />
+    ]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
+			<image>tw.apk.asphalt8airborne_1.PNG</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change></change>
+		<change>APK.TW首發</change>
 	</changelog>
 	<links>
 		<link>
