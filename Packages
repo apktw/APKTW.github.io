@@ -858,10 +858,10 @@ Maintainer: APK.TW
 Installed-Size: 640
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/tw.apk.grandtheftautosanandreas_1.6_iphoneos-arm.deb
-Size: 256622
-MD5sum: d356d58c46f4ed1369f564da7c7d074f
-SHA1: cad123de95e7ce5c412805c7908542c7fbcbe3d7
-SHA256: 171add6169b5331ef9a406d4f7f1a281f96de71773b4ec8746e49633f6f36aa2
+Size: 252084
+MD5sum: 6266abf0400499dde11b50ef6a2335a6
+SHA1: 745a5c1b6bb5c7f4e36e43f7a9330f7a1531cd7e
+SHA256: 52ee7134b319f19cf94cdf64b4fbe46eee30f927286ce08475088f49051be671
 Section: Game Cheats
 Homepage: http://apk.tw/
 Description: Grand Theft Auto: San Andreas Cheats, powered by APK.TW (http://apk.tw/), our official repository is https://apktw.github.io/ .
@@ -895,10 +895,10 @@ Maintainer: APK.TW
 Installed-Size: 16056
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/tw.apk.moderncombat5blackout_1.5.4_iphoneos-arm.deb
-Size: 7731808
-MD5sum: b9de8d279ea7cabbe2aaafa9f4a2c74f
-SHA1: 2f3d08998e438bef01bcbae120512c4ec50b4fca
-SHA256: e24e504933375b16055fbe55acc2fab6298a5e87509dc36a3f2683092b6bad56
+Size: 7728150
+MD5sum: cea3a783c60560abda1c5ab9bb380de9
+SHA1: 2e611deba8abd3e86ac585a5a16f5b1d77686d84
+SHA256: 260ee6fe7d49d11c8cbb8601f9ff23c81982340c0175bc70c54ecd9402e58bae
 Section: Game Cheats
 Homepage: http://apk.tw/
 Description: Modern Combat 5: Blackout Cheats, powered by APK.TW (http://apk.tw/), our official repository is https://apktw.github.io/ .
@@ -913,10 +913,10 @@ Architecture: iphoneos-arm
 Maintainer: APK.TW
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/tw.apk.respawnables_3.5.0_iphoneos-arm.deb
-Size: 6677958
-MD5sum: 2261862a9cf6eab1960e60f10016e35e
-SHA1: a1785d56871afc4e27503e0175205c94362efc51
-SHA256: 40d376dd6e94b4d208e510c4e24359e5fbf60cc2c3411d7adecacbc864ed8da9
+Size: 6672506
+MD5sum: 3457a4508a37f899e3c159b53573950c
+SHA1: 5bba040fa0fabf46d65335002db8acadafac7acf
+SHA256: c1cda5bd206d580229ad5ebb9ce0d378f2e4df967c7666d1ca66724d0426095b
 Section: Game Cheats
 Homepage: http://apk.tw/
 Description: Respawnables Cheats, powered by APK.TW (http://apk.tw/), our official repository is https://apktw.github.io/ .
@@ -947,10 +947,10 @@ Architecture: iphoneos-arm
 Maintainer: APK.TW
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/tw.apk.taptitans_3.2.1_iphoneos-arm.deb
-Size: 87658
-MD5sum: 14a849245652482f68d03bb2ee2fbbff
-SHA1: 75a3b2cdf58ac73c578bfcd21479e3171baca042
-SHA256: e7d0de351f6bbe79489b7d660fd85798552af69c2e1dada30e78567cf740ce4b
+Size: 83072
+MD5sum: 0f3cab293f4a680a244e41450abfbba3
+SHA1: 64ba5f20dca807d8a857a1fc33a51a11bc68aafd
+SHA256: 30b7f10885c68f40da715c883354b422380c98ea0f6f5efdf716a5dd44e65700
 Section: Game Cheats
 Homepage: http://apk.tw/
 Description: Tap Titans Cheats, powered by APK.TW (http://apk.tw/), our official repository is https://apktw.github.io/ .
