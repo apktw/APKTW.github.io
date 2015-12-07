@@ -833,6 +833,43 @@ Depiction: https://apktw.github.io/depictions/?p=com.julioverne.cydown
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
 
+Package: tw.apk.angrybirds2
+Version: 2.3.0
+Architecture: iphoneos-arm
+Maintainer: APK.TW
+Installed-Size: 35476
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/tw.apk.angrybirds2_2.3.0_iphoneos-arm.deb
+Size: 14738562
+MD5sum: 723dc3e59c5388268467101a7554f4f6
+SHA1: e90ac2af6214450b7c61cf03e999925815d5656a
+SHA256: 2b275f5bf7396d5e9e716a7987a69dfa1422d0887e99fb4548b23c0e608a6bad
+Section: Game Cheats
+Homepage: http://apk.tw/
+Description: Angry Birds 2 Cheats, powered by APK.TW (http://apk.tw/), our official repository is https://apktw.github.io/ .
+Tag: cydia::commercial, purpose::extension
+Author: DiDA@iOSGods
+Depiction: https://apktw.github.io/depictions/?p=tw.apk.angrybirds2
+Name: Angry Birds 2 Cheats
+
+Package: tw.apk.asphalt8airborne
+Version: 2.1.3
+Architecture: iphoneos-arm
+Maintainer: APK.TW
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/tw.apk.asphalt8airborne_2.1.3_iphoneos-arm.deb
+Size: 92702
+MD5sum: 5941525eef7a2840d9a6e266c6e91046
+SHA1: 7719c36a4b6e4f6cb8c28f90a0310e018a5a22c8
+SHA256: 5974708c616c049d28281dee2963f91310cfdeb538382d9b32e20c4e2bbb0d7d
+Section: Game Cheats
+Homepage: http://apk.tw/
+Description: Asphalt 8: Airborne Cheats, powered by APK.TW (http://apk.tw/), our official repository is https://apktw.github.io/ .
+Tag: cydia::commercial, purpose::extension
+Author: APK.TW
+Depiction: https://apktw.github.io/depictions/?p=tw.apk.asphalt8airborne
+Name: Asphalt 8: Airborne Cheats
+
 Package: tw.apk.debian
 Version: 1.0
 Architecture: iphoneos-arm
@@ -850,6 +887,43 @@ Tag: purpose::extension
 Author: Mahmood Ma
 Depiction: https://apktw.github.io/depictions/?p=tw.apk.debian
 Name: Debian Development
+
+Package: tw.apk.dungeonhunter5
+Version: 1.5.0
+Architecture: iphoneos-arm
+Maintainer: APK.TW
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/tw.apk.dungeonhunter5_1.5.0_iphoneos-arm.deb
+Size: 9802
+MD5sum: 1f857a8fe4960985fc064aca1a8fd856
+SHA1: 311f2b9e1567500c660d7bd1831b4e9b054d66f5
+SHA256: b02f57b3ecfb9f8645edc997fd114ee98939891e778d0e44e035890abde62e45
+Section: Game Cheats
+Homepage: http://apk.tw/
+Description: Dungeon Hunter 5 Cheats, powered by APK.TW (http://apk.tw/), our official repository is https://apktw.github.io/ .
+Tag: cydia::commercial, purpose::extension
+Author: APK.TW
+Depiction: https://apktw.github.io/depictions/?p=tw.apk.dungeonhunter5
+Name: Dungeon Hunter 5 Cheats
+
+Package: tw.apk.frontlinecommando2
+Version: 3.0.0
+Architecture: iphoneos-arm
+Maintainer: APK.TW
+Installed-Size: 16
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/tw.apk.frontlinecommando2_3.0.0_iphoneos-arm.deb
+Size: 2074
+MD5sum: f04725a715b401ca83b9d50b271ed029
+SHA1: dd5a22f4a863f9f34e00bebaee96752ecedb423d
+SHA256: fad6264f16e2970e3883362ed4b1bde456eeb0062dc59a93add3de24600c632c
+Section: Game Cheats
+Homepage: http://apk.tw/
+Description: rontline Commando 2 Cheats, powered by APK.TW (http://apk.tw/), our official repository is https://apktw.github.io/ .
+Tag: cydia::commercial, purpose::extension
+Author: APK.TW
+Depiction: https://apktw.github.io/depictions/?p=tw.apk.frontlinecommando2
+Name: Frontline Commando 2 Cheats
 
 Package: tw.apk.grandtheftautosanandreas
 Version: 1.6
@@ -907,6 +981,25 @@ Author: shmoo@iOSGods
 Depiction: https://apktw.github.io/depictions/?p=tw.apk.moderncombat5blackout
 Name: Modern Combat 5: Blackout Cheats
 
+Package: tw.apk.plantsvszombies2
+Version: 4.2.1
+Architecture: iphoneos-arm
+Maintainer: APK.TW
+Installed-Size: 810
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/tw.apk.plantsvszombies2_4.2.1_iphoneos-arm.deb
+Size: 6985774
+MD5sum: aaa42bf0c22d8eb52535f5eb3b2ab218
+SHA1: 26579b1103bc0daf20325af22a56a419cdbab2d6
+SHA256: 51943f9dc3a9984457a3ee1a52d263e061ae51a00266a8f9d0d865b57fb99ada
+Section: Game Cheats
+Homepage: http://apk.tw/
+Description: Plants vs. Zombies™ 2 Cheats, powered by APK.TW (http://apk.tw/), our official repository is https://apktw.github.io/ .
+Tag: cydia::commercial, purpose::extension
+Author: mikeyb@iOSGods
+Depiction: https://apktw.github.io/depictions/?p=tw.apk.plantsvszombies2
+Name: Plants vs. Zombies™ 2 Cheats
+
 Package: tw.apk.respawnables
 Version: 3.5.0
 Architecture: iphoneos-arm
@@ -940,6 +1033,43 @@ Author: Sarmad Makhdoom
 Depiction: https://apktw.github.io/depictions/?p=tw.apk.smsflooder
 Name: SMSFlooder
 Sponsor: APK.TW <http://apk.tw/>
+
+Package: tw.apk.spotifymusic
+Version: 4.4.0
+Architecture: iphoneos-arm
+Maintainer: APK.TW
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/tw.apk.spotifymusic_4.4.0_iphoneos-arm.deb
+Size: 4366
+MD5sum: 34c5dd4d7941b60b71bd2a2819ef9541
+SHA1: 1a832edf88fb428e857ba098e4a781499c1ce1f7
+SHA256: e890d166df82005abdc3b891d6bceac98ce06d9f924e2fdf596b67bf9376d957
+Section: Game Cheats
+Homepage: http://apk.tw/
+Description: Spotify Music Cheats, powered by APK.TW (http://apk.tw/), our official repository is https://apktw.github.io/ .
+Tag: cydia::commercial, purpose::extension
+Author: APK.TW
+Depiction: https://apktw.github.io/depictions/?p=tw.apk.spotifymusic
+Name: Spotify Music Cheats
+
+Package: tw.apk.taichipanda
+Version: 1.5.0
+Architecture: iphoneos-arm
+Maintainer: APK.TW
+Installed-Size: 620
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/tw.apk.taichipanda_1.5.0_iphoneos-arm.deb
+Size: 192798
+MD5sum: c0634fe31b51c97aaf1117cf0bcf3e47
+SHA1: a312e5fb19fbc87a6d0dfb3247bcf583e2ca77ed
+SHA256: 264d2b5b5ca0480c3d8dc1d608b5da488ad6f35b53795c646058988c21d6159f
+Section: Game Cheats
+Homepage: http://apk.tw/
+Description: Taichi Panda Cheats, powered by APK.TW (http://apk.tw/), our official repository is https://apktw.github.io/ .
+Tag: cydia::commercial, purpose::extension
+Author: ZAHiR@iOSGods
+Depiction: https://apktw.github.io/depictions/?p=tw.apk.taichipanda
+Name: Taichi Panda Cheats
 
 Package: tw.apk.taptitans
 Version: 3.2.1
