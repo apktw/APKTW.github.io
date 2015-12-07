@@ -1,44 +1,61 @@
 <package>
-	<id></id>
-	<name></name>
-	<version></version>
+	<id>tw.apk.plantsvszombies2</id>
+	<name>Plants vs. Zombies™ 2 Cheats</name>
+	<version>4.2.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS></miniOS>
+			<miniOS>7.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package></package>
-		<package></package>
-		<package></package>
+    <package>firmware (>= 7.0)</package>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
 	</dependencies>
 	<descriptionlist>
-		<description></description>
+		<description><![CDATA[
+Plants vs. Zombies™ 2 Cheats<br />
+<font color='red'>請注意：此修改外掛只適用於版本4.2.1的Plants vs. Zombies™ 2</font><br />
+<br />
+<strong style="color:green">修改內容：<br />
+－商店項目全免費<br />
+－無限金幣（完成一關卡）<br />
+－無限鑽石（使用一些）<br />
+－無限鑰匙<br />
+－無限太陽<br />
+－無限肥料<br />
+－種植植物沒冷卻時間<br />
+－免費種植<br />
+－一擊殺<br />
+－上帝模式（植物不會受到傷害）<br />
+－殭屍不會吃你的腦<br />
+－加速額外肥料<br />
+－自動完成關卡<br />
+－殭屍會掉落芽苗<br />
+－植物隱形模式</strong><br />
+<br />
+此外掛為iOS Global修改組成員mikeyb所編修<br />
+APK.TW擁有最後的變更權力<br />
+為防止修改被盜賣的情況發生<br />
+本檔案已追加UDID辨識及IP位置紀錄<br />
+最後感謝使用iOS Global之產品<br />
+若使用上有任何問題<br />
+請使用下方的「各類問題回報專區」功能回報<br />
+祝您有個完美的遊戲體驗<br />
+    ]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description></description>
-			<image></image>
+			<image>tw.apk.plantsvszombies2_1.PNG</image>
 		</screenshot>		
 		<screenshot>
 			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
+			<image>tw.apk.plantsvszombies2_２.PNG</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change></change>
+		<change>APK.TW首發</change>
 	</changelog>
 	<links>
 		<link>

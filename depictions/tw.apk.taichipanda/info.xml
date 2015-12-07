@@ -1,44 +1,45 @@
 <package>
-	<id></id>
-	<name></name>
-	<version></version>
+	<id>tw.apk.taichipanda</id>
+	<name>Taichi Panda Cheats</name>
+	<version>1.5.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS></miniOS>
+			<miniOS>7.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package></package>
-		<package></package>
-		<package></package>
+    <package>firmware (>= 7.0)</package>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
 	</dependencies>
 	<descriptionlist>
-		<description></description>
+		<description><![CDATA[
+Taichi Panda Cheats<br />
+<font color='red'>請注意：此修改外掛只適用於版本1.5.0的Taichi Panda</font><br />
+<br />
+<strong style="color:green">修改內容：<br />
+－敵不動<br />
+－技能無CD冷卻<br />
+－無限法力</strong><br />
+<br />
+此外掛為iOS Global修改組成員ZAHiR所編修<br />
+APK.TW擁有最後的變更權力<br />
+為防止修改被盜賣的情況發生<br />
+本檔案已追加UDID辨識及IP位置紀錄<br />
+最後感謝使用iOS Global之產品<br />
+若使用上有任何問題<br />
+請使用下方的「各類問題回報專區」功能回報<br />
+祝您有個完美的遊戲體驗<br />
+    ]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description></description>
 			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>		
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change></change>
+		<change>APK.TW首發</change>
 	</changelog>
 	<links>
 		<link>
