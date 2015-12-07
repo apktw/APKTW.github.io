@@ -770,28 +770,6 @@ Icon: file:///Library/PreferenceBundles/Lylac.bundle/icon@2x.png
 Name: Lylac
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: apktw.org.thebigboss.sphereview
-Version: 1.2-4
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 5311
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
-Filename: ./debs/apktw.org.thebigboss.sphereview_1.2-4_iphoneos-arm.deb
-Size: 2569268
-MD5sum: dc4966b01feba48c390d428a21676953
-SHA1: 83088527cc49c84f40712240aedc4fe99f3f4d47
-SHA256: 63fce9876250cf7a74510abe21aca2b5213d03813475b045c7c1800c977c4f15
-Section: Tweaks
-Homepage: http://apk.tw/
-Description: home screen as zoomable 3D Sphere
-Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9
-Author: va2ron1 <va2ron1@hotmail.com>
-Depiction: https://apktw.github.io/depictions/?p=apktw.org.thebigboss.sphereview
-Dev: va2ron1
-Icon: file:///Library/PreferenceBundles/SphereViewSettings.bundle/icon-small@2x.png
-Name: SphereView
-Sponsor: thebigboss.org <http://thebigboss.org>
-
 Package: apktw.tweakwiz.nccards
 Version: 2.0
 Architecture: iphoneos-arm
