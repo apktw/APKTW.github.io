@@ -901,16 +901,16 @@ Depiction: https://apktw.github.io/depictions/?p=tw.apk.grandtheftautosanandreas
 Name: Grand Theft Auto: San Andreas Cheats
 
 Package: tw.apk.iconspack
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Essential: yes
 Maintainer: APK.TW
 Depends: cydia
-Filename: ./debs/tw.apk.iconspack_1.0_iphoneos-arm.deb
-Size: 10912
-MD5sum: 45d2b6be78427ee5b061f2e7b3a0b7ab
-SHA1: 4344fdc097fa543fbb2547d7379cb8fcddacca17
-SHA256: 3d382cd4e44dd271a57ccf72ef02f401df8e7379fddbf5325d0b51deaed45d36
+Filename: ./debs/tw.apk.iconspack_1.1_iphoneos-arm.deb
+Size: 28280
+MD5sum: 9c87b76bdba16b28ffd67dd0fdc1348e
+SHA1: bf5e5e1f44514709aed18b37abf0685f537fd229
+SHA256: 5c79a944df953781f238eaa63c982d578a1abeddb3ae9229de03d70b2fc9a41c
 Section: System
 Homepage: http://apk.tw/
 Description: APK.TW Official Repository's icon, install this package will fix the missing gray "?" icon in some sections. Powered by APK.TW (http://apk.tw/), our official repository is https://apktw.github.io/ .
