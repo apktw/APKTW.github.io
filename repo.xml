@@ -1,7 +1,12 @@
 <repo>
 	<footerlinks>  
     <link>
-			<name>繁化人員廣大招募中！</name>
+			<name>【限時開放】點擊加入我們的LINE群組！</name>
+			<url>http://line.me/ti/g/ZMCPwl03eu</url>
+			<iconclass>glyphicon glyphicon-qrcode</iconclass>
+		</link>
+    <link>
+			<name>繁化人員廣大招募中～</name>
 			<url>http://goo.gl/forms/z0V4PsrqES</url>
 			<iconclass>glyphicon glyphicon-edit</iconclass>
 		</link>
