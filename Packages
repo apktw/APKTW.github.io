@@ -770,6 +770,23 @@ Icon: file:///Library/PreferenceBundles/Lylac.bundle/icon@2x.png
 Name: Lylac
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.aditkamath.flame
+Version: 0.2.2
+Architecture: iphoneos-arm
+Maintainer: Adit Kamath <adit@aditkamath.com>
+Depends: mobilesubstrate
+Conflicts: com.aditkamath.cydiatimeout, com.aditkamath.exterminator
+Filename: ./debs/com.aditkamath.flame_0.2.2_iphoneos-arm.deb
+Size: 50870
+MD5sum: 1b7eb64356bfaf113d18e884a2f33b89
+SHA1: 15aeea6317ced5f4b2008d20f7a4800c7a75b1a6
+SHA256: 519393ef68c83a84ce96ea97313fe991df230bb2d2372a1083192f867c143547
+Section: Tweaks
+Description: Make Cydia Yours
+Author: Adit Kamath <adit@aditkamath.com>
+Depiction: https://repo.aditkamath.com/depictions/com.aditkamath.flame/index.html
+Name: Flame
+
 Package: com.julioverne.cydown
 Version: 6.0.7.APKTW
 Architecture: iphoneos-arm
