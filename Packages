@@ -844,6 +844,43 @@ Author: Mahmood Ma
 Depiction: https://apktw.github.io/depictions/?p=tw.apk.debian
 Name: Debian Development
 
+Package: tw.apk.despicablememinionrush
+Version: 3.4.0
+Architecture: iphoneos-arm
+Maintainer: APK.TW
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/tw.apk.despicablememinionrush_3.4.0_iphoneos-arm.deb
+Size: 89922
+MD5sum: bee07622fe242cbfcb78c9cc0d704f87
+SHA1: 8a2fd0c35887ffd8bce3fa10d14c2576b2e61702
+SHA256: dd80956e110947a575358791c5dbfe7dd782269d91bb4f4774856f1149bf9b61
+Section: Game Cheats
+Homepage: http://apk.tw/
+Description: Despicable Me: Minion Rush Cheats, powered by APK.TW (http://apk.tw/), our official repository is https://apktw.github.io/ .
+Tag: cydia::commercial, purpose::extension
+Author: AirMAX@iOSGods
+Depiction: https://apktw.github.io/depictions/?p=tw.apk.despicablememinionrush
+Name: Despicable Me: Minion Rush Cheats
+
+Package: tw.apk.dominations
+Version: 3.0.152
+Architecture: iphoneos-arm
+Maintainer: APK.TW
+Installed-Size: 35600
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/tw.apk.dominations_3.0.152_iphoneos-arm.deb
+Size: 17008354
+MD5sum: 17d7ae59fb1886c91772d286a672a2e5
+SHA1: a6cd2bf0a93879082cbf5cc69f4dbb22d24e28cd
+SHA256: 714acf39383e517832957d6fd4aba22991cd74ab015578be1d8fb954ce822ae2
+Section: Game Cheats
+Homepage: http://apk.tw/
+Description: DomiNations Cheats, powered by APK.TW (http://apk.tw/), our official repository is https://apktw.github.io/ .
+Tag: cydia::commercial, purpose::extension
+Author: shmoo@iOSGods
+Depiction: https://apktw.github.io/depictions/?p=tw.apk.dominations
+Name: DomiNations Cheats
+
 Package: tw.apk.dungeonhunter5
 Version: 1.5.0
 Architecture: iphoneos-arm
@@ -1062,6 +1099,24 @@ Tag: cydia::commercial, purpose::extension
 Author: Diversityy,Chrizk0@iOSGods
 Depiction: https://apktw.github.io/depictions/?p=tw.apk.taptitans
 Name: Tap Titans Cheats
+
+Package: tw.apk.translate.flame
+Version: 0.2.2
+Architecture: iphoneos-arm
+Maintainer: APK.TW
+Depends: mobilesubstrate, com.aditkamath.flame
+Filename: ./debs/tw.apk.translate.flame_0.2.2_iphoneos-arm.deb
+Size: 2142
+MD5sum: 547390a015a29e264d84f6af94225227
+SHA1: 51a7405f41bbec0cb3770ab33e41fede030b9a66
+SHA256: fb8c829afc5750ce95182c861caf64fb0d2205002de0a8d926df0e86c4ba9daa
+Section: Localization
+Homepage: http://apk.tw/
+Description: Translated Traditional Chinese language pack, powered by APK.TW (http://apk.tw/), our official repository is https://apktw.github.io/ .
+Tag: purpose::extension
+Author: BrianHo
+Depiction: https://apktw.github.io/depictions/?p=tw.apk.translate.flame
+Name: Flame [繁化]
 
 Package: tw.apk.triviacrack
 Version: 2.4
