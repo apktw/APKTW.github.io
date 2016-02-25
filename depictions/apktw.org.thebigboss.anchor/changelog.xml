@@ -1,0 +1,24 @@
+<changelog>
+	<changes>
+		<version>2.0.3-1</version>
+		<change>Fixed an issue causing the device to crash after installing on iOS 8 and below</change>
+	</changes>
+  <changes>
+		<version>2.0.2-1</version>
+		<change>Added option to disable separate layouts based on orientation</change>
+    <change>Fixed saving landscape layouts</change>
+	</changes>
+  <changes>
+		<version>2.0.1-1</version>
+		<change>Fixed settings crash when trying to apply a saved layout</change>
+    <change>Stopped syslog spam</change>
+	</changes>
+  <changes>
+		<version>2.0.0-1</version>
+		<change>Fixed some crashes</change>
+    <change>Fixed some issues with layouts getting messed up</change>
+    <change>Added support inside of folders</change>
+    <change>Added the ability to save your current layout</change>
+    <change>Added the ability to have separate layouts depending on your orientation</change>
+	</changes>
+</changelog>

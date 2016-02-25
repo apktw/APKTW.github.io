@@ -2,7 +2,7 @@
 	<id>apktw.org.thebigboss.ccquickpro9</id>
 	<name>CCQuick Pro for iOS9</name>
   <name>（已破解DRM）</name>
-	<version>1.0-2</version>
+	<version>1.0-3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -52,11 +52,7 @@ There are 15 toggles: location, ringer muted, edge, 3G/LTE, vibrate, hotspot, vp
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>add NoGrabber</change>
-    <change>Fix crash bug</change>
-    <change>Optimize Spotlight lock</change>
-    <change>Add Low Power Mode Toggle</change>
-    <change>Optimize for iOS9</change>
+		<change>optimization</change>
 	</changelog>
 	<links>
 		<link>

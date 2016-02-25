@@ -2,7 +2,7 @@
 	<id>apktw.org.thebigboss.locationfaker8</id>
 	<name>LocationFaker (iOS 8 &amp; 9)</name>
   <name>（已破解DRM）</name>
-	<version>1.2-1</version>
+	<version>1.2-4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>8.0</miniOS>
@@ -51,9 +51,7 @@ New app on your home screen.<br />
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Fix the bug for iOS8</change>
-    <change>Optimization for iOS9</change>
-    <change>Add ShortcutItem(3D Touch)</change>
+		<change>optimization</change>
 	</changelog>
 	<links>
 		<link>

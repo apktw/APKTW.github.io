@@ -1,4 +1,8 @@
 <changelog>
+  <changes>
+		<version>1.2-4</version>
+		<change>optimization</change>
+	</changes>
 	<changes>
 		<version>1.2-1</version>
 		<change>Fix the bug for iOS8</change>

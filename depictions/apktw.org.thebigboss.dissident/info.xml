@@ -1,0 +1,82 @@
+<package>
+	<id>apktw.org.thebigboss.dissident</id>
+	<name>Dissident</name>
+  <name>（已破解DRM）</name>
+	<version>1.4-3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>firmware (>= 8.0)</package>
+		<package>mobilesubstrate</package>
+		<package>applist</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[
+Compatible with iOS 8 and 9.<br />
+<br />
+Dissident finally brings true application background management back to your device.<br />
+<br />
+Dissident features five background modes which you can assign either globally or to individual applications:<br />
+<br />
+- Off (Disables backgrounding)<br />
+- Fast Freeze (Instantly suspend apps in memory)<br />
+- Native (Apple's way)<br />
+- Unlimited native (Infinite background tasks)<br />
+- Foreground (iOS behaves as if the app was running in front)<br />
+<br />
+Some other features are:<br />
+- Prevent termination (Prevents iOS from closing apps)<br />
+- Force automatic launch (Launch apps on respring/reboot)<br />
+- Force automatic relaunch (Relaunch apps when they close)<br />
+<br />
+- Icon badges to see which app is running, and in which mode<br />
+- Statusbar icons to display the background mode of the currently openen app<br />
+- Activator actions to toggle baackgrounding modes on the fly<br />
+<br />
+If you don't use Activator or libstatusbar, no problem. Dissident doesn't depend on these two tweaks, but if installed, you can use their features.<br />
+<br />
+Dissident adds a settings app to the homescreen.<br />
+<br />
+Follow @biscoditch on Twitter for updates and stuff.<br />
+    ]]></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>apktw.org.thebigboss.dissident_1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>apktw.org.thebigboss.dissident_2.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>apktw.org.thebigboss.dissident_3.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>apktw.org.thebigboss.dissident_4.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Fixed app layout on iPad</change>
+    <change>Minor bug fixes</change>
+    <change>App Store now kills Apps when updated</change>
+    <change>Removed the Toggle Foregrounding Permanent activator action</change>
+    <change>Changed the way of displaying the icon badge, Dissident now uses the update badge</change>
+    <change>Changed the way of forced launch and forced relaunch (Dissident doesn't use temporary foregrounding to update the UI anymore)</change>
+    <change>Fixed statusbar not showing until app is opened</change>
+    <change>Fixed icon badge not displaying the correct background mode (happened when toggling foregrounding with activator)</change>
+    <change>Fixed statusbar not displaying the correct background mode (happened when toggling foregrounding with activator)</change>
+    <change>Support for iOS 9</change>
+	</changelog>
+	<links>
+		<link>
+			<name>APK.TW 台灣中文網</name>
+			<url>http://apk.tw/</url>
+		</link>
+	</links>
+</package>

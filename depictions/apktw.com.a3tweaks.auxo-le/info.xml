@@ -2,7 +2,7 @@
 	<id>apktw.com.a3tweaks.auxo-le</id>
 	<name>Auxo Legacy Edition</name>
   <name>（已破解DRM）</name>
-	<version>1.0.6</version>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -42,8 +42,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Support for ColorFlow 2</change>
-		<change>Hide mistakenly shown "InCallService" on iOS 8</change>
+		<change>Add Activator integration</change>
 	</changelog>
 	<links>
 		<link>

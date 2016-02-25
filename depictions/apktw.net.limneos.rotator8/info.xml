@@ -1,0 +1,70 @@
+<package>
+	<id>apktw.net.limneos.rotator8</id>
+	<name>SBRotator (iOS 9 &amp; 8)</name>
+  <name>（已破解DRM）</name>
+	<version>1.0-253</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>firmware (>= 8.0)</package>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[
+Compatible with iOS 8 and 9<br />
+SpringBoard and Lockscreen Rotation!<br />
+<br />
+SBRotator rotates SpringBoard and lockscreen on all iOS 8/9 devices.<br />
+<br />
+My best selling tweak since 2009, totally redesigned and by using iOS native rotation methods it now gives you the option to choose between 2 landscape styles, iPhone 6 Plus style (dock on the right side) or iPad style (dock at the bottom). <br />
+<br />
+Use iPhone 6 Plus style or iPad style rotation on iPhone 4S, iPhone 5/5C/5S, iPhone 6 and any iOS iPod. You can even use it on an iPhone 6 Plus, that already rotates natively, to change from the dock-on-the-side style to dock-at-the-bottom style, or even on an iPad , to rotate SpringBoard just like iPhone 6 Plus does!<br />
+<br />
+SBRotator also gives options to rotate your lockscreen and several applications that don't natively rotate to landscape, such as Settings, App Store, Videos, iTunes, Game Center, Twitter and Facebook!<br />
+<br />
+You may choose the allowed orientations and the rotation duration,as well.<br />
+<br />
+The only real iPhone Rotator!<br />
+<br />
+Check the screenshots and enjoy!<br />
+    ]]></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>apktw.net.limneos.rotator8_1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>apktw.net.limneos.rotator8_2.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>apktw.net.limneos.rotator8_3.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>apktw.net.limneos.rotator8_4.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>apktw.net.limneos.rotator8_5.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Fixes several iOS8 to iOS9 specific issues.</change>
+    <change>Handles insecure UIKit-linked tweaks that tent to load in non-UIKit linking processes causing all other UIKit-linking tweaks to load themselves inside non-UIKit-linking processes.</change>
+    <change>Added iOS 9 support.</change>
+    <change>Fixed minor issues</change>
+	</changelog>
+	<links>
+		<link>
+			<name>APK.TW 台灣中文網</name>
+			<url>http://apk.tw/</url>
+		</link>
+	</links>
+</package>

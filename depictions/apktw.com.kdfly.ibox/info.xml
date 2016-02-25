@@ -2,7 +2,7 @@
 	<id>apktw.com.kdfly.ibox</id>
 	<name>iBox</name>
   <name>（已破解DRM）</name>
-	<version>1.1.9-2</version>
+	<version>1.2.1-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -114,10 +114,8 @@ Configure options from Settings.<br />
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>修复6s和6s plus接通震动弱的问题。（需大家测试反馈）</change>
-		<change>修复锁屏显示时间的一个界面bug。</change>
-		<change>新增左右下角手势(beta)。</change>
-    <change>Add bottom corner gestures.</change>
+		<change>优化运营商处的显示文字。</change>
+		<change>优化未开定位时的天气显示。</change>
 	</changelog>
 	<links>
 		<link>

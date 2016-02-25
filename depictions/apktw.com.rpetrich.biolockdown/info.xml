@@ -2,7 +2,7 @@
 	<id>apktw.com.rpetrich.biolockdown</id>
 	<name>BioLockdown</name>
   <name>（已破解DRM）</name>
-	<version>1.2.14</version>
+	<version>1.3.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>6.0</miniOS>
@@ -43,9 +43,11 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Support iOS 9's new six-digit numeric passcode</change>
-		<change>Updated localizations</change>
-		<change>Restore previous match mode when finish matching, to provide better compatibility with other tweaks that use the Touch ID sensor</change>
+		<change>Allow treating a connected Apple Watch or other accessories as an access type</change>
+    <change>Add ability to protect the App Switcher, Control Center and Notification Center on iOS 9</change>
+    <change>Support restricting Auxo's quick switcher</change>
+    <change>Adjust Biometric integration so that matching is disabled when VirtualHome is installed</change>
+    <change>Workaround crashes when encountering folders that have no name</change>
 	</changelog>
 	<links>
 		<link>

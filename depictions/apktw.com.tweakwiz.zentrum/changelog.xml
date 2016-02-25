@@ -1,0 +1,10 @@
+<changelog>
+	<changes>
+		<version>1.0.3</version>
+		<change>Fixed app panel icon alignment issues</change>
+    <change>Hides music controls if no music is playing or paused</change>
+    <change>Rounds the music album artwork</change>
+    <change>Fixes the bug where open app would close if you close the app switcher</change>
+    <change>Fixed bug where icons in the app panel would be misaligned on some devices</change>
+	</changes>
+</changelog>

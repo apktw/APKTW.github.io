@@ -1,5 +1,10 @@
 <changelog>
   <changes>
+		<version>1.2.1-1</version>
+		<change>优化运营商处的显示文字。</change>
+		<change>优化未开定位时的天气显示。</change>
+  </changes>
+  <changes>
 		<version>1.2.0-6</version>
 		<change>修复6s和6s plus接通震动弱的问题。（需大家测试反馈）</change>
 		<change>修复锁屏显示时间的一个界面bug。</change>

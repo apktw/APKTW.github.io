@@ -1,0 +1,62 @@
+<package>
+	<id>apktw.com.tweakwiz.zentrum</id>
+	<name>Zentrum</name>
+  <name>（已破解DRM）</name>
+	<version>1.0.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+    <package>firmware (>= 8.0)</package>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>applist</package>
+		<package>libactivator</package>
+		<package>com.tweakwiz.wizlib</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[
+Compatible with iOS 8 and 9.<br />
+Compatible with iPad.<br />
+<br />
+Zentrum brings you a customizable and searchable app panel, control center toggles, a music player, and seamless multitasking, all in once place. It provides a clear overview and will greatly increase your productivity. Swipe up or down on snapshots to close apps, and hold down the home card to show the clear all apps screen. Zentrum will work flawlessly on your iPhone, iPod, and even your iPad.<br />
+    ]]></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>apktw.com.tweakwiz.zentrum_1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>apktw.com.tweakwiz.zentrum_2.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>apktw.com.tweakwiz.zentrum_3.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>apktw.com.tweakwiz.zentrum_4.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>apktw.com.tweakwiz.zentrum_5.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Fixed app panel icon alignment issues</change>
+    <change>Hides music controls if no music is playing or paused</change>
+    <change>Rounds the music album artwork</change>
+    <change>Fixes the bug where open app would close if you close the app switcher</change>
+    <change>Fixed bug where icons in the app panel would be misaligned on some devices</change>
+	</changelog>
+	<links>
+		<link>
+			<name>APK.TW 台灣中文網</name>
+			<url>http://apk.tw/</url>
+		</link>
+	</links>
+</package>

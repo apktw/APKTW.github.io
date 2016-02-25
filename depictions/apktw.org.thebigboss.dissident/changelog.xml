@@ -1,0 +1,15 @@
+<changelog>
+	<changes>
+		<version>1.4-3</version>
+		<change>Fixed app layout on iPad</change>
+    <change>Minor bug fixes</change>
+    <change>App Store now kills Apps when updated</change>
+    <change>Removed the Toggle Foregrounding Permanent activator action</change>
+    <change>Changed the way of displaying the icon badge, Dissident now uses the update badge</change>
+    <change>Changed the way of forced launch and forced relaunch (Dissident doesn't use temporary foregrounding to update the UI anymore)</change>
+    <change>Fixed statusbar not showing until app is opened</change>
+    <change>Fixed icon badge not displaying the correct background mode (happened when toggling foregrounding with activator)</change>
+    <change>Fixed statusbar not displaying the correct background mode (happened when toggling foregrounding with activator)</change>
+    <change>Support for iOS 9</change>
+	</changes>
+</changelog>

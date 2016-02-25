@@ -1,4 +1,26 @@
 <changelog>
+  <changes>
+		<version>1.3.1</version>
+		<change>Allow treating a connected Apple Watch or other accessories as an access type</change>
+    <change>Add ability to protect the App Switcher, Control Center and Notification Center on iOS 9</change>
+    <change>Support restricting Auxo's quick switcher</change>
+    <change>Adjust Biometric integration so that matching is disabled when VirtualHome is installed</change>
+    <change>Workaround crashes when encountering folders that have no name</change>
+	</changes>
+  <changes>
+		<version>1.3.0</version>
+		<change>Add support for restricting phone calls</change>
+    <change>Add support for restricting access to folders</change>
+    <change>Add option to lock device upon authentication failure</change>
+    <change>Show checkmarks in settings pane for items that are already restricted</change>
+    <change>Better icons for settings panes and switches</change>
+    <change>Basic support for Alympus app switcher</change>
+    <change>Support vibration features on iOS 9</change>
+    <change>Protect launching apps through force touch gesture on 3D Touch devices</change>
+    <change>Fix airplane mode authentication prompt showing on respring</change>
+    <change>Restrict access to the camera roll through the Camera app on iOS 9</change>
+    <change>Fix unlocking to a protected app causing a crash on iOS 9</change>
+	</changes>
 	<changes>
 		<version>1.2.14</version>
 		<change>Support iOS 9's new six-digit numeric passcode</change>

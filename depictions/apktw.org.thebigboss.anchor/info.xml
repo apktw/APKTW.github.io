@@ -1,0 +1,50 @@
+<package>
+	<id>apktw.org.thebigboss.anchor</id>
+	<name>Anchor</name>
+  <name>（已破解DRM）</name>
+	<version>2.0.3-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+    <package>firmware (>= 7.0)</package>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>applist</package>
+		<package>com.chpwn.iconsupport</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[
+Compatible with iOS 7, 8 and 9<br />
+<br />
+Anchor allows you to freely place your icons. Your icons will be "anchored" to the row and column you place them in. They will not automatically scrunch together allowing you to have spaces between your icons. Simply drag and drop icons into the positions you want them in.<br />
+<br />
+Includes a settings panel to enable/disable the tweak and to reset layouts.<br />
+    ]]></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>apktw.org.thebigboss.anchor_1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>apktw.org.thebigboss.anchor_2.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>apktw.org.thebigboss.anchor_3.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Fixed an issue causing the device to crash after installing on iOS 8 and below</change>
+	</changelog>
+	<links>
+		<link>
+			<name>APK.TW 台灣中文網</name>
+			<url>http://apk.tw/</url>
+		</link>
+	</links>
+</package>

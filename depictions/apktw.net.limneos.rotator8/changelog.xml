@@ -1,0 +1,9 @@
+<changelog>
+	<changes>
+		<version>1.0-253</version>
+		<change>Fixes several iOS8 to iOS9 specific issues.</change>
+    <change>Handles insecure UIKit-linked tweaks that tent to load in non-UIKit linking processes causing all other UIKit-linking tweaks to load themselves inside non-UIKit-linking processes.</change>
+    <change>Added iOS 9 support.</change>
+    <change>Fixed minor issues</change>
+	</changes>
+</changelog>

@@ -1,0 +1,16 @@
+<changelog>
+	<changes>
+		<version>0.8-277</version>
+		<change>Fixes a crash issue on iOS 9 when pressing the home button.</change>
+    <change>Fixed a crash on iOS 8.x when attempting to lock the screen or entering sleep while Prevent Sleep was enabled.</change>
+    <change>Fixed pocket detection to not allow device to wake up on pocket slides thinking it was a swipe up/down event.</change>
+    <change>Added option to never sleep when device is connected to power.</change>
+    <change>Fixed PreventSleep to not reset the idle timeout when a non-user event occurs (e.g. screen lights up for a notification without the user interacting).</change>
+    <change>Fixed an issue where Idle Sleep Hours setting would not be respected if sleep hour date was after midnight and midnight had passed.</change>
+    <change>Added iOS 9 and iPhone 6S - 6S Plus support</change>
+    <change>Added Show Camera / Show Notification Center actions.</change>
+    <change>Added option to assign Activator actions.</change>
+    <change>Added force-touch assignable actions - Fixed Idle Sleep settings not working correctly.</change>
+    <change>Redesigned from scratch for maximum battery efficiency configured through the Idle Sleep options in settings. You can now effectively configure idle sleep timeouts and sleep-allowed hours to best suite your needs.</change>
+	</changes>
+</changelog>

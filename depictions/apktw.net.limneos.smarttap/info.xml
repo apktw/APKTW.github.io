@@ -1,0 +1,76 @@
+<package>
+	<id>apktw.net.limneos.smarttap</id>
+	<name>SmartTap</name>
+  <name>（已破解DRM）</name>
+	<version>0.8-277</version>
+	<compatibility>
+		<firmware>
+			<miniOS>5.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>firmware (>= 5.0)</package>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[
+Compatible with iOS 7, 8 and 9<br />
+Turn on the screen by double-tapping it!<br />
+<br />
+SmartTap gives your iPhone, iPod or iPad a new impossible feature:<br />
+You can turn on the screen by double tapping it while its completely off! (similar to a few other phone brands' Knock capability)<br />
+<br />
+You can also use other gestures, like slide up from the bottom or slide down from top of the screen while its off, and have it perform a different action like, unlock the device, open Camera, show Notification Center or launch a particular application. Activator actions can also be added, e.g. call a number or play/pause music.<br />
+<br />
+And has force-touch assignable actions.<br />
+<br />
+Right from your locked device with the screen being off!<br />
+<br />
+Ideal for any use, you will give your power and home button a rest, since you can both turn on, unlock and lock the device by double-tapping the screen.<br />
+<br />
+Its also a great solution for device with broken home button, sleep button or both.<br />
+<br />
+Features that iPhone lacked has always been a challenge and adding new ones brings always a great satisfaction. <br />
+<br />
+I have also developed a cool pocket touches detection that prevents double-taps from being detected while the device is in your pocket, purses or other places!<br />
+<br />
+The application uses the digitizer sensor when the screen goes off, without keeping the screen on.<br />
+<br />
+In order for the tweak to constantly receive touches when locked,it prevents device from entering idle sleep mode. This will drain more battery especially during idle times. There are options in the settings to schedule the hours when you need the tweak most in order to maintain more battery, set timeout of inactivity or disable idle sleep prevention.<br />
+<br />
+There is a flipswitch provided so you can turn the tweak on or off at any time and more power options to customise with.<br />
+<br />
+No other tweak has access to the locked, turned off screen so far so there are no conflicting tweaks at all.<br />
+    ]]></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>apktw.net.limneos.smarttap_1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>apktw.net.limneos.smarttap_2.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Fixes a crash issue on iOS 9 when pressing the home button.</change>
+    <change>Fixed a crash on iOS 8.x when attempting to lock the screen or entering sleep while Prevent Sleep was enabled.</change>
+    <change>Fixed pocket detection to not allow device to wake up on pocket slides thinking it was a swipe up/down event.</change>
+    <change>Added option to never sleep when device is connected to power.</change>
+    <change>Fixed PreventSleep to not reset the idle timeout when a non-user event occurs (e.g. screen lights up for a notification without the user interacting).</change>
+    <change>Fixed an issue where Idle Sleep Hours setting would not be respected if sleep hour date was after midnight and midnight had passed.</change>
+    <change>Added iOS 9 and iPhone 6S - 6S Plus support</change>
+    <change>Added Show Camera / Show Notification Center actions.</change>
+    <change>Added option to assign Activator actions.</change>
+    <change>Added force-touch assignable actions - Fixed Idle Sleep settings not working correctly.</change>
+    <change>Redesigned from scratch for maximum battery efficiency configured through the Idle Sleep options in settings. You can now effectively configure idle sleep timeouts and sleep-allowed hours to best suite your needs.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>APK.TW 台灣中文網</name>
+			<url>http://apk.tw/</url>
+		</link>
+	</links>
+</package>
