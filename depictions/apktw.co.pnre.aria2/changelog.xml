@@ -1,4 +1,11 @@
 <changelog>
+  <changes>
+		<version>1.0.4-1</version>
+		<change>Removed the useless "Cancel" actions from peek previews</change>
+    <change>3D touch preview in Artists Grid view</change>
+    <change>3D touch preview in Playlists Grid view</change>
+    <change>Peek quick actions in peek previews</change>
+	</changes>
 	<changes>
 		<version>1.0.2-1</version>
 		<change>iOS9 support</change>

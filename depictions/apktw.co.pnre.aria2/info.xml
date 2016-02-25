@@ -2,7 +2,7 @@
 	<id>apktw.co.pnre.aria2</id>
 	<name>Aria 2 (iOS 8.4+)</name>
   <name>（已破解DRM）</name>
-	<version>1.0.2-1</version>
+	<version>1.0.4-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>8.4</miniOS>
@@ -48,7 +48,10 @@ Aria² is compatible with iOS 8.4 - 9.x, for older version please check out <a h
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>iOS9 support</change>
+		<change>Removed the useless "Cancel" actions from peek previews</change>
+    <change>3D touch preview in Artists Grid view</change>
+    <change>3D touch preview in Playlists Grid view</change>
+    <change>Peek quick actions in peek previews</change>
 	</changelog>
 	<links>
 		<link>

@@ -2,7 +2,7 @@
 	<id>apktw.org.thebigboss.lylac</id>
 	<name>Lylac</name>
   <name>（已破解DRM）</name>
-	<version>1.0.4-2</version>
+	<version>1.0.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -68,12 +68,10 @@ Configure options from Settings.<br />
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Fix CCSetting crash on Legacy mode(iOS 7/8 style)</change>
-    <change>iOS 8 style support now !</change>
-    <change>More smooth animation</change>
-    <change>Bugs fixed</change>
-    <change>Now you can hide handoff and top view in setting</change>
-    <change>Customized bottom control center will show in next version</change>
+		<change>More customizable ControlCenter view, now you can design what your ControlCenter view looks like by reorder it.(Try to find out in Lylac Setting -> ControlCenter -> ControlCenter Layout)</change>
+    <change>Performence improved and power consumption reduced.</change>
+    <change>Bugs fixed.</change>
+    <change>More new style of ControlCenter section view will support in future version.</change>
 	</changelog>
 	<links>
 		<link>

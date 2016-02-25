@@ -1,0 +1,18 @@
+<changelog>
+	<changes>
+		<version>8.00.92~beta2</version>
+		<change>微部調整並遷移至新的軟體源，目前尚未支援iOS 9.x</change>
+	</changes>
+  <changes>
+		<version>8.00.92~beta1</version>
+		<change>Added iOS 8.3 &amp; 8.4 support and fix some bugs, remember, this package is still in beta, please use it at your own risk.</change>
+	</changes>
+  <changes>
+		<version>8.00.73</version>
+		<change>APK.TW Dev Team fixed the issue of crashing during finding/editing the values.</change>
+	</changes>
+  <changes>
+		<version>8.00.72</version>
+		<change>APK.TW Dev Team fixed the issue of crashing and compatibility.</change>
+	</changes>
+</changelog>

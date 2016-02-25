@@ -1,15 +1,15 @@
 Package: apktw.co.pnre.aria2
-Version: 1.0.2-1
+Version: 1.0.4-1
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 1112
 Depends: mobilesubstrate, preferenceloader, firmware (>= 8.4), org.thebigboss.libcolorpicker
 Conflicts: org.thebigboss.aria
-Filename: ./debs/apktw.co.pnre.aria2_1.0.2-1_iphoneos-arm.deb
-Size: 413362
-MD5sum: bbbe9f451ba5a67cbc9986a320998fb7
-SHA1: 1da0a86c334e8f8e1695c1b0278b3d3acb845f81
-SHA256: e4ec40aa067980526155f1ece412c6da1383e6ad749fb24fe51c94d303ffec92
+Filename: ./debs/apktw.co.pnre.aria2_1.0.4-1_iphoneos-arm_quanganh9x.deb
+Size: 416140
+MD5sum: 865c0f9584e3065a918d50edc5901655
+SHA1: d495bae8c537a1c388575233fa0745f0b10b9c60
+SHA256: 438050ba305e014f8846a5ae951440d1ffeffa4f6f75c65675966f5a69a09634
 Section: Tweaks
 Homepage: http://apk.tw/
 Description: Music app the way it should have been
@@ -130,16 +130,16 @@ Icon: file:///Library/PreferenceBundles/QuickDoSettings.bundle/Icon-small.png
 Name: QuickDo
 
 Package: apktw.com.clezz.tage
-Version: 1.2-2
+Version: 1.2-4
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 1812
+Installed-Size: 1912
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
-Filename: ./debs/apktw.com.clezz.tage_1.2-2_iphoneos-arm.deb
-Size: 573666
-MD5sum: 0496cbde26b239c72bf4f8a694dceda9
-SHA1: 35200b69da325633e3d371160a38f7c569588999
-SHA256: f2df43c578e095f58f037197dc661654c0aa78b4c825a6d1733db54f582851e3
+Filename: ./debs/apktw.com.clezz.tage_1.2-4_iphoneos-arm_quanganh9x.deb
+Size: 586012
+MD5sum: b36185480b02eded9cf5d9093baaeea4
+SHA1: b195dfacc036694a04cb6effa3ade07908b15735
+SHA256: 860763795006f758baf0043dbdab99dc79816f818d8bde6dbe01b0666e029285
 Section: Tweaks
 Homepage: http://apk.tw/
 Description: Awesome multitasking gestures and more. / 功能强大的多任务手势。
@@ -569,17 +569,17 @@ Name: Cloaky
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: apktw.kr.typostudio.tsprotector8
-Version: 1.1.2-14
+Version: 1.1.3-76
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 667
+Installed-Size: 524
 Depends: firmware(>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
-Conflicts: kr.typostudio.tsprotector.8, kr.typostudio.tsprotector.p, org.thebigboss.tsprotectorp, kr.typostudio.tsprotector.pfb
-Filename: ./debs/apktw.kr.typostudio.tsprotector8_1.1.2-14_iphoneos-arm.deb
-Size: 297052
-MD5sum: 9d156588a64acbe5273db201500abd4a
-SHA1: f26f4ae7edfa651dadf39c0b75fcfdc280cf5276
-SHA256: 9bf89c16d152e8f607a47957b875e67b4a54f135eb0dc3ba9a3ec6ab601f95ca
+Conflicts: kr.typostudio.tsprotector.8, kr.typostudio.tsprotector.p, org.thebigboss.tsprotectorp, kr.typostudio.tsprotector.pfb, kr.typostudio.tsprotector8.ft
+Filename: ./debs/apktw.kr.typostudio.tsprotector8_1.1.3-76_iphoneos-arm_quanganh9x.deb
+Size: 234758
+MD5sum: 6c918d530ecdb6dee66830f2b5c114a8
+SHA1: 32e62bd5981635d05c6c30618d5033b20ccf6b4f
+SHA256: 0e18c96a4abd52e9769c0c94c8d7c3ffb07ba8bac63c5d97e7031820ec50c200
 Section: Tweaks
 Homepage: http://apk.tw/
 Description: Protect system from suspicious apps
@@ -588,7 +588,30 @@ Author: typ0s2d10 <typ0s2d10@gmail.com>
 Depiction: https://apktw.github.io/depictions/?p=apktw.kr.typostudio.tsprotector8
 Dev: typ0s2d10
 Icon: file:///Library/PreferenceBundles/tsProtectorSettings.bundle/tsProtector@2x.png
-Name: tsProtector 8 (iOS 8+)
+Name: tsProtector 8+ (iOS 8+)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: apktw.me.alfhaily.cercube
+Version: 1.1.9
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 25011
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap, com.ouraigua.jodebox
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp
+Filename: ./debs/apktw.me.alfhaily.cercube_1.1.9_iphoneos-arm_quanganh9x.deb
+Size: 9858096
+MD5sum: 05e6431b5dc4848027a6451e8728b53f
+SHA1: edfbebf6f52ce88f813e5ed76cd8f60d093111dd
+SHA256: f5521ec01c94720aad31cfebc6c8085103a53045aa4697df9195b9bd0b5faa28
+Section: Tweaks
+Homepage: http://apk.tw/
+Description: All-in-one YouTube extension!
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9
+Author: Majd Alfhaily <freemanrepo@me.com>
+Depiction: https://apktw.github.io/depictions/?p=apktw.me.alfhaily.cercube
+Dev: freemanrepo
+Icon: file:///Library/Application Support/Cercube/Cercube.bundle/CydiaIcon.png
+Name: Cercube 3 (iOS 7/8/9)
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: apktw.me.autotouch.autotouch.ios8
@@ -861,17 +884,17 @@ Name: LocationFaker (iOS 8 & 9)
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: apktw.org.thebigboss.lylac
-Version: 1.0.4-2
+Version: 1.0.5
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 1213
+Installed-Size: 1513
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, applist
-Conflicts: tw.garynil.swipehome, com.cpdigitaldarkroom.legacyswitcher, com.skylerk99.switchertweak, com.skylerk99.rehctiws, org.thebigboss.slide2kill9, org.thebigboss.switchertweakpro
-Filename: ./debs/apktw.org.thebigboss.lylac_1.0.4-2_iphoneos-arm.deb
-Size: 515972
-MD5sum: 0ce74f070e2c0161171743cf9967038c
-SHA1: abd1d5cafe6bc7d63d18b5b0337a417ca1d2cc33
-SHA256: 74d00cbc7341fb5861c21e286a28354561243448e270f440bd1092f8b903bc69
+Conflicts: tw.garynil.swipehome, com.cpdigitaldarkroom.legacyswitcher, com.skylerk99.switchertweak, com.skylerk99.rehctiws, org.thebigboss.slide2kill9, org.thebigboss.switchertweakpro, me.chewitt.seng
+Filename: ./debs/apktw.org.thebigboss.lylac_1.0.5_iphoneos-arm_Theking36.deb
+Size: 659314
+MD5sum: 54f1cc1155d95c6cc1ec6fe535133b34
+SHA1: 807ca0ca29ae6c0fe0f335c1bf2bd1a4cfce9fac
+SHA256: 6b5c595fe5e536b3e76a72599d89c6838b8b9d359579feff577eb09cbd3bae76
 Section: Tweaks
 Homepage: http://apk.tw/
 Description: enhance iOS 9 app switcher and more
@@ -1047,6 +1070,26 @@ Tag: cydia::commercial, purpose::extension
 Author: APK.TW
 Depiction: https://apktw.github.io/depictions/?p=tw.apk.frontlinecommando2
 Name: Frontline Commando 2 Cheats
+
+Package: tw.apk.gameplayer
+Version: 8.00.92~beta2
+Architecture: iphoneos-arm
+Maintainer: Maocai Luo <luomao2000@tom.com>
+Installed-Size: 2800
+Pre-Depends: firmware (>= 6.0), mobilesubstrate
+Filename: ./debs/tw.apk.gameplayer_8.00.92~beta2_iphoneos-arm.deb
+Size: 1554660
+MD5sum: c2fbfb2950b66acf2a8270a9a79a5cf4
+SHA1: 2b8d6a16ea08d0351f6f261c20af3c12b778251b
+SHA256: 9826ad67a3fc1e49e74399f415554c33ca629046657c4b375d4413add76c00b7
+Section: Utilities
+Priority: optional
+Homepage: http://apk.tw/
+Description: GamePlayer is a game cheating tool. It can easily modify HP, MP, money and so on. iOS 6.x, 7.x and 8.x are supported.
+Tag: cydia::commercial, purpose::extension
+Author: APK.TW Team
+Depiction: https://apktw.github.io/depictions/?p=tw.apk.gameplayer
+Name: GamePlayer (八門神器) for iOS 8
 
 Package: tw.apk.grandtheftautosanandreas
 Version: 1.6

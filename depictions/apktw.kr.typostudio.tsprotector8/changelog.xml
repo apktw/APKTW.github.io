@@ -1,4 +1,11 @@
 <changelog>
+  <changes>
+		<version>1.1.3-76</version>
+		<change>Fix crash Pages, Numbers, Keynote</change>
+    <change>No more need VPN when respring for license checking in China</change>
+    <change>Default mode is black list when reset.</change>
+    <change>Free trial with only one app can be blocked.</change>
+	</changes>
 	<changes>
 		<version>1.1.2-14</version>
 		<change>Changed license check for users in CHINA</change>

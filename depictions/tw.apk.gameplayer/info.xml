@@ -1,0 +1,71 @@
+<package>
+	<id>tw.apk.gameplayer</id>
+	<name>GamePlayer (八門神器) for iOS 8</name>
+	<version>8.00.92~beta2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>6.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>firmware (>= 6.0)</package>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[
+什麼是八門神器？<br />
+八門神器是iOS平台上知名的遊戲修改工具，可以修改內存中的數值和參數，達到修改遊戲HP、MP、金錢、等級等的作用。八門神器類似於PC平台的Cheat Engine修改器，是手機遊戲中的金手指。八門神器在iOS平台下需要iPhone越獄才能正常工作，並且支持中、英雙語言，並且自帶幫助說明。<br />
+<br />
+1. 從遊戲切換到八門神器，在輸入框中輸入遊戲中看到的數值；<br />
+2. 點擊搜索按鈕，選擇合適的數據類型，搜索完成時會顯示搜索結果；<br />
+3. 返回游戲，數值變化後切換到八門神器；<br />
+4. 搜索變化後的數值；<br />
+5. 如果搜索結果較多，繼續第3步；<br />
+6. 當搜索結果較少時，就可以嘗試修改搜索出來的數據（可修改、存儲或鎖定數值）。<br />
+請注意：當你安裝完該插件之後，請重啟您的手機。<br />
+<br />
+特別感謝：<br />
+ZNTX團隊重新設計製作<br />
+APK.TW開發團隊修復閃退及相容性之問題<br />
+賀元昱、小馬(mahmoodma)、小宥迪迪<br />
+<br />
+Special Thanks to:<br />
+ZNTX Team for rewriting.<br />
+APK.TW Dev Team for fixing the issue of crashing and compatibility.<br />
+Brian, Mahmood Ma, Yoyo Dede<br />
+<br />
+更多精彩盡在：http://apk.tw/<br />
+    ]]></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>微部調整並遷移至新的軟體源，目前尚未支援iOS 9.x</change>
+	</changelog>
+	<links>
+		<link>
+			<name>APK.TW 台灣中文網</name>
+			<url>http://apk.tw/</url>
+		</link>
+	</links>
+</package>

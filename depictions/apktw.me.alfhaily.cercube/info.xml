@@ -1,0 +1,79 @@
+<package>
+	<id>apktw.me.alfhaily.cercube</id>
+	<name>Cercube 3 (iOS 7/8/9)</name>
+	<version>1.1.9</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>firmware (>= 7.0)</package>
+		<package>mobilesubstrate</package>
+		<package>com.rpetrich.rocketbootstrap</package>
+		<package>com.ouraigua.jodebox</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[
+Compatible with iOS 7, 8 and 9<br />
+<br />
+Cercube 3 is the best all-in-one video download extension for the YouTube app.<br />
+This is an extension for the official YouTube app which can be downloaded from the AppStore for free.<br />
+<br />
+The official YouTube app is a great YouTube client but it lacks a several key features that most YouTube users want: Video downloads, customizable playback quality, no ads and much more.<br />
+<br />
+Cercube 3 takes care of the missing features in YouTube app.<br />
+<br />
+It’s build right into the YouTube app and adds these great features to the app:<br />
+• Download any video in any available quality. (from 144p to 1080p).<br />
+• View, manage and share all your downloads in Cercube’s download manager.<br />
+• Import downloaded songs and videos to your Music Library, or Videos app.<br />
+• Block all promoted cells and video ads.<br />
+• Send downloaded videos via AirDrop to other devices.<br />
+• Background playback capability for both streamed and downloaded videos.<br />
+• Downloaded videos are displayed within a beautifully crafted downloads manager that shows all the available information.<br />
+• Select which page to display when launching the YouTube app.<br />
+• Unique short-hold button gestures.<br />
+• HD streaming on mobile networks.<br />
+• Auto replay videos.<br />
+<br />
+Cercube options are configurable from within the YouTube app settings.<br />
+    ]]></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>apktw.me.alfhaily.cercube_1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>apktw.me.alfhaily.cercube_2.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>apktw.me.alfhaily.cercube_3.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>apktw.me.alfhaily.cercube_4.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>apktw.me.alfhaily.cercube_5.jpg</image>
+		</screenshot>		
+    <screenshot>
+			<description></description>
+			<image>apktw.me.alfhaily.cercube_6.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>New redesigned player for audio downloads.</change>
+    <change>Bug fixes and improvements.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>APK.TW 台灣中文網</name>
+			<url>http://apk.tw/</url>
+		</link>
+	</links>
+</package>
