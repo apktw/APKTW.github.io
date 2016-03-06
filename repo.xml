@@ -1,5 +1,5 @@
 <repo>
-	<footerlinks>  
+	<footerlinks>
     <link>
 			<name>各類問題回報專區</name>
 			<url>http://goo.gl/forms/pUIDPZYEbT</url>
@@ -18,19 +18,14 @@
 			<iconclass>glyphicon glyphicon-qrcode</iconclass>
 		</link>
     <link>
-			<name>捐款來維護軟體源的運作</name>
+			<name>PayPal捐款來維護此軟體源</name>
 			<url>http://bit.ly/APKTW_Repo_Donation</url>
-			<iconclass>icomoon icon-paypal</iconclass>
+			<iconclass>glyphicon glyphicon-usd</iconclass>
 		</link>
     <link>
 			<name>在APK.TW的FB粉絲專頁上按讚</name>
 			<url>https://www.facebook.com/wwwapktw</url>
 			<iconclass>glyphicon glyphicon-thumbs-up</iconclass>
-		</link>
-    <link>
-			<name>軟體源管理者－mahmoodma</name>
-			<url>http://apk.tw/space-uid-1391243.html</url>
-			<iconclass>glyphicon glyphicon-user</iconclass>
 		</link>
   </footerlinks>
 </repo>
