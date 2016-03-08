@@ -923,6 +923,22 @@ Author: Adit Kamath <adit@aditkamath.com>
 Depiction: https://repo.aditkamath.com/depictions/com.aditkamath.flame/index.html
 Name: Flame
 
+Package: com.imp0ss1ble.flexconverter
+Version: 0.1.1-1
+Architecture: iphoneos-arm
+Maintainer: imp0ss1ble
+Installed-Size: 132
+Filename: ./debs/com.imp0ss1ble.flexconverter_0.1.1-1_iphoneos-arm.deb
+Size: 9746
+MD5sum: 6b4358328a5f5e1ebad8bdfbbd5e2939
+SHA1: 01cf47ebf4c7a388475822398799f1aaa2cdb661
+SHA256: 90649569e488769910e8b77f0c4feff5aa9330add2b4d1481f475afaa1ea32d2
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: imp0ss1ble
+Name: FlexConverter
+
 Package: com.julioverne.cydown
 Version: 6.0.7.APKTW
 Architecture: iphoneos-arm
