@@ -87,48 +87,6 @@ Icon: file:///Library/PreferenceBundles/DockSettings.bundle/Icon-small@2x.png
 Name: Dock
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: apktw.com.clezz.qdf
-Version: 3.9.2~beta7-1
-Architecture: iphoneos-arm
-Maintainer: Clezz.com <majun3@gmail.com>
-Installed-Size: 6632
-Depends: mobilesubstrate, firmware (>=5.0), preferenceloader (>= 2.0), com.a3tweaks.flipswitch
-Conflicts: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.quickdo, com.clezz.clezzqd, com.clezz.qda, com.clezz.qdb, com.clezz.qdc, com.julioverne.cracktool, com.clezz.qdd, com.clezz.qde
-Replaces: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.quickdo, com.clezz.clezzqd, com.clezz.qda, com.clezz.qdb, com.clezz.qdc, com.julioverne.cracktool, com.clezz.qdd, com.clezz.qde
-Filename: ./debs/apktw.com.clezz.qdf_3.9.2-beta7-1_iphoneos-arm.deb
-Size: 1687916
-MD5sum: af9b36dd58a9b9bfcf1fbbee149a2377
-SHA1: f30a41639c6cd6832cc73a84ee5c9f9b2802cf41
-SHA256: 07c6c4ecaf156dae39a52afc3a51131f91a3c2fcc319330e55764e4f28c41ee1
-Section: Tweaks
-Homepage: http://apk.tw/
-Description: Gestures, shortcuts, toggles, app switcher and multitasking management for iOS.
-Author: Ma Jun <majun3@gmail.com>
-Depiction: https://apktw.github.io/depictions/?p=apktw.com.clezz.qdf
-Icon: file:///Library/PreferenceBundles/QuickDoSettings.bundle/Icon-small.png
-Name: QuickDo (Activator)
-
-Package: apktw.com.clezz.quickdo
-Version: 3.9.2~beta7
-Architecture: iphoneos-arm
-Maintainer: Clezz.com <majun3@gmail.com>
-Installed-Size: 6628
-Depends: mobilesubstrate, firmware (>=5.0), preferenceloader (>= 2.0), com.a3tweaks.flipswitch
-Conflicts: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.qdf, com.clezz.qdb, com.julioverne.cracktool
-Replaces: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.qdf, com.clezz.qdb, com.julioverne.cracktool
-Filename: ./debs/apktw.com.clezz.quickdo_3.9.2-beta7_iphoneos-arm.deb
-Size: 1687906
-MD5sum: 8876b313a1eb048cec0763776f1bfa43
-SHA1: 85239410d9a4a3c395d437c6d3383f52d3a7f786
-SHA256: 7ae6826d9a6fc1828f92e2da19838fc8c8296ca3d7aa2059dab7ee1882dcd91a
-Section: Tweaks
-Homepage: http://apk.tw/
-Description: Gestures, shortcuts, toggles, app switcher and multitasking management for iOS.
-Author: Ma Jun <majun3@gmail.com>
-Depiction: https://apktw.github.io/depictions/?p=apktw.com.clezz.quickdo
-Icon: file:///Library/PreferenceBundles/QuickDoSettings.bundle/Icon-small.png
-Name: QuickDo
-
 Package: apktw.com.clezz.tage
 Version: 1.2-4
 Architecture: iphoneos-arm
@@ -1289,23 +1247,23 @@ Author: Diversityy,Chrizk0@iOSGods
 Depiction: https://apktw.github.io/depictions/?p=tw.apk.taptitans
 Name: Tap Titans Cheats
 
-Package: tw.apk.translate.flame
-Version: 0.2.2
+Package: tw.apk.translate.edge
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: APK.TW
-Depends: mobilesubstrate, com.aditkamath.flame
-Filename: ./debs/tw.apk.translate.flame_0.2.2_iphoneos-arm.deb
-Size: 2142
-MD5sum: 547390a015a29e264d84f6af94225227
-SHA1: 51a7405f41bbec0cb3770ab33e41fede030b9a66
-SHA256: fb8c829afc5750ce95182c861caf64fb0d2205002de0a8d926df0e86c4ba9daa
+Depends: com.cpdigitaldarkroom.edge
+Filename: ./debs/tw.apk.translate.edge_1.0.1_iphoneos-arm.deb
+Size: 1588
+MD5sum: c0e247b4b31b8139ce507d063282b392
+SHA1: 92e209ef77e364c53d1e202fb943f2d66df02ae1
+SHA256: e166758c6a3a6ee190b5a31281d51906d9fdadab92b1cbf7407d94f8ee406842
 Section: Localization
 Homepage: http://apk.tw/
 Description: Translated Traditional Chinese language pack, powered by APK.TW (http://apk.tw/), our official repository is https://apktw.github.io/ .
 Tag: purpose::extension
-Author: BrianHo
-Depiction: https://apktw.github.io/depictions/?p=tw.apk.translate.flame
-Name: Flame [繁化]
+Author: MahmoodMa
+Depiction: https://apktw.github.io/depictions/?p=tw.apk.translate.edge
+Name: Edge [繁化]
 
 Package: tw.apk.triviacrack
 Version: 2.4
